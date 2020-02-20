@@ -46,10 +46,10 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV+
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="INDONESIA",TRANS 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/61/Trans7_logo.png" group-title="INDONESIA",TRANS 7 
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/79/Trans_7_2013.svg" group-title="INDONESIA",TRANS 7+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/61/Trans7_logo.png" group-title="INDONESIA",TRANS 7+
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg"group-title="INDONESIA",TV ONE 
