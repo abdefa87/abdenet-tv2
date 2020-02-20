@@ -549,7 +549,7 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 #EXTINF:0 group-title="ABDE",Arena Sport 4 HR HD
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
-EXTINF:0 group-title="ABDE",Arena Sport 5 HD
+#EXTINF:0 group-title="ABDE",Arena Sport 5 HD
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/922.png" group-title="ABDE",SKY Sport 1 HD
