@@ -537,17 +537,25 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
 
 ###### ABDE ######
 
-#EXTINF:-1 group-title="ABDE",Arena Sport 1 HR HD
+#EXTINF:0 group-title="ABDE",Arena Sport 1 HR HD
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 
-#EXTINF:-1 group-title="ABDE",Arena Sport 2 HR HD
+#EXTINF:0 group-title="ABDE",Arena Sport 2 HR HD
 http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 
-#EXTINF:-1 group-title="ABDE",Arena Sport 3 HR HD
+#EXTINF:0 group-title="ABDE",Arena Sport 3 HR HD
 http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 
-#EXTINF:-1 group-title="ABDE",Arena Sport 4 HR HD
+#EXTINF:0 group-title="ABDE",Arena Sport 4 HR HD
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+
+EXTINF:0 group-title="ABDE",Arena Sport 5 HD
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/922.png" group-title="ABDE",SKY Sport 1 HD
+http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/937.png" group-title="ABDE",Sky Sports 2 HD
+http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
 
 #EXTINF:0 group-title="ABDE"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC SPORTS
 http://skdn.redi-vo.com/iptv/ch3516?code=103131497823984&key=50917
