@@ -148,100 +148,52 @@ https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southea
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SPORT ILUSTRATED
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
-##### INDIHOME #####
 
-#EXTINF:-1 group-title="Indihome",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+##### MOVIES PREMIUM #####
 
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/275-2758389_fox-tv-logo-png.png" group-title="Indihome",FOX
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D895VFw/FOOOX-S1.png" group-title="MOVIES PREMIUM",FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="Indihome",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m6LFmL/FXFAMLYMOV-S1.png" group-title="MOVIES PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Indihome",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r4znxff/FXACTIONMOV-S1.png" group-title="MOVIE PREMIUM",FOX ACTION MOVIES
+http://202.147.204.115/live/eds/FoxActionMovies/sa_hls/FoxActionMovies-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wt307Xb/FXMOV-S1.png" group-title="MOVIE PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.pngg" group-title="Indihome",HBO Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8W1CN1/HBOFAMID-S1.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Indihome",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLNYK/HBOSIGID-S1.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 group-title="Indihome",First Movie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j31qb5K/JEGO-S1.png group-title="MOVIES PREMIUM",First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Indihome",Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="Indihome",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="Indihome",Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Indihome",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+####### ENTERTAINMENT #########
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="Indihome",AXN
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="Indihome",BBC World News
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="Indihome",Bloomberg International
-http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="Indihome",Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Indihome",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
-#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Indihome",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-
-#EXTINF:-1 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="Indihome",CNBC International
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-
-#EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png group-title="Indihome",CNN International
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",Indosiar
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",NAT GEO People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",NAT GEO Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",Setanta Sports
-http://203.153.218.28:9981/stream/channelid/981299476?ticket=3A4FD3607BE4AAC6DAA7E01E60F3218471B987DD&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Indihome",TLC
-http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
-
-
-##### MOVIES #####
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="MOVIES",AXN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqjHpBQ/aexen-S1.png" group-title="ENTERTAINMENT",AXN
 http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:-1 group-title="MOVIES",First Movie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="ENTERTAINMENT",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 
-#EXTINF:-1tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/b02b22d54c73.png" group-title="MOVIES",Zee Bioskop,Zee Bioskop
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cNt1Gwn/BLUEAEXT-S1.png" group-title="ENTERTAINMENT",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+
+
+
+
+######## MOVIES PREMIUM ##############
+
+#EXTINF:-1tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/b02b22d54c73.png" group-title="MOVIES",Zee Bioskop
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Flik
