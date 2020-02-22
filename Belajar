@@ -9,8 +9,9 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN4DNf6/20200221-184145.png" group-title="INDONESIA",MNC TV 2
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-fv_content
-" group-title="INDONESIA",MNC
+
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN4DNf6/20200221-184145.png" group-title="INDONESIA",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ucd4410aa8175ecfc67e66077d0a.previews.dropboxusercontent.com/p/thumb/AAtFkX2j5XZOjI9ZEEMvAnEUM_3XEN2mTrytNxOvNJYYhn8mU2QwVEh1VzISzd9lk42XRlPOCAfJ5jXS6L0x3R1ljQRnofC2U-zeMWOzIoQJ6C7m_vssEYpBAft2xHee1yraQrhA6r0mrONL-SvzbIzKWXaxc4tAYfTzmlWXgZj0fikBQYSvVhBM3TVuIw8CsXbTdgSfAvgUyBQ1EpFrqDMTXGt39m3Cf0SnuXcP1QoKVsyhZaU14tTwHYKpCFZKg5ol18b_GO0qvIPMKRRt8_iS8v91CcNb81RXr_mu2L0facVU_1A5I6wZAYWjPSOFPMxUji-y_NKN0eLA9JqM-yOcJwNDeR7YdYXk0Vb4KeFP2tdL-Wuw5biyDJkPUwK7LWiNvJCfcsai1VR9Q6Lq3aMm/p.png?fv_content=true&size_mode=5" group-title="INDONESIA",ANTV
