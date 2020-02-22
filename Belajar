@@ -5,7 +5,7 @@
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6xXmML/20200221-182805.png" group-title="INDONESIA",RCTI+
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582383605~acl=/hls-p/ingest_665_*/*~hmac=1582211e925871724adbec74cb40d1e3b12a311258c62c8440997bd2db68ae60/hls-p/ingest_665_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN4DNf6/20200221-184145.png" group-title="INDONESIA",MNC TV 2
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
@@ -15,13 +15,13 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTW3C64/20200221-192612.png" group-title="INDONESIA",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8  
+https://etslive-2-vidio-com.akamaized.net/exp=1582383605~acl=/hls-p/ingest_782_*/*~hmac=7c8cc231f43c683f9545db9b7d96797699b28c403aef7b72ea30d5a7d49ed859/hls-p/ingest_782_720p/index.m3u8  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTW3C64/20200221-192612.png" group-title="INDONESIA",ANTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582088493~acl=/hls-p/ingest_782_*/*~hmac=a9b796b7077a4049290f094ed139104cf13bcecd54075d34ec0ceac5a412b032/hls-p/ingest_782_720p/index.m3u8
+https://cdnmdc2.useetv.com/joss/15/antv/chunklist_w1895486516_b894100_sleng.m3u8?enc=rHBzZDZqTfmsQuNbCkDG0Q&exp=1582380482
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMnPhv8/20200221-193314.png" group-title="INDONESIA",SCTV HD
-http://103.146.185.235:8888/live/stress/bersama/9.ts
+https://cdnjt25.useetv.com/joss/15/sctv/chunklist_w1346774330_b1344100_sleng.m3u8?enc=sS6e0x6AgxVViQUjS2bDIQ&exp=1582379701
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMnPhv8/20200221-193314.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -74,7 +74,7 @@ https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kQX3cgD/20200221-205834.png" group-title="INDONESIA",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582383604~acl=/hls-p/ingest_5409_*/*~hmac=82e4f4b86bc0cfbcf416626169c676a2d8ecb27cbfe250f942ca73788e8cca6d/hls-p/ingest_5409_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YsJk7h/abdenet-logo-metrotv.png" group-title="INDONESIA",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
