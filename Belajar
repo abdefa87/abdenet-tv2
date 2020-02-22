@@ -127,7 +127,7 @@ https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southea
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",AWESOME
 https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
 
-#EXTINF:-1, tvg-logo="http://127.0.0.1/" group-title="INDONESIA",B MUSIC SESSION
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",B MUSIC SESSION
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",B MUSIC CONCERT
