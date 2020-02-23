@@ -495,21 +495,21 @@ http://185.180.12.34:8080/SK10/video.m3u8?token=test
 #EXTINF:-1 group-title="ABDE SPORTS",Sportska TV
 http://185.180.12.34:8080/SPORTSKATV/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="ABDE SPORTS",TrueSport HD 1
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport1.png" group-title="ABDE SPORTS",TrueSport HD 1
 https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="ABDE SPORTS",TrueSport HD 2
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport2.png" group-title="ABDE SPORTS",TrueSport HD 2
 https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="ABDE SPORTS",TrueSport HD 3
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport3.png" group-title="ABDE SPORTS",TrueSport HD 3
 https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport4.png" group-title="ABDE SPORTS",TRUE SPORT HD4
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport4.png" group-title="ABDE SPORTS",TrueSport HD 4
 https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport2.png" group-title="ABDE SPORTS",TRUE SPORT 2
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports2.png" group-title="ABDE SPORTS",TRUE SPORT 2
 https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="ABDE SPORTS",TrueSport 5
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports5.png" group-title="ABDE SPORTS",TrueSport 5
 https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="ABDE SPORTS",TrueSport 6
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports6.png" group-title="ABDE SPORTS",TrueSport 6
 https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="ABDE SPORTS",TrueSport 7
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports7.png" group-title="ABDE SPORTS",TrueSport 7
 https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier1.png" group-title="ABDE SPORTS",Premier Football HD 1
@@ -635,7 +635,6 @@ http://123.30.146.182:8080/foxsport/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS CENTER",Fox Sport2
 http://123.30.146.182:8080/foxsport2/video.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS CENTER",Fox Sport3
 http://123.30.146.182:8080/foxsport3/video.m3u8
 
@@ -674,7 +673,7 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="SPORTS CENTER",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="SPORTS CENTER",True Sport HD1
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport1.png" group-title="SPORTS CENTER",True Sport HD1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="SPORTS CENTER",True Sport 2
