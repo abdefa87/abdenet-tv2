@@ -5,7 +5,7 @@
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x6xXmML/20200221-182805.png" group-title="INDONESIA",RCTI+
-https://etslive-2-vidio-com.akamaized.net/exp=1582383605~acl=/hls-p/ingest_665_*/*~hmac=1582211e925871724adbec74cb40d1e3b12a311258c62c8440997bd2db68ae60/hls-p/ingest_665_720p/index.m3u8
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN4DNf6/20200221-184145.png" group-title="INDONESIA",MNC TV 2
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
@@ -30,6 +30,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1582473551~acl=/hls-b/ingest_205_*/*~hmac=0659451e9759ec1380e9117864e7c1ce29c3ece498ce558c43f7c6ea729e2245/hls-b/ingest_205_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR+
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
