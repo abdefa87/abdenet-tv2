@@ -177,28 +177,28 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X3RSX8s/ZBIOS-S1.png" group-title="MOVIES PREMIUM",Zee Bioskop
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="MOVIES PREMIUM",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="MOVIES PREMIUM",CinemaWorld (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0WC0Dw/CNEMAWRLD-S1.png" group-title="MOVIES PREMIUM",Cinema World
 http://210.210.155.35/uq2663/h/h04/01.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLNYK/HBOSIGID-S1.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="MOVIES PREMIUM",Zee Bioskop (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3RSX8s/ZBIOS-S1.png"," group-title="MOVIES PREMIUM",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",HBO Family
+#EXTINF:-1,tvg-logo="https://i.ibb.co/M8W1CN1/HBOFAMID-S1.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D895VFw/FOOOX-S1.png" group-title="MOVIES PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wt307Xb/FXMOV-S1.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m6LFmL/FXFAMLYMOV-S1.png" group-title="MOVIES PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES PREMIUM",Hollywood Movies 1
@@ -216,28 +216,16 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",STAR MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RWf40D/STRMVSHD-S1.png" group-title="MOVIES PREMIUM",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",CINEMA THAI
-http://203.154.243.89:2037
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",ROTANA CINEMA
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",STAR MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RWf40D/STRMVSHD-S1.png" group-title="MOVIES PREMIUM",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES PREMIUM",CINEMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="MOVIES PREMIUM",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES PREMIUM",FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wt307Xb/FXMOV-S1.png" group-title="MOVIES PREMIUM",FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES PREMIUM",CINEMA WORLD
