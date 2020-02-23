@@ -496,22 +496,21 @@ http://185.180.12.34:8080/SK10/video.m3u8?token=test
 http://185.180.12.34:8080/SPORTSKATV/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="ABDE SPORTS",TrueSport HD 1
-https://live.mawintv2.com/02_2sporthd1_720p/chunklist.m3u8
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="ABDE SPORTS",TrueSport HD 2
-https://live.mawintv2.com/02_2sporthd2_720p/chunklist.m3u8
+https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="ABDE SPORTS",TrueSport HD 3
-https://live.mawintv2.com/02_2sporthd3_720p/chunklist.m3u8
+https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport4.png" group-title="ABDE SPORTS",TRUE SPORT HD4
-https://live.mawintv2.com/02_2sporthd4_720p/chunklist.m3u8
+https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport2.png" group-title="ABDE SPORTS",TRUE SPORT 2
-https://live.mawintv2.com/02_sport2_480p/chunklist.m3u8
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="ABDE SPORTS",TrueSport 5
-https://live.mawintv2.com/02_sport5_480p/chunklist.m3u8
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="ABDE SPORTS",TrueSport 6
-https://live.mawintv2.com/02_sport6_480p/chunklist.m3u8
-
+https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="ABDE SPORTS",TrueSport 7
-https://live.mawintv2.com/02_sport7_480p/chunklist.m3u8
+https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl1-2.png" group-title="ABDE SPORTS",Premier Football HD 1
 https://doofree88.com/streaming/epl-x1_720/index.m3u8
