@@ -225,19 +225,19 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="MOVIES PREMIUM",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wt307Xb/FXMOV-S1.png" group-title="MOVIES PREMIUM",FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D895VFw/FOOOX-S1.png" group-title="MOVIES PREMIUM",FOX
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES PREMIUM",CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0WC0Dw/CNEMAWRLD-S1.png" group-title="MOVIES PREMIUM",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g09bSJHX/Hollywood-Movies.png" group-title="MOVIES PREMIUM",Hollywood Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g09bSJHX/Hollywood-Movies.png" group-title="MOVIES PREMIUM",Hollywood Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g09bSJHX/Hollywood-Movies.png" group-title="MOVIES PREMIUM",Hollywood Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
  
 ####### ENTERTAINMENT #########
@@ -251,7 +251,7 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cNt1Gwn/BLUEAEXT-S1.png" group-title="ENTERTAINMENT",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="ENTERTAINMENT",SONY GEM
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sgem.png" group-title="ENTERTAINMENT",SONY GEM
 http://210.210.155.35/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT",Flik
@@ -263,10 +263,10 @@ https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
 #EXTINF:-1 group-title="ENTERTAINMENT",TvN
 https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.ibb.co/4YxdtVb/Image-104.jpg" group-title="ENTERTAINMENT",Sony One
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sone.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.ibb.co/55d34fB/Image-103.jpg" group-title="ENTERTAINMENT",Sony Gem
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sgem.png" group-title="ENTERTAINMENT",Sony Gem
 http://rr.dens.tv/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.ibb.co/7JL00dr/Image-121.jpg" group-title="ENTERTAINMENT",Warner tv
