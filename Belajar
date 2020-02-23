@@ -77,6 +77,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582473554~acl=/hls-p/ingest_5409_
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YsJk7h/abdenet-logo-metrotv.png" group-title="INDONESIA",METRO TV
 https://etslive-2-vidio-com.akamaized.net/exp=1582473551~acl=/hls-b/ingest_777_*/*~hmac=741059340652057db90e24dce4a71287fd18fb2a7b7da892ac9ab2edb57fc833/hls-b/ingest_777_480p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YsJk7h/abdenet-logo-metrotv.png" group-title="INDONESIA",METRO TV +
 https://anevia115.mncnow.id:443/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
@@ -173,7 +174,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="MOVIES PREMIUM",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
-
 #EXTINF:-1tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/b02b22d54c73.png" group-title="MOVIES PREMIUM",Zee Bioskop
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
@@ -188,7 +188,6 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUVOX9K.png" group-title="MOVIES PREMIUM",Zee Bioskop (Opt-1)
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-
 
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
@@ -297,7 +296,6 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="ENTERTAINMENT",Celestial Movies 
 https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPWYoyO.png" group-title="ENTERTAINMENT",Blue Ant Entertainment (Opt-1)
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 
@@ -324,24 +322,24 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigati
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",CELESTIAL MOVIES
 https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",HITS MOVIES
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="ENTERTAINMENT",WOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -349,9 +347,9 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",ZEE BIOSKOP
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ENTERTAINMENT",ZEE BIOSKOP SERVER 2
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
@@ -364,7 +362,6 @@ http://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="BeInSport",BeinSport 1 HD
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="BeInSport",BeinSport 2 HD
 https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
@@ -383,19 +380,19 @@ https://live.mawintv2.com/02_epl2_720p/chunklist.m3u8
 
 ###### ABDE ######
 
-#EXTINF:0 group-title="ABDE SPORTS",Arena Sport 1 HR HD
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp1.png" group-title="ABDE SPORTS",Arena Sport 1 HR HD
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 
-#EXTINF:0 group-title="ABDE SPORTS",Arena Sport 2 HR HD
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp2.png" group-title="ABDE SPORTS",Arena Sport 2 HR HD
 http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 
-#EXTINF:0 group-title="ABDE SPORTS",Arena Sport 3 HR HD
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp3.png" group-title="ABDE SPORTS",Arena Sport 3 HR HD
 http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 
-#EXTINF:0 group-title="ABDE SPORTS",Arena Sport 4 HR HD
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp4.png" group-title="ABDE SPORTS",Arena Sport 4 HR HD
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
-#EXTINF:0 group-title="ABDE SPORTS",Arena Sport 5 HD
+#EXTINF:0 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp5.png" group-title="ABDE SPORTS",Arena Sport 5 HR HD
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/922.png" group-title="ABDE SPORTS",SKY Sport 1 HD
