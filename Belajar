@@ -15,10 +15,10 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTW3C64/20200221-192612.png" group-title="INDONESIA",ANTV
-https://cdn-livetv2.metube.id/hls/antv_480/index.m3u8   
+http://3.0.93.95:25461/LOCAL/ID/10
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTW3C64/20200221-192612.png" group-title="INDONESIA",ANTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582088493~acl=/hls-p/ingest_782_*/*~hmac=a9b796b7077a4049290f094ed139104cf13bcecd54075d34ec0ceac5a412b032/hls-p/ingest_782_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582473552~acl=/hls-p/ingest_782_*/*~hmac=f621d1295d8827dc5d2eff7688d5bd0d5d3cb590623b229aa97a3e7f2d76dc67/hls-p/ingest_782_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMnPhv8/20200221-193314.png" group-title="INDONESIA",SCTV HD
 https://cdnjt25.useetv.com/joss/15/sctv/chunklist_w1346774330_b1344100_sleng.m3u8?enc=sS6e0x6AgxVViQUjS2bDIQ&exp=1582379701
