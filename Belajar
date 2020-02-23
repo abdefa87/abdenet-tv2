@@ -168,13 +168,13 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLNYK/HBOSIGID-S1.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j31qb5K/JEGO-S1.png group-title="MOVIES PREMIUM",First Movie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j31qb5K/JEGO-S1.png" group-title="MOVIES PREMIUM",First Movie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="MOVIES PREMIUM",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
-#EXTINF:-1tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/b02b22d54c73.png" group-title="MOVIES PREMIUM",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3RSX8s/ZBIOS-S1.png" group-title="MOVIES PREMIUM",Zee Bioskop
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIES PREMIUM",Cinemax
