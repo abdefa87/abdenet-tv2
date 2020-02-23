@@ -523,19 +523,19 @@ https://doofree88.com/streaming/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl5.png" group-title="ABDE SPORTS",Premier Football HD 5
 https://doofree88.com/streaming/epl-x5_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsportshd-1.png" group-title="ABDE SPORTS",SKYNET SPORT HD+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/skyhd.png" group-title="ABDE SPORTS",SKYNET SPORT HD
 https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports1.png" group-title="ABDE SPORTS",SKYNET SPORT 1+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky1.png" group-title="ABDE SPORTS",SKYNET SPORT 1
 https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports2.png" group-title="ABDE SPORTS",SKYNET SPORT 2+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky2.png" group-title="ABDE SPORTS",SKYNET SPORT 2
 https://doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports3.png" group-title="ABDE SPORTS",SKYNET SPORT 3+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky3.png" group-title="ABDE SPORTS",SKYNET SPORT 3
 https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports4.png" group-title="ABDE SPORTS",SKYNET SPORT 4+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky4.png" group-title="ABDE SPORTS",SKYNET SPORT 4
 https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports5.png" group-title="ABDE SPORTS",SKYNET SPORT 5+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky5.png" group-title="ABDE SPORTS",SKYNET SPORT 5
 https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png" group-title="ABDE SPORTS",SKYNET SPORT 6+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky6.png" group-title="ABDE SPORTS",SKYNET SPORT 6
 https://doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv1.jpg" group-title="ABDE SPORTS",SPORT TV1
@@ -560,32 +560,6 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1 group-title="ABDE SPORTS",Serie A SD
 http://ott-cdn.ucom.am/s82/03.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",Sky Sports Premier League HD
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsportshd-1.png" group-title="ABDE SPORTS",SKYNET SPORT HD
-https://live.mawintv2.com/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50VYVfbj/Skynet-1.png" group-title="ABDE SPORTS", SKYNET1
-http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHBK1PLh/Skynet-2.png" group-title="ABDE SPORTS", SKYNET2
-http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjc11QK2/skynet-3.png" group-title="ABDE SPORTS", SKYNET3
-http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports4.png" group-title="ABDE SPORTS", SKYNET4
-http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc4wC95k/Skynet-5.png" group-title="ABDE SPORTS", SKYNET5 
-http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7JZ3HSK/Skynet-6.png" group-title="ABDE SPORTS", SKYNET6 
-http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbhXHDD1/Skynet-HD.png" group-title="ABDE SPORTS", SKYNET8
-http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""https://i.ibb.co/4K7NYY2/EGGNETWRK-PPI.png" group-title="ABDE SPORTS",EGG Network 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
