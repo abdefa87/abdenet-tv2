@@ -162,6 +162,9 @@ http://202.147.204.115/live/eds/FoxActionMovies/sa_hls/FoxActionMovies-avc1_2499
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wt307Xb/FXMOV-S1.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/hbo.png" group-title="MOVIES PREMIUM",HBO
+http://123.30.146.182:8080/hbo/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8W1CN1/HBOFAMID-S1.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
