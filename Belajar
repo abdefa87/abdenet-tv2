@@ -1574,3 +1574,74 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" group-title="VIETNAM",VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
+######## MALAYSIA ########
+#EXTINF:-1 tvg-logo="KOSONG" group-title="MALAYSIA",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H9jx8r/RTM1-PPI.png" group-title="MALAYSIA",RTM TV 1 SD
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H9jx8r/RTM1-PPI.png" group-title="MALAYSIA",RTM TV 1 HD
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RY348Hg/RTM2-PPI.png" group-title="MALAYSIA",RTM TV 2 SD
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RY348Hg/RTM2-PPI.png" group-title="MALAYSIA",RTM TV 2 HD
+https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z204XPJ/TV3-PPI.png" group-title="MALAYSIA",TV 3 HD
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="MALAYSIA",TV 7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="MALAYSIA",TV 8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="MALAYSIA",TV 9 HD
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMdd1kb/DRAMASANGAT-PPI.png" group-title="MALAYSIA",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMdd1kb/DRAMASANGAT-PPI.png" group-title="MALAYSIA",Drama Sangat 2
+https://dl.dropbox.com/s/z6h1eptmtf5ttlm/Drama%20Sangat.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LY9ryn1/BERNAMA-PPI.png" group-title="MALAYSIA",Bernama TV
+http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZcQsm5/RTB-SUKMAINDERA-PPI.png" group-title="MALAYSIA",RTB Sukmaindera
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kj2vHR1/RTMOKEY-PPI.png" group-title="MALAYSIA",RTM Okey
+https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kj2vHR1/RTMOKEY-PPI.png" group-title="MALAYSIA",RTM Okey HD
+https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSF5VY8/BERITARTM-PPI.png"" group-title="MALAYSIA",RTM Saluran Berita
+https://rtm3hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b364000.m3u8","https://i.ibb.co/mSF5VY8/BERITARTM-PPI.png","null","0","0",""
+
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/mSF5VY8/BERITARTM-PPI.png" group-title="MALAYSIA",TViKiM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJygcrH/ASTROAWANI-PPI.png" group-title="MALAYSIA",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q9XbVZ/ASTRORIA-PPI.png" group-title="MALAYSIA",Astro Ria
+http://198.255.5.58:9981/stream/channelid/1650442089?ticket=C0FB2C371753FA32A62E30C48F9008E23A7DF41C&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxkZLh8/ASTROCITRA-PPI.png" group-title="MALAYSIA",astro citra
+http://198.255.5.58:9981/stream/channelid/1939886682?ticket=2F48E8A83A3CF11BC857D874273380A04E72A4C3&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHzHmtX/ASTROAEC-PPI.png" group-title="MALAYSIA",Astro AEC
+http://198.255.5.58:9981/stream/channelid/181897265?ticket=38FCE7764EEA964EBE1CB480DBD3630E565A2579&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6s5xmGR/ASTRO-PRIMA-PPI.png" group-title="MALAYSIA",astro prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=74699917&ct=18190&tsum=10f07979a326b9083270f13d653b19a4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCZyM4d/ASTROOASIS-PPI.png" group-title="MALAYSIA",astro oasis
+http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822a8792082efdf2edb758e491
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qCV5HJ6/ASTROBOO-PPI.png" group-title="MALAYSIA",Boo
+http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
