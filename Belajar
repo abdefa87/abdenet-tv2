@@ -62,44 +62,44 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56xRn57/20200225-002238.png" group-title="INDONESIA",TV ONE +
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0V0D688/20200221-212141.png" group-title="INDONESIA",TRANS TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMXpHvZ/20200225-003051.png" group-title="INDONESIA",TRANS TV 
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0V0D688/20200221-212141.png" group-title="INDONESIA",TRANS TV+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMXpHvZ/20200225-003051.png" group-title="INDONESIA",TRANS TV+
 https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJDM6Q8/20200221-211515.png" group-title="INDONESIA",RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgqXxCm/20200225-002941.png" group-title="INDONESIA",RTV
 http://165.22.104.84:25461/live/mymovon/mymovon/23.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJDM6Q8/20200221-211515.png" group-title="INDONESIA",RTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgqXxCm/20200225-002941.png" group-title="INDONESIA",RTV 2
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQX3cgD/20200221-205834.png" group-title="INDONESIA",INEWS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4tXX2q/20200225-002518.png" group-title="INDONESIA",INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8YsJk7h/abdenet-logo-metrotv.png" group-title="INDONESIA",METRO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh8Q987/20200225-002629.png" group-title="INDONESIA",METRO TV
 https://etslive-2-vidio-com.akamaized.net/exp=1582473551~acl=/hls-b/ingest_777_*/*~hmac=741059340652057db90e24dce4a71287fd18fb2a7b7da892ac9ab2edb57fc833/hls-b/ingest_777_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8YsJk7h/abdenet-logo-metrotv.png" group-title="INDONESIA",METRO TV +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh8Q987/20200225-002629.png" group-title="INDONESIA",METRO TV +
 https://anevia115.mncnow.id:443/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m9dKq4C/abdenet-logo-cnnindonesia.png" group-title="INDONESIA",CNN Indonesia SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dL0nR3n/20200225-002800.png" group-title="INDONESIA",CNN Indonesia SD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m9dKq4C/abdenet-logo-cnnindonesia.png" group-title="INDONESIA",CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dL0nR3n/20200225-002800.png" group-title="INDONESIA",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNrLM32/abdenet-cbncindonesia.png" group-title="INDONESIA",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggHg8JX/20200225-004150.png" group-title="INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dP1F6XS/20200222-161816.png" group-title="INDONESIA",TVRI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WtcT24F/20200225-003228.png" group-title="INDONESIA",TVRI
 http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5FvjhWT/20200222-162009.png" group-title="INDONESIA",JTV SURABAYA
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2k07X2/20200222-162201.png" group-title="INDONESIA",JGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2k07X2/20200222-162201.png" group-title="INDONESIA",JGO MOVIES
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqNbVZq/20200222-162513.png" group-title="INDONESIA",KOMPAS TV 
