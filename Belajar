@@ -1364,3 +1364,213 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1PqcBD/TEVERIID-S1.png" group-title="NASIONAL",TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+
+####### VIETNAM #######
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VIETNAM",VTV 1
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv1-mid.m3u8?/stream/ch/VTV1Edhorizki/PPIIPTV/Authsign=891238534201
+
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="VIETNAM",VTV 2
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv1-high.m3u8?/stream/ch/VTV1HDEdhorizki/PPIIPTV/Authsign=89129243570
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/12.png" group-title="VIETNAM",VTV 2
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv2-mid.m3u8?/stream/ch/VTV2Edhorizki/PPIIPTV/Authsign=891259764302","https://mytv.com.vn/upload/channel/12.png","null","0","0",""
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/12.png" group-title="VIETNAM",VTV 2 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv2-high.m3u8?/stream/ch/VTV2HDEdhorizki/PPIIPTV/Authsign=89126925319
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VIETNAM",VTV 3
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv3-mid.m3u8?/stream/ch/VTV3Edhorizki/PPIIPTV/Authsign=891287574535
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/3.png" group-title="VIETNAM",VTV 3 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv3-high.m3u8?/stream/ch/VTV3HDEdhorizki/PPIIPTV/Authsign=89138474480
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/54.png" group-title="VIETNAM",VTV 4
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv4-mid.m3u8?/stream/ch/VTV4Edhorizki/PPIIPTV/Authsign=891367327893
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/54.png" group-title="VIETNAM",VTV 4 HDhttp://awscf-live-global.vtvgo.vn/live/_definst_/vtv4-high.m3u8?/stream/ch/VTV4HDEdhorizki/PPIIPTV/Authsign=89139246368
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/55.png" group-title="VIETNAM",VTV 5
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv5-mid.m3u8?/stream/ch/VTV5Edhorizki/PPIIPTV/Authsign=891497619235
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/55.png" group-title="VIETNAM",VTV 5 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv5-high.m3u8?/stream/ch/VTV5HDEdhorizki/PPIIPTV/Authsign=89140955311
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VIETNAM",VTV 6
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv6-mid.m3u8?/stream/ch/VTV6Edhorizki/PPIIPTV/Authsign=891583639211
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/6.png" group-title="VIETNAM",VTV 6 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv6-high.m3u8?/stream/ch/VTV6HDEdhorizki/PPIIPTV/Authsign=89159174801
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/php3w6cE3_5d75c22f80382.png" group-title="VIETNAM",VTV 7
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv7-mid.m3u8?/stream/ch/VTV7Edhorizki/PPIIPTV/Authsign=891692683689
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/php3w6cE3_5d75c22f80382.png" group-title="VIETNAM",VTV 7 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv7-high.m3u8?/stream/ch/VTV7HDEdhorizki/PPIIPTV/Authsign=89179135694
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/115.png" group-title="VIETNAM",VTV 8
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv8-mid.m3u8?/stream/ch/VTV8Edhorizki/PPIIPTV/Authsign=891729467258
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/115.png" group-title="VIETNAM",VTV 8 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv8-high.m3u8?/stream/ch/VTV8HDEdhorizki/PPIIPTV/Authsign=89176953239
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/69.png" group-title="VIETNAM",VTV 9
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv9-mid.m3u8?/stream/ch/VTV9Edhorizki/PPIIPTV/Authsign=891812894738
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/69.png" group-title="VIETNAM",VTV 9 HD
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv9-high.m3u8?/stream/ch/VTV9HDEdhorizki/PPIIPTV/Authsign=89195732826
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/55.png" group-title="VIETNAM",VTV 5 TNB
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv5tnb-high.m3u8?/stream/ch/VTV5TNBEdhorizki/PPIIPTV/Authsign=89209968386
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/55.png" group-title="VIETNAM",VTV 5 TN
+http://awscf-live-global.vtvgo.vn/live/_definst_/vtv5tn-high.m3u8?/stream/ch/VTV5TNEdhorizki/PPIIPTV/Authsign=892195673257
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/105718-VTC1HD.png" group-title="VIETNAM",VTC 1
+http://xemtivi.online/live/vtc/vtc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/21.png" group-title="VIETNAM",VTC 2
+http://xemtivi.online/live/vtc/vtc2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/692541-VTC3HD.png" group-title="VIETNAM",VTC 3
+http://xemtivi.online/live/vtc/vtc3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/358037-VTC4.png" group-title="VIETNAM",VTC 4
+http://xemtivi.online/live/vtc/vtc4/playlist.m3u8
+
+"#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/135.png" group-title="VIETNAM",VTC 5
+http://xemtivi.online/live/vtc/vtc5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/23.png" group-title="VIETNAM",VTC 6
+http://xemtivi.online/live/vtc/vtc6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/188.png" group-title="VIETNAM",VTC 7
+http://xemtivi.online/live/vtc/vtc7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/164.png" group-title="VIETNAM",VTC 8
+http://xemtivi.online/live/vtc/vtc8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/25.png" group-title="VIETNAM",VTC 9
+http://xemtivi.online/live/vtc/vtc9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/116.png" group-title="VIETNAM",VTC 10
+http://xemtivi.online/live/vtc/vtc10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/26.png" group-title="VIETNAM",VTC 11
+http://xemtivi.online/live/vtc/vtc11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/78.png" group-title="VIETNAM",VTC 13
+http://xemtivi.online/live/vtc/vtc13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/207.png" group-title="VIETNAM",VTC 14
+http://xemtivi.online/live/vtc/vtc14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/206.png" group-title="VIETNAM",VTC 16
+http://xemtivi.online/live/vtc/vtc16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://atv.org.vn/lib/images/logo.png" group-title="VIETNAM",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/35.png" group-title="VIETNAM",ATV
+http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/524177-anninh.png" group-title="VIETNAM",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/613.png" group-title="VIETNAM",BPTV 1
+http://118.69.197.145/hls/bptv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/612.png" group-title="VIETNAM",BPTV 2
+http://118.69.197.145/hls/bptv2.m3u8
+
+#EXTINF:-1 tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" group-title="VIETNAM",BRT
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/06/707779-Binh-Thuan.png" group-title="VIETNAM",BTV
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w338975695.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/691.png" group-title="VIETNAM",Cà Mau TV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/709843-DN1.png" group-title="VIETNAM",Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png" group-title="VIETNAM",Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/471.png" group-title="VIETNAM",DRT
+http://118.69.161.10:8134/liveevent.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="VIETNAM",Hanoi TV1
+http://hanoitvlive.488983e6.sabai.vn/hanoi1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="VIETNAM",Hanoi TV2
+"http://hanoitvlive.488983e6.sabai.vn/hanoi2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="VIETNAM",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/892.png" group-title="VIETNAM",Hưng Yên
+http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/107651-KienGiang.png" group-title="VIETNAM",Kiên Giang
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/174679-Kieng-Giang-1.png" group-title="VIETNAM",Kiên Giang 1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/821.png" group-title="VIETNAM",KRT
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+
+#EXTINF:-1 tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" group-title="VIETNAM",LA34
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png" group-title="VIETNAM",Nghệ An
+https://live.truyenhinhnghean.vn/live/na1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="VIETNAM",Nhân Dân
+http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/781.png" group-title="VIETNAM",PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/764456-QRT.png" group-title="VIETNAM",QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" group-title="VIETNAM",Quốc Hội
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://thbt.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png" group-title="VIETNAM",THBT
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png" group-title="VIETNAM",THDT
+http://202.43.109.142:1935/THDT/thdttv/chunklist_w1073711647.m3u8
+
+#EXTINF:-1 tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png" group-title="VIETNAM",THTPCT
+https://tv.canthotv.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="VIETNAM",THHN
+http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/241.png" group-title="VIETNAM",THLC
+http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/241.png" group-title="VIETNAM",THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" group-title="VIETNAM",THTG
+http://thtg.vn:8001/thtg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ug3S4quT0yI/maxresdefault_live.jpg" group-title="VIETNAM",TN1
+http://thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="VIETNAM",TTXVN
+http://live.vnanet.vn/VnewsLive_Android.m3u8
+
+#EXTINF:-1 tvg-logo="http://i0.wp.com/vbstelevision.com/wp-content/uploads/2016/04/cropped-logo512x512.png" group-title="VIETNAM",VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" group-title="VIETNAM",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
