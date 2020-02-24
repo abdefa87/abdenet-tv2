@@ -20,7 +20,7 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 http://3.0.93.95:25461/LOCAL/ID/10
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTW3C64/20200221-192612.png" group-title="INDONESIA",ANTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582473552~acl=/hls-p/ingest_782_*/*~hmac=f621d1295d8827dc5d2eff7688d5bd0d5d3cb590623b229aa97a3e7f2d76dc67/hls-p/ingest_782_480p/index.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VMnPhv8/20200221-193314.png" group-title="INDONESIA",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1582473550~acl=/hls-b/ingest_204_*/*~hmac=9eb32e0ecde6b62cbfa8567ec1b77c992ea9d9be6eade0f47234d5461632e393/hls-b/ingest_204_480p/index.m3u8
