@@ -10,7 +10,6 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnzPsDC/RECTID-S1.png" group-title="INDONESIA",RCTI FHD
 https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8?vhost=__defaultVhost__
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN4DNf6/20200221-184145.png" group-title="INDONESIA",MNC TV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
@@ -30,8 +29,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582473550~acl=/hls-b/ingest_204_*
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR
-https://tvbeta.my.id/loggos/televisi/hbo.png
-
+https://raw.githubusercontent.com/ivikmkc/ardiantozal/master/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR+
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
