@@ -32,7 +32,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 https://raw.githubusercontent.com/ivikmkc/ardiantozal/master/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR+
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR HD
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
