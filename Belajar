@@ -76,7 +76,7 @@ https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kQX3cgD/20200221-205834.png" group-title="INDONESIA",INEWS
-https://etslive-2-vidio-com.akamaized.net/exp=1582473554~acl=/hls-p/ingest_5409_*/*~hmac=a72d8106a73c7e340a79d41104553db1b3c0d85fef301589f65882ee66f217af/hls-p/ingest_5409_480p/index.m3u8
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YsJk7h/abdenet-logo-metrotv.png" group-title="INDONESIA",METRO TV
 https://etslive-2-vidio-com.akamaized.net/exp=1582473551~acl=/hls-b/ingest_777_*/*~hmac=741059340652057db90e24dce4a71287fd18fb2a7b7da892ac9ab2edb57fc833/hls-b/ingest_777_480p/index.m3u8
