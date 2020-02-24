@@ -26,7 +26,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582473550~acl=/hls-b/ingest_204_*
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1582473551~acl=/hls-b/ingest_205_*/*~hmac=0659451e9759ec1380e9117864e7c1ce29c3ece498ce558c43f7c6ea729e2245/hls-b/ingest_205_480p/index.m3u8
+https://tvbeta.my.id/loggos/televisi/hbo.png
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7bPxR6/20200221-202041.png" group-title="INDONESIA",INDOSIAR+
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
