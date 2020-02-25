@@ -151,6 +151,32 @@ https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southea
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SPORT ILUSTRATED
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
+#### FEED SPORTS #####
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd1.png" group-title="FEED SPORTS",bein1 
+https://edgejt6.useetv.com/joss/17/bein1/chunklist_w1499891334_b8128000_sleng.m3u8?enc=X0LeRmqSMlADEZPdHWMrfg&exp=1582636682
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd2.png" group-title="FEED SPORTS",bein2 
+https://cdnbpp1.useetv.com/joss/17/bein2/chunklist_w1780775633_b1344100_sleng.m3u8?enc=2Waun4Sgxwrjfz-OiXKwQw&exp=1582636803
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/useesports.png" group-title="FEED SPORTS",useesports 1
+https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w2071428099_b1344100_sleng.m3u8?enc=3k2epzGnQLA6_0MZgfZHHw&exp=1582636685
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/useesports2.png" group-title="FEED SPORTS",useesports 2
+https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w861219290_b1344100_sleng.m3u8?enc=pNBstCEBu5UO6PdcNWq3cg&exp=1582637707
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsport.png" group-title="FEED SPORTS",foxsport1 
+https://cdnkbl2.useetv.com/joss/17/foxsport1/chunklist_w545784940_b1344100_sleng.m3u8?enc=2-imQ5oRu7PY7VLyIopQKA&exp=1582636802
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports2.png" group-title="FEED SPORTS",foxsport2 
+https://cdnmdc1.useetv.com/joss/17/foxsport2/chunklist_w574345979_b1344100_sleng.m3u8?enc=2VjBl_-nFdX7PZFzG5BqJw&exp=1582637774
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",foxsport3 
+https://cdnbpp1.useetv.com/joss/17/foxsport3/chunklist_w137794759_b1344100_sleng.m3u8?enc=qSQpb837tq8SZzLB9dVxMw&exp=1582637765
+
+
+
+
+
 ##### MOVIES PREMIUM #####
 
 
