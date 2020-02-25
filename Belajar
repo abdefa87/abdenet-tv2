@@ -22,10 +22,10 @@ http://3.0.93.95:25461/LOCAL/ID/10
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynPfs2d/20200225-001822.png" group-title="INDONESIA",SCTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1582473550~acl=/hls-b/ingest_204_*/*~hmac=9eb32e0ecde6b62cbfa8567ec1b77c992ea9d9be6eade0f47234d5461632e393/hls-b/ingest_204_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynPfs2d/20200225-001822.png" group-title="INDONESIA",SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR
@@ -102,32 +102,32 @@ https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHpLnN0/20200225-091225.png" group-title="INDONESIA",JGO MOVIES
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G9X9dMB/20200225-011039.png" group-title="INDONESIA",KOMPAS TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA",KOMPAS TV 
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9pVJ3tS/20200225-003539.png" group-title="INDONESIA",BERITA SATU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMJTq5Z/20200225-004614.png" group-title="INDONESIA",USee Photo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgVWyMy/20200225-004439.png" group-title="INDONESIA",USee Prime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Krcx9Rj/20200225-092828.png" group-title="INDONESIA",USee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qf945rb/20200225-005158.png" group-title="INDONESIA",ID KU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q3x3vd/20200225-003806.png" group-title="INDONESIA",Ruang Terampil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xg7VkvJ/20200225-092218.png" group-title="INDONESIA",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FqkCvtg/20200225-004310.png" group-title="INDONESIA",CLUBING TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCmgGg3/20200225-092702.png" group-title="INDONESIA",CLUBING TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLjZf3z/20200225-004013.png" group-title="INDONESIA",MY TV
+#EXTINF:-1 tvg-logo="https://ibb.co/r6GM2mR" group-title="INDONESIA",MY TV
 https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hYs10ZS/20200225-004820.png" group-title="INDONESIA",AWESOME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Nz9rkR/20200225-093118.png" group-title="INDONESIA",AWESOME
 https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",B MUSIC SESSION
@@ -139,7 +139,7 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBJSBjF/20200225-062606.png" group-title="INDONESIA",JAWAPOS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2gymh4/20200225-093654.png" group-title="INDONESIA",JAWAPOS TV
 https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NIFTY
