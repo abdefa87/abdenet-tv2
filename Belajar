@@ -352,14 +352,14 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 ######## BeIn Sport ########
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
-#EXTVLCOPT:http-user-agent=raeed
-http://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
+#EXTVLCOPT:http-user-agent=raeedhttp://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
+https://edgejt6.useetv.com/joss/17/bein1/chunklist_w1499891334_b8128000_sleng.m3u8?enc=X0LeRmqSMlADEZPdHWMrfg&exp=1582636682
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="BeInSport",BeinSport 1 HD
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+https://edgejt6.useetv.com/joss/17/bein1/chunklist_w1499891334_b8128000_sleng.m3u8?enc=X0LeRmqSMlADEZPdHWMrfg&exp=1582636682
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="BeInSport",BeinSport 2 HD
-https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+https://cdnbpp1.useetv.com/joss/17/bein2/chunklist_w1780775633_b1344100_sleng.m3u8?enc=2Waun4Sgxwrjfz-OiXKwQw&exp=1582636803
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="BeInSport",BeinSport 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
