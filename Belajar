@@ -292,7 +292,8 @@ http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd11.png" group-title="FEED SPORTS",beIN Sports 11
 http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd12.png" group-title="FEED SPORTS",beIN Sports 12http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8?
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd12.png" group-title="FEED SPORTS",beIN Sports 12
+http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8?
 
 
 
