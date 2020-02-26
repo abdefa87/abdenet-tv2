@@ -197,32 +197,32 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQwXqZz/20200226-220924.png" group-title="FEED SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_HD_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/lfctv.png" group-title="FEED SPORTS",LFC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7KK5Q3s/20200226-230335.png" group-title="FEED SPORTS",LFC TV
 https://doofree88.com/streaming/uk-lfctv_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sport1.png" group-title="FEED SPORTS",Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SKkCtCQ/20200226-225851.png" group-title="FEED SPORTS",Sport 1
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/eurosp1.png" group-title="FEED SPORTS",Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpV5Rvv/20200226-230938.png" group-title="FEED SPORTS",Eurosport 1
 http://ott.artmott.com/eurosport1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/eurosp2.png" group-title="FEED SPORTS",Eurosport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
 http://ott.artmott.com/eurosport2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp1.png" group-title="FEED SPORTS",Arena Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp2.png" group-title="FEED SPORTS",Arena Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQntSy8/20200226-232206.png" group-title="FEED SPORTS",Arena Sport 2
 http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp3.png" group-title="FEED SPORTS",Arena Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfnTc2f/20200226-232450.png" group-title="FEED SPORTS",Arena Sport 3
 http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp4.png" group-title="FEED SPORTS",Arena Sport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DR999jv/20200226-232903.png" group-title="FEED SPORTS",Arena Sport 4
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp5.png" group-title="FEED SPORTS",Arena Sport 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",FOX Sports
@@ -240,19 +240,19 @@ https://doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
 https://doofree88.com/streaming/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp1.png" group-title="FEED SPORTS",Arena Sport 1+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1+
 https://doofree88.com/streaming/rs-arena1_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp2.png" group-title="FEED SPORTS",Arena Sport 2+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQntSy8/20200226-232206.png" group-title="FEED SPORTS",Arena Sport 2+
 https://doofree88.com/streaming/rs-arena2_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp3.png" group-title="FEED SPORTS",Arena Sport 3+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfnTc2f/20200226-232450.png" group-title="FEED SPORTS",Arena Sport 3+
 https://doofree88.com/streaming/rs-arena3_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp4.png" group-title="FEED SPORTS",Arena Sport 4+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DR999jv/20200226-232903.png" group-title="FEED SPORTS",Arena Sport 4+
 https://doofree88.com/streaming/rs-arena4_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp5.png" group-title="FEED SPORTS",Arena Sport 5+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5+
 https://doofree88.com/streaming/rs-arena5_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss1.png" group-title="FEED SPORTS",SuperSport 1
