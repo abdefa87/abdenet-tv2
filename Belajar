@@ -240,7 +240,8 @@ https://doofree88.com/streaming/al-supersports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss4.png" group-title="FEED SPORTS",SuperSport 4
 https://doofree88.com/streaming/al-supersports4_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss5.png" group-title="FEED SPORTS",SuperSport 5","Sports","6","0","https://doofree88.com/streaming/al-supersports5_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss5.png" group-title="FEED SPORTS",SuperSport 5
+https://doofree88.com/streaming/al-supersports5_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sportdigital.png" group-title="FEED SPORTS",Sport Digital
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
