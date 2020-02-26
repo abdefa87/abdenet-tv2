@@ -332,19 +332,19 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES PREMIUM",Hollywood Movies 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="MOVIES PREMIUM",Hollywood Movies 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",MOVIES HOLLYWOOD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",MOVIES HOLLYWOOD
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",Hollywood Movies 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies 2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",Hollywood Movies 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYvVnV7/20200225-112416.png" group-title="MOVIES PREMIUM",STAR MOVIES
@@ -362,13 +362,13 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",Hollywood Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",Hollywood Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",Hollywood Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
  
 ####### ENTERTAINMENT #########
