@@ -152,6 +152,142 @@ https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southea
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
 #### FEED SPORTS #####
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsport.png" group-title="FEED SPORTS",FOX SPORTS
+http://123.30.146.182:8080/foxsport/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports2.png" group-title="FEED SPORTS",FOX SPORTS 2
+http://123.30.146.182:8080/foxsport2/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",FOX SPORTS 3
+http://123.30.146.182:8080/foxsport3/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sonysix.png" group-title="FEED SPORTS", Sony SIX
+https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ten1.png" group-title="FEED SPORTS",Sony TEN 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ten2.png" group-title="FEED SPORTS",Sony TEN 2
+https://streamer-1.toffeelive.com/live/ten_2_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ten3.png" group-title="FEED SPORTS",Sony TEN 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sonyespn.png" group-title="FEED SPORTS",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_HD_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/lfctv.png" group-title="FEED SPORTS",LFC TV
+https://doofree88.com/streaming/uk-lfctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sport1.png" group-title="FEED SPORTS",Sport 1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/eurosp1.png" group-title="FEED SPORTS",Eurosport 1
+http://ott.artmott.com/eurosport1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/eurosp2.png" group-title="FEED SPORTS",Eurosport 2
+http://ott.artmott.com/eurosport2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp1.png" group-title="FEED SPORTS",Arena Sport 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp2.png" group-title="FEED SPORTS",Arena Sport 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp3.png" group-title="FEED SPORTS",Arena Sport 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp4.png" group-title="FEED SPORTS",Arena Sport 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp5.png" group-title="FEED SPORTS",Arena Sport 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsport.png" group-title="FEED SPORTS",FOX Sports
+https://doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports2.png" group-title="FEED SPORTS",FOX Sports 2
+https://doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",FOX Sports 3
+https://doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinsports1.png" group-title="FEED SPORT",beIN Sports 1
+https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinsports1.png" group-title="FEED SPORTS",beIN Sports 2
+https://doofree88.com/streaming/epl-bein2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp1.png" group-title="FEED SPORTS",Arena Sport 1+
+https://doofree88.com/streaming/rs-arena1_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp2.png" group-title="FEED SPORTS",Arena Sport 2+
+https://doofree88.com/streaming/rs-arena2_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp3.png" group-title="FEED SPORTS",Arena Sport 3+
+https://doofree88.com/streaming/rs-arena3_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp4.png" group-title="FEED SPORTS",Arena Sport 4+
+https://doofree88.com/streaming/rs-arena4_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/arenasp5.png" group-title="FEED SPORTS",Arena Sport 5+
+https://doofree88.com/streaming/rs-arena5_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss1.png" group-title="FEED SPORTS",SuperSport 1
+https://doofree88.com/streaming/al-supersports1_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss2.png" group-title="FEED SPORTS",SuperSport 2
+https://doofree88.com/streaming/al-supersports2_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss3.png" group-title="FEED SPORTS",SuperSport 3
+https://doofree88.com/streaming/al-supersports3_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss4.png" group-title="FEED SPORTS",SuperSport 4
+https://doofree88.com/streaming/al-supersports4_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/ss5.png" group-title="FEED SPORTS",SuperSport 5","Sports","6","0","https://doofree88.com/streaming/al-supersports5_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sportdigital.png" group-title="FEED SPORTS",Sport Digital
+http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd1.png" group-title="FEED SPORTS",beIN Sports 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd2.png" group-title="FEED SPORTS",beIN Sports 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd3.png" group-title="FEED SPORTS",beIN Sports 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd4.png" group-title="FEED SPORTS",beIN Sports 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd5.png" group-title="FEED SPORTS",beIN Sports 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd6.png" group-title="FEED SPORTS",beIN Sports 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd7.png" group-title="FEED SPORTS",beIN Sports 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd8.png" group-title="FEED SPORTS",beIN Sports 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd9.png" group-title="FEED SPORTS",beIN Sports 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd10.png" group-title="FEED SPORTS",beIN Sports 10
+http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd11.png" group-title="FEED SPORTS",beIN Sports 11
+http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd12.png" group-title="FEED SPORTS",beIN Sports 12http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8?
+
+
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd1.png" group-title="FEED SPORTS",bein1 
 https://cdnbpp1.useetv.com/joss/17/bein1/chunklist_w149065660_b8128000_sleng.m3u8?enc=6C41xXRMY5zN1W0SPcq03A&exp=1582648502
 
