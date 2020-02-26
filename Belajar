@@ -153,14 +153,7 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 
 #### FEED SPORTS #####
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsport.png" group-title="FEED SPORTS",FOX SPORTS
-http://123.30.146.182:8080/foxsport/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports2.png" group-title="FEED SPORTS",FOX SPORTS 2
-http://123.30.146.182:8080/foxsport2/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",FOX SPORTS 3
-http://123.30.146.182:8080/foxsport3/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sonysix.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
@@ -214,7 +207,7 @@ https://doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",FOX Sports 3
 https://doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinsports1.png" group-title="FEED SPORT",beIN Sports 1
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinsports1.png" group-title="FEED SPORTS",beIN Sports 1
 https://doofree88.com/streaming/epl-bein1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinsports1.png" group-title="FEED SPORTS",beIN Sports 2
