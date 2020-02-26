@@ -412,7 +412,7 @@ http://210.210.155.66/h/h141/02.m3u8
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cNt1Gwn/BLUEAEXT-S1.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",SONY GEM
 http://210.210.155.35/uq2663/h/h19/index.m3u8
@@ -445,7 +445,7 @@ http://cybervision.us.to:8989/live/iptvku/iptvku/237.ts
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lvfpg2w/CELESMV-S1.png" group-title="ENTERTAINMENT",Celestial Movies 
-https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vtX94w/BLUEANTEDENTER-S1.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
