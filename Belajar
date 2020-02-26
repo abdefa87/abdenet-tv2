@@ -505,28 +505,6 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
 
-######## BeIn Sport ########
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
-#EXTVLCOPT:http-user-agent=raeedhttp://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
-https://edgejt6.useetv.com/joss/17/bein1/chunklist_w1499891334_b8128000_sleng.m3u8?enc=X0LeRmqSMlADEZPdHWMrfg&exp=1582636682
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="BeInSport",BeinSport 1 HD
-https://edgejt6.useetv.com/joss/17/bein1/chunklist_w1499891334_b8128000_sleng.m3u8?enc=X0LeRmqSMlADEZPdHWMrfg&exp=1582636682
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="BeInSport",BeinSport 2 HD
-https://cdnbpp1.useetv.com/joss/17/bein2/chunklist_w1780775633_b1344100_sleng.m3u8?enc=2Waun4Sgxwrjfz-OiXKwQw&exp=1582636803
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTyW3Wcq/bein1.png" group-title="BeInSport",BeinSport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nqq7L0/bein2.png" group-title="BeInSport",BeinSport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/epl-bein1.png" group-title="BeInSport",BEIN SPORT HD 1
-https://live.mawintv2.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/epl-bein2.png" group-title="BeInSport",BEIN SPORT HD 2
-https://live.mawintv2.com/02_epl2_720p/chunklist.m3u8
 
 
 ###### ABDE ######
@@ -551,67 +529,6 @@ http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/937.png" group-title="ABDE SPORTS",Sky Sports 2 HD
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
-
-#EXTINF:0 group-title="ABDE SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC SPORTS
-http://skdn.redi-vo.com/iptv/ch3516?code=103131497823984&key=50917
-
-#EXTINF:-1 group-title="ABDE SPORTS",Футбол 1 HD
-https://46-166-139-148.livesports24.online/uafootballua1.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",Футбол 2 HD
-https://46-166-139-148.livesports24.online/fooootball2.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",Беларусь 5
-https://46-166-139-148.livesports24.online/belarusss5.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ!
-https://46-166-139-148.livesports24.online/ooomatch.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",Матч! Игра
-https://46-166-139-148.livesports24.online/migra.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Боец
-https://46-166-139-148.livesports24.online/matchboetsru.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Планета
-https://46-166-139-148.livesports24.online/matchplanetarus.m3u8
-
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Премьер
-https://46-166-139-148.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Страна
-https://46-166-139-148.livesports24.online/mnashsport.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Футбол 1
-https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Футбол 2
-https://46-166-139-148.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",МАТЧ! Футбол 3
-https://46-166-139-148.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Setanta Sports ua
-https://46-166-139-148.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Setanta Sports
-https://46-166-139-148.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Eurosport 1
-https://46-166-139-148.livesports24.online/eurosport1ru.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Eurosport 2
-https://46-166-139-148.livesports24.online/ruseurosport2.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",КХЛ HD
-https://46-166-139-148.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Sport 1 ua
-https://46-166-139-148.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Матч!
-http://46.165.2.202:8080/matchtv/index.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Матч!
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Setanta Sports 1
-http://178.124.183.6:80/hls/FWHTTL8YXU_HLS/variant.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Setanta Sports 2
-http://178.124.183.6:80/hls/5T3FNFICQ4_HLS/variant.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",КХЛ
-http://178.124.183.6:80/hls/36H3IDE2WF_HLS/variant.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Беларусь 5
-http://178.124.183.6:80/hls/JRKVSUPCP8_HLS/variant.m3u8
-#EXTINF:-1 group-title="ABDE SPORTS",Матч! Премьер
-http://188.191.36.106:8080/hls/nashfutbol.m3u8
 
 #EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 1 
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
