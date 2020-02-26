@@ -273,43 +273,6 @@ https://doofree88.com/streaming/al-supersports5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PXWyjb/20200227-001918.png" group-title="FEED SPORTS",Sport Digital
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd1.png" group-title="FEED SPORTS",beIN Sports 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd2.png" group-title="FEED SPORTS",beIN Sports 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd3.png" group-title="FEED SPORTS",beIN Sports 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd4.png" group-title="FEED SPORTS",beIN Sports 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd5.png" group-title="FEED SPORTS",beIN Sports 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd6.png" group-title="FEED SPORTS",beIN Sports 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd7.png" group-title="FEED SPORTS",beIN Sports 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd8.png" group-title="FEED SPORTS",beIN Sports 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd9.png" group-title="FEED SPORTS",beIN Sports 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd10.png" group-title="FEED SPORTS",beIN Sports 10
-http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd11.png" group-title="FEED SPORTS",beIN Sports 11
-http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd12.png" group-title="FEED SPORTS",beIN Sports 12
-http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8?
-
-
 
 
 ##### MOVIES PREMIUM #####
@@ -701,24 +664,7 @@ http://123.30.146.182:8080/foxsport2/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcdGVKc/FOXSP3-PPI.png" group-title="ABDE SPORTS",FOX SPORTS 3
 http://123.30.146.182:8080/foxsport3/video.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS CENTER",Fox Sport1
-http://123.30.146.182:8080/foxsport/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS CENTER",Fox Sport2
-http://123.30.146.182:8080/foxsport2/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS CENTER",Fox Sport3
-http://123.30.146.182:8080/foxsport3/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="SPORTS CENTER",ST Sports Arena
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="SPORTS CENTER",ST Sports Premium
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x240_197232/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="SPORTS CENTER",ST Sports Focus
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_970_300_320x240_197186/playlist.m3u8
+###### SPORTS CENTER ########
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS CENTER",Sky Sports Action
 https://cstream5.com/hls/skysportsaction.m3u8
