@@ -160,11 +160,20 @@ https://cdnjt25.useetv.com/joss/17/bein1/chunklist_w1192313128_b8128000_sleng.m3
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/beinhd2.png" group-title="FEED SPORTS",bein2 
 https://cdnkbl2.useetv.com/joss/17/bein2/chunklist_w734473401_b1344100_sleng.m3u8?enc=We8bi-h8gmGR4o-iw_npuA&exp=1582712410
 
-https://i.ibb.co/QJdWP8Q/20200226-150354.png
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports2.png" group-title="FEED SPORTS",foxsport2 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
+https://cdnkbl1.useetv.com/joss/15/useesport/chunklist_w1534651726_b1344100_sleng.m3u8?enc=NVzpck3E0vB9ujg1ASBpgQ&exp=1582712703
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
+https://cdnkbl2.useetv.com/joss/15/useesports2/chunklist_w1960483483_b1344100_sleng.m3u8?enc=s7x4mIIohRoADqXDf7WrOA&exp=1582712104
+
+#EXTINF:-1 tvg-logo="http://103.131.51.29/~fgijoklm/logo/foxsport1.png" group-title="FEED SPORTS",Fox Sport 1
+https://cdnkbl2.useetv.com/joss/17/foxsport1/chunklist_w167092549_b1344100_sleng.m3u8?enc=IB1IzGJKTP-rOVQs4UtKQA&exp=1582712643
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports2.png" group-title="FEED SPORTS",Fox Sport 2
 https://cdnbal1.useetv.com/joss/17/foxsport2/chunklist_w770524185_b1344100_sleng.m3u8?enc=rMtFTFzhplXCHhg6bLYVGA&exp=1582711820
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",foxsport3 
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/foxsports3.png" group-title="FEED SPORTS",Fox Sport 3
 https://cdnbdsa1.useetv.com/joss/17/foxsport3/chunklist_w953093943_b1344100_sleng.m3u8?enc=DEdrWFpfkNEbGjazAZETzg&exp=1582712102
 
 
