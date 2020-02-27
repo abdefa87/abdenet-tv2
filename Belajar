@@ -153,31 +153,32 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
-https://cdnkbl2.useetv.com/joss/17/bein1/chunklist_w1352551024_b8128000_sleng.m3u8?enc=kX3JyeaOhIJhhpXerJdLOw&exp=1582796402
+https://cdnkbl2.useetv.com/joss/17/bein1/chunklist_w1352551024_b8128000_sleng.m3u8?enc=0n5TxRsreZjfYxIqThv6Gg&exp=1582809603
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports HD 2
-https://cdnbdsa1.useetv.com/joss/17/bein2/chunklist_w1113008031_b1344100_sleng.m3u8?enc=BLZr8tuBl4hwPkAjVExkjA&exp=1582796806
+https://edgejt6.useetv.com/joss/17/bein2/chunklist_w1113008031_b1344100_sleng.m3u8?enc=wDSE64135GJoGz1jpxaNzw&exp=1582809917
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w2094597338_b1344100_sleng.m3u8?enc=eef302QN58ROEzZqO4MCDg&exp=1582796189
+https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w2094597338_b1344100_sleng.m3u8?enc=MarIuutC8_W8piiF7j4J3w&exp=1582809363
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w1031743170_b1344100_sleng.m3u8?enc=X7d-6aLO5K-xT7lHCnYuCw&exp=1582794915
+https://cdnkbl2.useetv.com/joss/15/useesports2/chunklist_w1031743170_b1344100_sleng.m3u8?enc=34zwB2hs4FjG0csTtsjKjw&exp=1582808179
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-https://cdnbpp1.useetv.com/joss/17/foxsport1/chunklist_w1662850617_b1344100_sleng.m3u8?enc=BhbK_YIR4mQ-zlZy3y49IA&exp=1582797304
+https://cdnjt25.useetv.com/joss/17/foxsport1/chunklist_w1662850617_b1344100_sleng.m3u8?enc=nx67kbcJwI-FFgoj8lZjMQ&exp=1582807689
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-https://cdnbal1.useetv.com/joss/17/foxsport2/chunklist_w3160935_b1344100_sleng.m3u8?enc=b5muMsTImOqI3jkK8laGLw&exp=1582798692
+https://edgejt6.useetv.com/joss/17/foxsport2/chunklist_w3160935_b1344100_sleng.m3u8?enc=SQAORpzJme7gD8U_fXmvjQ&exp=1582808708
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-https://cdnjt25.useetv.com/joss/17/foxsport3/chunklist_w1935531724_b1344100_sleng.m3u8?enc=5MrWSPV-_dFM27mMaKl9Tg&exp=1582798273
+https://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist_w1935531724_b1344100_sleng.m3u8?enc=_JID1dS5kTZ8qIlEeqLI2w&exp=1582808408
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM1X112/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
