@@ -16,8 +16,6 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV+
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
