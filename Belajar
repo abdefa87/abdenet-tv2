@@ -152,6 +152,14 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 #### FEED SPORTS #####
 
 
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/champions1.jpg" group-title="FEED SPORTS",CHAMPIONS 1
+https://etslive-2-vidio-com.akamaized.net/exp=1582876744~acl=/hls-b/ingest_geo_6685_*/*~hmac=0d6919f32884564f7412ef686205f456dbcdcd54cad4b73f1226ce3005329ace/hls-b/ingest_geo_6685_480p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/champions2.jpg" group-title="FEED SPORTS",CHAMPIONS 2
+https://etslive-2-vidio-com.akamaized.net/exp=1582876744~acl=/hls-b/ingest_geo_6686_*/*~hmac=062ea87528cfae5dff6a9f4980b1db126463d373428d8bfcfca941d4c1723eef/hls-b/ingest_geo_6686_480p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
 https://edgejt6.useetv.com/joss/17/bein1/chunklist_w523080819_b8128000_sleng.m3u8?enc=D07kuv9QgbkImRk8m2Db5Q&exp=1582820708
 
@@ -390,7 +398,7 @@ https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
 https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-https://dl.dropbox.com/s/8itcu0pu15g54tn/Blue%20ant%20entertainment.m3u8?dl=0
+https://etslive-2-vidio-com.akamaized.net/exp=1582876742~acl=/hls-b/ingest_geo_6362_*/*~hmac=0889287750c6a2e8716256ffa2e40473aea31636b945c25312d89c09312fb7a4/hls-b/ingest_geo_6362_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
@@ -441,7 +449,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigati
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582876742~acl=/hls-b/ingest_geo_6362_*/*~hmac=0889287750c6a2e8716256ffa2e40473aea31636b945c25312d89c09312fb7a4/hls-b/ingest_geo_6362_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
