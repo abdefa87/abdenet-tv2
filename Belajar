@@ -3,7 +3,7 @@
 
 #EXTM3U
 
-#EXTINF:-1,ABDENET TV
+#EXTINF:-1 group-title="INDONESIA",ABDENET TV
 https://www.dropbox.com/s/twxzhsw44drcwgq/Untitled%202%201280x720%2013%2C23Mbps%202020-02-27%2010-55-10.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
