@@ -153,11 +153,11 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 
 
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/champions1.jpg" group-title="FEED SPORTS",CHAMPIONS 1
-https://etslive-2-vidio-com.akamaized.net/exp=1582876744~acl=/hls-b/ingest_geo_6685_*/*~hmac=0d6919f32884564f7412ef686205f456dbcdcd54cad4b73f1226ce3005329ace/hls-b/ingest_geo_6685_480p/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/504.ts
 
 
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/champions2.jpg" group-title="FEED SPORTS",CHAMPIONS 2
-https://etslive-2-vidio-com.akamaized.net/exp=1582876744~acl=/hls-b/ingest_geo_6686_*/*~hmac=062ea87528cfae5dff6a9f4980b1db126463d373428d8bfcfca941d4c1723eef/hls-b/ingest_geo_6686_480p/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/505.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
@@ -210,10 +210,10 @@ https://doofree88.com/streaming/uk-lfctv_480/index.m3u8
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpV5Rvv/20200226-230938.png" group-title="FEED SPORTS",Eurosport 1
-http://ott.artmott.com/eurosport1/playlist.m3u8
+https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
-http://ott.artmott.com/eurosport2/playlist.m3u8
+https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1
@@ -871,11 +871,11 @@ https://dl.dropbox.com/s/wp7u7l4fij623m5/Usee1.m3u8?dl=0
 https://dl.dropbox.com/s/j3gh1fk8cnq5o4c/Usee2.m3u8?dl=0
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw_ZXacHv2djF0cScZLypnWZZYLzD3FxlBRZV-Y8etqzCZeSlb" group-title="SPORTS CENTER",MNC Sports 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
- 
+http://streamku.live:8888/live/masmuto/masmuto20/754.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjDa_KJP2OTH1WJ4rgu5W9YVkLAhXPgJWRQVg5J8-iv_EJySKD" group-title="SPORTS CENTER",MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
- 
+http://streamku.live:8888/live/masmuto/masmuto20/755.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05m6NMbj/fight-sport.png" group-title="SPORTS CENTER",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
  
