@@ -285,25 +285,25 @@ http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-https://www.doofree88.com/streaming/hd-fox_720/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/581.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
 http://streamku.live:8888/live/masmuto/masmuto20/584.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://202.147.204.115/live/eds/FoxActionMovies/sa_hls/FoxActionMovies-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/586.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://streamku.live:8888/live/masmuto/masmuto20/585.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-http://123.30.146.182:8080/hbo/video.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/576.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+http://streamku.live:8888/live/masmuto/masmuto20/661.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+http://streamku.live:8888/live/masmuto/masmuto20/577.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",JGO FIRST MOVIES
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
