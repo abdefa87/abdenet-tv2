@@ -1,6 +1,11 @@
-##### INDONESIA #####
+##### INDONESIA ####
+
 
 #EXTM3U
+
+#EXTINF:-1,ABDENET TV
+https://www.dropbox.com/s/twxzhsw44drcwgq/Untitled%202%201280x720%2013%2C23Mbps%202020-02-27%2010-55-10.mp4?dl=0
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
