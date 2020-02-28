@@ -162,14 +162,17 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/champions1.jpg" group-title="FEED SPORTS",CHAMPIONS 1
 http://streamku.live:8888/live/masmuto/masmuto20/504.ts
 
-
 #EXTINF:-1 tvg-logo="http://111.221.44.148:19410/image/tv/v2/champions2.jpg" group-title="FEED SPORTS",CHAMPIONS 2
 http://streamku.live:8888/live/masmuto/masmuto20/505.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
+http://streamku.live:8888/live/masmuto/masmuto20/515.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
+http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
 https://doofree88.com/streaming/epl-bein1_720/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports HD 2
 https://doofree88.com/streaming/epl-bein2_720/index.m3u8
@@ -184,15 +187,15 @@ http://streamku.live:8888/live/masmuto/masmuto20/503.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-https://doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/620.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-https://doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/517.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-https://doofree88.com/streaming/sd-foxsports3_480/index.m3u861
+http://streamku.live:8888/live/masmuto/masmuto20/518.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM1X112/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
@@ -246,12 +249,6 @@ https://doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",FOX Sports 3
 https://doofree88.com/streaming/sd-foxsports3_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
-https://doofree88.com/streaming/epl-bein1_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
-https://doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1+
 https://doofree88.com/streaming/rs-arena1_480/index.m3u8
