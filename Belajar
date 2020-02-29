@@ -495,48 +495,6 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
 
-######## BeIn Sport ########
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="BeInSport",BEIN SPORT HD 1
-http://local.referrari.com/live/60186_.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="BeInSport",BEIN SPORT HD 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="BeInSport",BEIN SPORT HD 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="BeInSport",BEIN SPORT HD 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="BeInSport",BEIN SPORT HD 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="BeInSport",BEIN SPORT HD 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="BeInSport",BEIN SPORT HD 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="BeInSport",BEIN SPORT HD 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="BeInSport",BEIN SPORT HD 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="BeInSport",BEIN SPORT HD 10
-http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="BeInSport",BEIN SPORT HD 11
-http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports12.qa.png" group-title="BeInSport",BEIN SPORT HD 12
-http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8
-
-
-
-
 ###### ABDE ######
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="ABDE SPORTS",Arena Sport 1 HR HD
