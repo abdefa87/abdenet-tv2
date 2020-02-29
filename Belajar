@@ -186,6 +186,14 @@ https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w877598088_b1344100_sleng
 https://cdnmdc1.useetv.com/joss/15/useesports2/chunklist_w644355882_b1344100_sleng.m3u8?enc=bO4QKPCajeYa9YFUnn37vA&exp=1582989677
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1 +
+http://streamku.live:8888/live/masmuto/masmuto20/502.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2 +
+http://streamku.live:8888/live/masmuto/masmuto20/503.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
 http://streamku.live:8888/live/masmuto/masmuto20/620.ts
 
