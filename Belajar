@@ -18,6 +18,9 @@ https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8?vhost=__defaultVhost__
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV+
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
@@ -51,8 +54,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582473544~acl=/hls-b/ingest_875_*
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV+
-https://etslive-2-vidio-com.akamaized.net/exp=1582473548~acl=/hls-b/ingest_778_*/*~hmac=9b876b78114f68465d4680a243f3b3964fc0b01d392e7472c0c877f17f895355/hls-b/ingest_778_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
