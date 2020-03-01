@@ -199,6 +199,12 @@ http://streamku.live:8888/live/masmuto/masmuto20/502.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2 +
 http://streamku.live:8888/live/masmuto/masmuto20/503.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw_ZXacHv2djF0cScZLypnWZZYLzD3FxlBRZV-Y8etqzCZeSlb" group-title="SPORTS CENTER",MNC Sports 1
+http://streamku.live:8888/live/masmuto/masmuto20/754.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjDa_KJP2OTH1WJ4rgu5W9YVkLAhXPgJWRQVg5J8-iv_EJySKD" group-title="SPORTS CENTER",MNC Sports 2
+http://streamku.live:8888/live/masmuto/masmuto20/755.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
 http://streamku.live:8888/live/masmuto/masmuto20/620.ts
