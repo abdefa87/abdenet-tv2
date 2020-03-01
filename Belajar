@@ -177,6 +177,8 @@ https://or-be-01.mycdn.video/football1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2 +
 https://or-be-01.mycdn.video/football2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="FEED SPORTS",beIN Sports EXTRA
+http://198.147.24.66:25461/live/skydbnew/bfHcm8THgk/212.m3u8?token=HhBZURFYRgkQUwQEUw0ADlsAA1AOXAEMXg1SAwYHUFAAVwMEUwdTAAcQHUMVTBFcWFxoCl1HDQpXChxAQkcDQTpbVRJYElcDEB4TFQ9VBhsDARtBSQxTGlwaAVIPBlARSRBUSBZVFl1TXm4FA04KWlwTDQ1MCVsURFdePVNRC1ILVhMKQAFGHxBbQhFEAg1MVV0bQVsMQ0oHTFVADRZTBlcLExxAUwtGXEZDGEQCQWxqExtBXB1DXQhLWQ1ZFlwRCAFECEAcRlpBbUMEFUwRXFhcUhEbXxUIRBQSD1ZMOVAKXF9VAUQNXFxBE1tECEEVG1xYDVARWEo5SFkGFQ5EBlIACBIf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
 http://streamku.live:8888/live/masmuto/masmuto20/515.ts
