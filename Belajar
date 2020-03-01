@@ -3,11 +3,11 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="INDONESIA",ABDENET TV opening
-https://dai.ly/x7se9ca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="INDONESIA",ABDENET TV opening FHD
+https://videos-fms.jwpsrv.com/content/conversions/ip4XipnJ/videos/rJieAqhi-32841867.mp4.m3u8?token=0_5e5c25bc_0x5599b4f32b5dc2d82222a7e93a2d9c64f62b1625
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="INDONESIA",ABDENET TV opening 2
-https://7whqlw.by.files.1drv.com/y4mc9B6QhhJUMTEYOsC5ZNN55k8iF0mZaY9xiY46WnmmpyXbWNzQPEm2GsQCuhlOAn-1dSq5t-bkGTmg4ecl7DeVLHsds5IQOmZEc80fVqs3Rg0-6gex1RrGm1Yhwmj7PzCgimgzCKjmcTKOR3semedA2tWm7ZU_n6EZFe0KhhrFRVsQlkbD86ZivuMvMhAFMK3GRoIocTjsnsM1i0bEE7-3Q/Untitled%203%201280x720%2013,23Mbps%202020-03-01%2021-21-26.mp4?videoformat=dash&track=video&part=mediasegment&quality=video-1080p&time=150000&duration=150000
+https://videos-fms.jwpsrv.com/content/conversions/ip4XipnJ/videos/rJieAqhi-32841862.mp4.m3u8?token=0_5e5c25bc_0x4bf21f1f6fce117ac205aaf58a8459bd6797d14b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
