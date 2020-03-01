@@ -515,41 +515,30 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="ABDE SPORTS",Arena Sport 5 HR HD
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/922.png" group-title="ABDE SPORTS",SKY Sport 1 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/DWzqK5R/20200301-082139.png" group-title="ABDE SPORTS",SKY Sport 1 HD
 http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/937.png" group-title="ABDE SPORTS",Sky Sports 2 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/g7sHKdw/20200301-082036.png" group-title="ABDE SPORTS",Sky Sport 2 HD
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNRccmR/20200301-082330.png" group-title="ABDE SPORTS",SK 1 
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 2  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4TTmFL/20200301-082426.png" group-title="ABDE SPORTS",SK 2  
 http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02WmM1q/20200301-082524.png" group-title="ABDE SPORTS",SK 3 
 http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrgLT7D/20200301-083107.png" group-title="ABDE SPORTS",SK4
 http://185.180.12.34:8080/SK4/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/crF93Fc/20200301-083237.png" group-title="ABDE SPORTS",SK5
 http://185.180.12.34:8080/SK5/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbDCM3V/20200301-083419.png" group-title="ABDE SPORTS",SK6
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK7
-http://185.180.12.34:8080/SK7/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK8
-http://185.180.12.34:8080/SK8/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK9
-http://185.180.12.34:8080/SK9/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK10
-http://185.180.12.34:8080/SK10/video.m3u8?token=test
 
 #EXTINF:-1 group-title="ABDE SPORTS",Sportska TV
 http://185.180.12.34:8080/SPORTSKATV/video.m3u8?token=test
@@ -582,19 +571,19 @@ https://doofree88.com/streaming/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="ABDE SPORTS",Premier Football HD 5
 https://doofree88.com/streaming/epl-x5_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/skyhd.png" group-title="ABDE SPORTS",SKYNET SPORT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
 https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky1.png" group-title="ABDE SPORTS",SKYNET SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1
 https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky2.png" group-title="ABDE SPORTS",SKYNET SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Js9nkC8/20200301-075016.png" group-title="ABDE SPORTS",SKYNET SPORT 2
 https://doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky3.png" group-title="ABDE SPORTS",SKYNET SPORT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="ABDE SPORTS",SKYNET SPORT 3
 https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky4.png" group-title="ABDE SPORTS",SKYNET SPORT 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4
 https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky5.png" group-title="ABDE SPORTS",SKYNET SPORT 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5
 https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky6.png" group-title="ABDE SPORTS",SKYNET SPORT 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vkPDMk7/20200301-075321.png" group-title="ABDE SPORTS",SKYNET SPORT 6
 https://doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv1.jpg" group-title="ABDE SPORTS",SPORT TV1
