@@ -314,9 +314,6 @@ http://streamku.live:8888/live/masmuto/masmuto20/586.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://streamku.live:8888/live/masmuto/masmuto20/585.ts
 
-#EXTINF:-1 tvg-logo="https://zaltvku.com/file/img/FOXMoviesPremium.png" group-title="MOVIES PREMIUM",FOX Movies Premium
-http://streamku.live:8888/live/masmuto/masmuto20/585.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
 http://streamku.live:8888/live/masmuto/masmuto20/576.ts
 
