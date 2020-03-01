@@ -314,6 +314,9 @@ http://streamku.live:8888/live/masmuto/masmuto20/586.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://streamku.live:8888/live/masmuto/masmuto20/585.ts
 
+#EXTINF:-1 tvg-logo="https://zaltvku.com/file/img/FOXMoviesPremium.png" group-title="MOVIES PREMIUM",FOX Movies Premium
+http://streamku.live:8888/live/masmuto/masmuto20/585.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
 http://streamku.live:8888/live/masmuto/masmuto20/576.ts
 
@@ -334,10 +337,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://streamku.live:8888/live/masmuto/masmuto20/589.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="MOVIES PREMIUM",Zee Bioskop
-https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-http://streamku.live:8888/live/masmuto/masmuto20/589.ts
+http://streamku.live:8888/live/masmuto/masmuto20/733.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
 http://210.210.155.35/uq2663/h/h04/01.m3u8?
@@ -350,15 +350,6 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-http://streamku.live:8888/live/masmuto/masmuto20/581.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
-http://streamku.live:8888/live/masmuto/masmuto20/585.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://streamku.live:8888/live/masmuto/masmuto20/584.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
@@ -378,18 +369,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYvVnV7/20200225-112416.png" group-title="MOVIES PREMIUM",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TYvVnV7/20200225-112416.png" group-title="MOVIES PREMIUM",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",CINEMAX
-http://streamku.live:8888/live/masmuto/masmuto20/589.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-http://streamku.live:8888/live/masmuto/masmuto20/581.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",CINEMA WORLD
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
  
@@ -399,25 +378,26 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyTFRpW/20200227-062617.png" group-title="MOVIES PREMIUM",Hollywood Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
  
-####### ENTERTAINMENT #########
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
 http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",SONY GEM
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
+http://streamku.live:8888/live/masmuto/masmuto20/600.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
+http://streamku.live:8888/live/masmuto/masmuto20/598.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-https://etslive-2-vidio-com.akamaized.net/exp=1582876742~acl=/hls-b/ingest_geo_6362_*/*~hmac=0889287750c6a2e8716256ffa2e40473aea31636b945c25312d89c09312fb7a4/hls-b/ingest_geo_6362_480p/index.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/538.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
+http://streamku.live:8888/live/masmuto/masmuto20/539.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
@@ -428,20 +408,11 @@ http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",Warner tv
 http://streamku.live:8888/live/masmuto/masmuto20/593.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",Hits
-http://210.210.155.66/h/h37/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
-http://cybervision.us.to:8989/live/iptvku/iptvku/237.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+http://streamku.live:8888/live/masmuto/masmuto20/592.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8?
@@ -467,16 +438,10 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigati
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
 http://streamku.live:8888/live/masmuto/masmuto20/582.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TVN
-https://etslive-2-vidio-com.akamaized.net/exp=1582876742~acl=/hls-b/ingest_geo_6362_*/*~hmac=0889287750c6a2e8716256ffa2e40473aea31636b945c25312d89c09312fb7a4/hls-b/ingest_geo_6362_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="ENTERTAINMENT",CCM
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
@@ -490,9 +455,6 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP
-https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP SERVER 2
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
