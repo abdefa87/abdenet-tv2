@@ -328,22 +328,22 @@ http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 ###### ABDE SPORTS ########
 
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNRccmR/20200301-082330.png" group-title="ABDE SPORTS",SK 1 
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 2  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4TTmFL/20200301-082426.png" group-title="ABDE SPORTS",SK 2  
 http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02WmM1q/20200301-082524.png" group-title="ABDE SPORTS",SK 3 
 http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrgLT7D/20200301-083107.png" group-title="ABDE SPORTS",SK 4
 http://185.180.12.34:8080/SK4/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/crF93Fc/20200301-083237.png" group-title="ABDE SPORTS",SK 5
 http://185.180.12.34:8080/SK5/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbDCM3V/20200301-083419.png" group-title="ABDE SPORTS",SK 6
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier1.png" group-title="ABDE SPORTS",Premier Football HD 1
