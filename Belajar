@@ -346,19 +346,19 @@ http://185.180.12.34:8080/SK5/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbDCM3V/20200301-083419.png" group-title="ABDE SPORTS",SK 6
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier1.png" group-title="ABDE SPORTS",Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1
 https://doofree88.com/streaming/epl-x1_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier2.png" group-title="ABDE SPORTS",Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2
 https://doofree88.com/streaming/epl-x2_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier3.png" group-title="ABDE SPORTS",Premier Football HD 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3
 https://doofree88.com/streaming/epl-x3_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier4.png" group-title="ABDE SPORTS",Premier Football HD 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GCG6fP/20200301-001144.png" group-title="ABDE SPORTS",Premier Football HD 4
 https://doofree88.com/streaming/epl-x4_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier5.png" group-title="ABDE SPORTS",Premier Football HD 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="ABDE SPORTS",Premier Football HD 5
 https://doofree88.com/streaming/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/skyhd.png" group-title="ABDE SPORTS",SKYNET SPORT HD
