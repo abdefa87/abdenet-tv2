@@ -325,6 +325,31 @@ http://mantul.biz.id:8888/live/herry25/herry/897.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PXWyjb/20200227-001918.png" group-title="FEED SPORTS",Sport Digital
 http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
+###### ABDE SPORTS ########
+
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 1 
+http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 2  
+http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK 3 
+http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK4
+http://185.180.12.34:8080/SK4/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK5
+http://185.180.12.34:8080/SK5/video.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK6
+http://185.180.12.34:8080/SK6/video.m3u8?token=test
+
+
+
+
+
 ##### MOVIES PREMIUM #####
 
 
