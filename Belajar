@@ -346,7 +346,71 @@ http://185.180.12.34:8080/SK5/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://videoplatform.sky.it/livestream/images/post/2018/11/18/1542552726174_visoreskysport.jpeg" group-title="ABDE SPORTS",SK6
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier1.png" group-title="ABDE SPORTS",Premier Football HD 1
+https://doofree88.com/streaming/epl-x1_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier2.png" group-title="ABDE SPORTS",Premier Football HD 2
+https://doofree88.com/streaming/epl-x2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier3.png" group-title="ABDE SPORTS",Premier Football HD 3
+https://doofree88.com/streaming/epl-x3_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier4.png" group-title="ABDE SPORTS",Premier Football HD 4
+https://doofree88.com/streaming/epl-x4_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truepremier5.png" group-title="ABDE SPORTS",Premier Football HD 5
+https://doofree88.com/streaming/epl-x5_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/skyhd.png" group-title="ABDE SPORTS",SKYNET SPORT HD
+https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky1.png" group-title="ABDE SPORTS",SKYNET SPORT 1
+https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky2.png" group-title="ABDE SPORTS",SKYNET SPORT 2
+https://doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky3.png" group-title="ABDE SPORTS",SKYNET SPORT 3
+https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky4.png" group-title="ABDE SPORTS",SKYNET SPORT 4
+https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky5.png" group-title="ABDE SPORTS",SKYNET SPORT 5
+https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/sky6.png" group-title="ABDE SPORTS",SKYNET SPORT 6
+https://doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
+
+#EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/922.png" group-title="ABDE SPORTS",SKY Sport 1 HD
+http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:0 tvg-logo="http://logo.ddnb.tn/logochanel/937.png" group-title="ABDE SPORTS",Sky Sports 2 HD
+http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport1.png" group-title="ABDE SPORTS",TrueSport HD 1
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport2.png" group-title="ABDE SPORTS",TrueSport HD 2
+https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport3.png" group-title="ABDE SPORTS",TrueSport HD 3
+https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesport4.png" group-title="ABDE SPORTS",TrueSport HD 4
+https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports2.png" group-title="ABDE SPORTS",TRUE SPORT 2
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports5.png" group-title="ABDE SPORTS",TrueSport 5
+https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports6.png" group-title="ABDE SPORTS",TrueSport 6
+https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports7.png" group-title="ABDE SPORTS",TrueSport 7
+https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
 
 
 
