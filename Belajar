@@ -612,8 +612,7 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
 
 #EXTINF:0 group-title="KIDS",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -661,8 +660,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY0nH8mC/horee.png" group-title="KIDS",Horee
-https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8
- 
+https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 
 ##### KNOWLEDGE #####
 
