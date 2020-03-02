@@ -569,57 +569,6 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZWfDMs/LALIGA-PPI.png" group-title="ABDE SPORTS",LA LIGA 1
-https://i.ibb.co/6HXQHXfhttp://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZWfDMs/LALIGA-PPI.png" group-title="ABDE SPORTS",LA LIGA
-http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wRqkwwS/SBS-SPORT-PPI.png" group-title="ABDE SPORTS",SBS SPORTS
-http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8?PPIIPTV-Edho-rizki-stream-SBSSPORTSEdhorizki-master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMQkmx9/NBATV-PPI.png" group-title="ABDE SPORTS",NBA SPORT
-http://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rf8R1YF/ATG-PPI.png" group-title="ABDE SPORTS",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZH8q3Gj/SKYSPORT-PPI.png" group-title="ABDE SPORTS",Sky Football
-http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pXj6CR4/REALMADIRD-PPI.png" group-title="ABDE SPORTS",REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2TcZwC/RACING-COM-PPI.png" group-title="ABDE SPORTS",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRwsyvF/IB-SPORTS-PPI.png" group-title="ABDE SPORTS",IB Sports
-http://139.99.136.95:2306/ibsports/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hK3Gzyv/KTV-SPORT-PPI.png" group-title="ABDE SPORTS",KTV SPORTS
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="ABDE SPORTS",FOX Sport HD -USA-
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sCTF9Mv/FOXSP1-PPI.png" group-title="ABDE SPORTS",FOX SPORTS
-http://123.30.146.182:8080/foxsport/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GfmWLyN/FOXSP2-PPI.png" group-title="ABDE SPORTS",FOX SPORTS 2
-http://123.30.146.182:8080/foxsport2/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcdGVKc/FOXSP3-PPI.png" group-title="ABDE SPORTS",FOX SPORTS 3
-http://123.30.146.182:8080/foxsport3/video.m3u8
-
-
-
-
-
-
-
  ##### ANAK-ANAK #####
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Disney Channel
