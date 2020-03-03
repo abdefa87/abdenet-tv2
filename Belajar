@@ -1129,3 +1129,159 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qCV5HJ6/ASTROBOO-PPI.png" group-title="MALAYSIA",Boo
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
+
+####### SPORT #######
+
+#EXTINF:-1 tvg-ID="" tvg-name="Liga 1 shopee+" tvg-logo="" group-title="Sport",Liga 1 shopee+
+http://mantul.biz.id:8888/live/herry25/herry/919.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liga 2 shopee+" tvg-logo="" group-title="Sport",Liga 2 shopee+
+http://mantul.biz.id:8888/live/herry25/herry/920.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 1" tvg-logo="" group-title="Sport",ZA Super Sport 1
+http://mantul.biz.id:8888/live/herry25/herry/893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 2" tvg-logo="" group-title="Sport",ZA Super Sport 2
+http://mantul.biz.id:8888/live/herry25/herry/894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 3" tvg-logo="" group-title="Sport",ZA Super Sport 3
+http://mantul.biz.id:8888/live/herry25/herry/895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 4" tvg-logo="" group-title="Sport",ZA Super Sport 4
+http://mantul.biz.id:8888/live/herry25/herry/896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 5" tvg-logo="" group-title="Sport",ZA Super Sport 5
+http://mantul.biz.id:8888/live/herry25/herry/897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 6" tvg-logo="" group-title="Sport",ZA Super Sport 6
+http://mantul.biz.id:8888/live/herry25/herry/898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 7" tvg-logo="" group-title="Sport",ZA Super Sport 7
+http://mantul.biz.id:8888/live/herry25/herry/899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 8" tvg-logo="" group-title="Sport",ZA Super Sport 8
+http://mantul.biz.id:8888/live/herry25/herry/900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 9" tvg-logo="" group-title="Sport",ZA Super Sport 9
+http://mantul.biz.id:8888/live/herry25/herry/901.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 10" tvg-logo="" group-title="Sport",ZA Super Sport 10
+http://mantul.biz.id:8888/live/herry25/herry/902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 11" tvg-logo="" group-title="Sport",ZA Super Sport 11
+http://mantul.biz.id:8888/live/herry25/herry/903.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 12" tvg-logo="" group-title="Sport",ZA Super Sport 12
+http://mantul.biz.id:8888/live/herry25/herry/904.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sport",Sony Ten 3
+http://mantul.biz.id:8888/live/herry25/herry/841.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 2" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989ba91420c3c1917b603bb/1565810987913/2f0f551dd46b0d7197e5ec02b14ef344.jpg" group-title="Sport",Sony Ten 2
+http://mantul.biz.id:8888/live/herry25/herry/838.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 1" tvg-logo="https://2.bp.blogspot.com/-L8-PQPwH5Uc/WbeAo57b4aI/AAAAAAAAHMo/w4FUoBme4nIqlKH4T2ypPUHV7-limSoIQCLcBGAs/s1600/b51668c42221dd2b383c1109aa95aad6.jpg" group-title="Sport",Sony Ten 1
+http://mantul.biz.id:8888/live/herry25/herry/837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 3 SD" tvg-logo="" group-title="Sport",Fox Sport 3 SD
+http://mantul.biz.id:8888/live/herry25/herry/794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 2 SD" tvg-logo="" group-title="Sport",Fox Sport 2 SD
+http://mantul.biz.id:8888/live/herry25/herry/793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 1 SD" tvg-logo="" group-title="Sport",Fox Sport 1 SD
+http://mantul.biz.id:8888/live/herry25/herry/792.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 1" tvg-logo="" group-title="Sport",AD Sport 1
+http://mantul.biz.id:8888/live/herry25/herry/633.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 2" tvg-logo="" group-title="Sport",AD Sport 2
+http://mantul.biz.id:8888/live/herry25/herry/634.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport 2" tvg-logo="" group-title="Sport",MNC Sport 2
+http://mantul.biz.id:8888/live/herry25/herry/787.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 3 FHD" tvg-logo="" group-title="Sport",FOX Sport 3 FHD
+http://mantul.biz.id:8888/live/herry25/herry/786.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 2 FHD" tvg-logo="" group-title="Sport",FOX Sport 2 FHD
+http://mantul.biz.id:8888/live/herry25/herry/785.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1 FHD" tvg-logo="" group-title="Sport",FOX Sport 1 FHD
+http://mantul.biz.id:8888/live/herry25/herry/784.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="" group-title="Sport",ASSP 1
+http://mantul.biz.id:8888/live/herry25/herry/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="" group-title="Sport",ASSP 2
+http://mantul.biz.id:8888/live/herry25/herry/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="" group-title="Sport",ASSP 3
+http://mantul.biz.id:8888/live/herry25/herry/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="" group-title="Sport",ASSP 4
+http://mantul.biz.id:8888/live/herry25/herry/617.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 1" tvg-logo="" group-title="Sport",Liga Champion TV 1
+http://mantul.biz.id:8888/live/herry25/herry/629.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 1 HD" tvg-logo="" group-title="Vidio",Liga Champion TV 1 HD
+http://mantul.biz.id:8888/live/herry25/herry/797.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 2" tvg-logo="" group-title="Sport",Liga Champion TV 2
+http://mantul.biz.id:8888/live/herry25/herry/630.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 2 HD" tvg-logo="" group-title="Vidio",Liga Champion TV 2 HD
+http://mantul.biz.id:8888/live/herry25/herry/798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 3 HD" tvg-logo="" group-title="Vidio",Champion TV 3 HD
+http://mantul.biz.id:8888/live/herry25/herry/922.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport LIVE" tvg-logo="" group-title="Sport",Sport LIVE
+http://mantul.biz.id:8888/live/herry25/herry/628.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport" tvg-logo="" group-title="Sport",MNC Sport
+http://mantul.biz.id:8888/live/herry25/herry/522.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 1 ID" tvg-logo="" group-title="Sport",Bein Sport 1 ID
+http://mantul.biz.id:8888/live/herry25/herry/185.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 2 ID" tvg-logo="" group-title="Sport",Bein Sport 2 ID
+http://mantul.biz.id:8888/live/herry25/herry/186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBC Sport" tvg-logo="" group-title="Sport",NBC Sport
+http://mantul.biz.id:8888/live/herry25/herry/722.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Redbull TV" tvg-logo="" group-title="Sport",Redbull TV
+http://mantul.biz.id:8888/live/herry25/herry/309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Sport",FOX Sport 1
+http://mantul.biz.id:8888/live/herry25/herry/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 2" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="Sport",FOX Sport 2
+http://mantul.biz.id:8888/live/herry25/herry/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 3" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" group-title="Sport",FOX Sport 3
+http://mantul.biz.id:8888/live/herry25/herry/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sport",Real Madrid TV
+http://mantul.biz.id:8888/live/herry25/herry/637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Olympic Channel" tvg-logo="" group-title="Sport",Olympic Channel
+http://mantul.biz.id:8888/live/herry25/herry/636.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="Sport",TVRI Sport
+http://mantul.biz.id:8888/live/herry25/herry/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Indonesia 1" tvg-logo="" group-title="Sport",Liga Indonesia 1
+http://mantul.biz.id:8888/live/herry25/herry/432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Liga Indonesia 2" tvg-logo="" group-title="Sport",Liga Indonesia 2
+http://mantul.biz.id:8888/live/herry25/herry/621.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sport",Arena Sport 1
+http://mantul.biz.id:8888/live/herry25/herry/320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2" tvg-logo="" group-title="Sport",Arena Sport 2
+http://mantul.biz.id:8888/live/herry25/herry/321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3" tvg-logo="" group-title="Sport",Arena Sport 3
+http://mantul.biz.id:8888/live/herry25/herry/322.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4" tvg-logo="" group-title="Sport",Arena Sport 4
+http://mantul.biz.id:8888/live/herry25/herry/323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1" tvg-logo="" group-title="Sport",Sport TV 1
+http://mantul.biz.id:8888/live/herry25/herry/549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2" tvg-logo="" group-title="Sport",Sport TV 2
+http://mantul.biz.id:8888/live/herry25/herry/550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="" group-title="Sport",Sport TV 3
+http://mantul.biz.id:8888/live/herry25/herry/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4" tvg-logo="" group-title="Sport",Sport TV 4
+http://mantul.biz.id:8888/live/herry25/herry/552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5" tvg-logo="" group-title="Sport",Sport TV 5
+http://mantul.biz.id:8888/live/herry25/herry/553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sport",Fight Sport
+http://mantul.biz.id:8888/live/herry25/herry/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV" tvg-logo="" group-title="Sport",NBA TV
+http://mantul.biz.id:8888/live/herry25/herry/358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 1" tvg-logo="" group-title="Sport",Bein Sport 1
+http://mantul.biz.id:8888/live/herry25/herry/266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 2" tvg-logo="" group-title="Sport",Bein Sport 2
+http://mantul.biz.id:8888/live/herry25/herry/267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3" tvg-logo="" group-title="Sport",Bein Sport 3
+http://mantul.biz.id:8888/live/herry25/herry/268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 4" tvg-logo="" group-title="Sport",Bein Sport 4
+http://mantul.biz.id:8888/live/herry25/herry/269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 5" tvg-logo="" group-title="Sport",Bein Sport 5
+http://mantul.biz.id:8888/live/herry25/herry/270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 6" tvg-logo="" group-title="Sport",Bein Sport 6
+http://mantul.biz.id:8888/live/herry25/herry/271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 7" tvg-logo="" group-title="Sport",Bein Sport 7
+http://mantul.biz.id:8888/live/herry25/herry/272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 8" tvg-logo="" group-title="Sport",Bein Sport 8
+http://mantul.biz.id:8888/live/herry25/herry/273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 9" tvg-logo="" group-title="Sport",Bein Sport 9
+http://mantul.biz.id:8888/live/herry25/herry/274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 10" tvg-logo="" group-title="Sport",Bein Sport 10
+http://mantul.biz.id:8888/live/herry25/herry/375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 11" tvg-logo="" group-title="Sport",Bein Sport 11
+http://mantul.biz.id:8888/live/herry25/herry/275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 12" tvg-logo="" group-title="Sport",Bein Sport 12
+http://mantul.biz.id:8888/live/herry25/herry/276.ts
+
