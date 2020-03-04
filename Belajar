@@ -344,19 +344,19 @@ http://185.180.12.34:8080/SK5/video.m3u8?token=test
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1
-https://doofree88.com/streaming/epl-x1_720/index.m3u8
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2
-https://doofree88.com/streaming/epl-x2_720/index.m3u8
+http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3
-https://doofree88.com/streaming/epl-x3_720/index.m3u8
+http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1GCG6fP/20200301-001144.png" group-title="ABDE SPORTS",Premier Football HD 4
-https://doofree88.com/streaming/epl-x4_720/index.m3u8
+http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="ABDE SPORTS",Premier Football HD 5
-https://doofree88.com/streaming/epl-x5_720/index.m3u8
+http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
 https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
