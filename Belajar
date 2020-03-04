@@ -1307,87 +1307,127 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4bJ_3UePQi8MVQVmHOz5NCTwwBBHQ4XdMQmBxxESDFOiuHKTj" group-title="VOD HOLLYWOD MOVIES",Captain Marvel
 http://139.99.80.145/vod/TERBIT21.COM%20-%20Captain%20Marvel%20(2019).mp4
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Avenger Age Of Ultron","FILM BARAT","http://139.99.80.145/vod/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Avenger Age Of Ultron","FILM BARAT","
+http://139.99.80.145/vod/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Avenger Infinity War","FILM BARAT","http://139.99.80.145/vod/Avengers.Infinity.War.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Avenger Infinity War","FILM BARAT","
+http://139.99.80.145/vod/Avengers.Infinity.War.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Ant Man","FILM BARAT","http://139.99.80.145/vod/ant%20man.mp4","https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Ant Man","FILM BARAT","
+http://139.99.80.145/vod/ant%20man.mp4","https://image.tmdb.org/t/p/w600_and_h900_bestv2/D6e8RJf2qUstnfkTslTXNTUAlT.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Pokemon : Detective Pikachu","FILM BARAT","https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1","https://i.postimg.cc/G3zWGzB5/Pokemon.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Pokemon : Detective Pikachu","FILM BARAT","
+https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1","https://i.postimg.cc/G3zWGzB5/Pokemon.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Dumbo","FILM BARAT","https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720","https://i.postimg.cc/9MPj6hQm/Dumbo.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Dumbo","FILM BARAT","
+https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRWyVhRTdJdlHQxD6XSebaWIcqWewKF0Fj1b1%2B%2FAE5VOdsYJ%2BvANObFADrDC3UPK8hJRnzx6hv5AHQfJI44CseKWn8OR0VFvDrs%3D&ref=&res=720","https://i.postimg.cc/9MPj6hQm/Dumbo.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Nutcracker and The Four Realms","FILM BARAT","https://www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/vBYPmFvH/the-nutcracker-and-the-four-realms.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Nutcracker and The Four Realms","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/vBYPmFvH/the-nutcracker-and-the-four-realms.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",A Monster Calls","FILM BARAT","https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","http://www.gstatic.com/tv/thumb/v22vodart/12417188/p12417188_v_v8_ab.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",A Monster Calls","FILM BARAT","
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","http://www.gstatic.com/tv/thumb/v22vodart/12417188/p12417188_v_v8_ab.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",You Now See Me","FILM BARAT","https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","http://www.gstatic.com/tv/thumb/v22vodart/9418112/p9418112_v_v8_aq.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",You Now See Me","FILM BARAT","
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","http://www.gstatic.com/tv/thumb/v22vodart/9418112/p9418112_v_v8_aq.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",You Now See Me 2","FILM BARAT","https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPYgmxRnjy_HectC18-4VhLwJHk0h8YdlJ7DQ48Dr1Ihsf960s"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",You Now See Me 2","FILM BARAT","
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPYgmxRnjy_HectC18-4VhLwJHk0h8YdlJ7DQ48Dr1Ihsf960s"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Host","FILM BARAT","https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCKYipRBV_5BZOMO2Ba6D-v81I3-JrK56rjPE2SP_wewGN-pPj"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Host","FILM BARAT","
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCKYipRBV_5BZOMO2Ba6D-v81I3-JrK56rjPE2SP_wewGN-pPj"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Alita Battle Angel","FILM BARAT","http://139.99.80.145/vod/%5bTV%5d%20Alita.Battle.Angel.2019.WEBDL.PROPER.ITUNES.EVO.1080p.720p.480p.WWW.SEBUAH-DONGENG.COM.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Alita Battle Angel","FILM BARAT","
+http://139.99.80.145/vod/%5bTV%5d%20Alita.Battle.Angel.2019.WEBDL.PROPER.ITUNES.EVO.1080p.720p.480p.WWW.SEBUAH-DONGENG.COM.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Anna Karenina","FILM BARAT","http://139.99.80.145/vod/TERBIT21.COM%20-%20Anna%20Karenina%20(2012).mp4","https://image.tmdb.org/t/p/w600_and_h900_bestv2/vueoajubjMMmDpcLOZnrU9wW95E.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Anna Karenina","FILM BARAT","
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Anna%20Karenina%20(2012).mp4","https://image.tmdb.org/t/p/w600_and_h900_bestv2/vueoajubjMMmDpcLOZnrU9wW95E.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Amadeus","FILM BARAT","http://139.99.80.145/vod/TERBIT21.COM%20-%20Amadeus%20(1984).mp4","https://image.tmdb.org/t/p/w600_and_h900_bestv2/flnoqdC38mbaulAeptjynOFO7yi.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Amadeus","FILM BARAT","
+http://139.99.80.145/vod/TERBIT21.COM%20-%20Amadeus%20(1984).mp4","https://image.tmdb.org/t/p/w600_and_h900_bestv2/flnoqdC38mbaulAeptjynOFO7yi.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Abominable","FILM BARAT","http://139.99.80.145/vod/Abmnbl%202k19%20Webrip%20HD%201080p%20x264%20AAC%206Ch%20-%20DRAYS.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Abominable","FILM BARAT","
+http://139.99.80.145/vod/Abmnbl%202k19%20Webrip%20HD%201080p%20x264%20AAC%206Ch%20-%20DRAYS.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/llhj3xtNes2Ri4d9HqtleKo1CfL.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Annabelle","FILM BARAT","http://139.99.80.145/vod/Annabelle.2014.1080p.BluRay.x264.YIFY.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgxM61Sn0dYML4C9v3MJFp5zPI.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Annabelle","FILM BARAT","
+http://139.99.80.145/vod/Annabelle.2014.1080p.BluRay.x264.YIFY.mkv","https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgxM61Sn0dYML4C9v3MJFp5zPI.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Aeronauts","FILM BARAT","https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/fTr1gLf7/The-Aeronauts.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Aeronauts","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/fTr1gLf7/The-Aeronauts.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",AD Astra","FILM BARAT","https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/280CjrF3/AD-astra.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",AD Astra","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/280CjrF3/AD-astra.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Captive State","FILM BARAT","https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720","https://i.postimg.cc/8z3DW4YS/Captive-State.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Captive State","FILM BARAT","
+https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720","https://i.postimg.cc/8z3DW4YS/Captive-State.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Alien : Covenant","FILM BARAT","https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/W1ZYW73j/Alien-Covenant.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Alien : Covenant","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.postimg.cc/W1ZYW73j/Alien-Covenant.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Warm Bodies","FILM BARAT","https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","http://www.gstatic.com/tv/thumb/v22vodart/9086036/p9086036_v_v8_ak.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Warm Bodies","FILM BARAT","
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd","http://www.gstatic.com/tv/thumb/v22vodart/9086036/p9086036_v_v8_ak.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Mummy Reborn (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/goh8D4Y.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Mummy Reborn (2019)
+https://www.googleapis.com/drive/v3/files/15qvAVRKyU-_BWAw7JAp47B46HuNxUsZ2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/goh8D4Y.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Lucky Day (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/Nt2DzUZ.png"
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Official Secrets (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/pApJmzI.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Lucky Day (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1yDoXnLU48Soj4EzdmOvMU_hUrXA2S7JL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/Nt2DzUZ.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Elephant Queen (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/o6ptIRY.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Official Secrets (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/pApJmzI.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Chhichhore (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/cQys8AP.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Elephant Queen (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/o6ptIRY.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Primal (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/4xYF9Il.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Chhichhore (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/13P-4B4JLjzMnEr4tTsXdSI06tCuDXsbi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/cQys8AP.png"
 
-"#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Joker (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/nNX1xkn.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Primal (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1Z2hlElAbzopTTJZ80aQ2rJ316ZpeZlhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/4xYF9Il.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Acceleration (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1f4DLbnYAeVqN_otebwSZivA5vkmsbv3J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/M4HQ42S.png"
+"#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Joker (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1EzYSdPcA5AP5LFQvExGhxvkImqEQpsA5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/nNX1xkn.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Wake Up (2019","FILM BARAT","https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/OYarpoN.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Acceleration (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1f4DLbnYAeVqN_otebwSZivA5vkmsbv3J?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/M4HQ42S.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Gemini Man (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/IWlubjf.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Wake Up (2019","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1w_ieD1I4y3njzNUFmswiACyuH9IZwSOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/OYarpoN.png"
+
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Gemini Man (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1Q1b795JLu5fP7OW9MDi5RdE3rqf41w3w?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/IWlubjf.png"
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Jeff Garlin: Our Man in Chicago (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1Hv6sYEkuzO9kz1d9TCXguazI4xr8wbeO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/70eK72D.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Badland (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/TjV5ELn.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Badland (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/157KI9fbIYyEdMh6OsfbgZdeNx26x-NDw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/TjV5ELn.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Door in the Woods (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/cJEIWjJ.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Door in the Woods (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1QnfuBUVC_AqlhV7qV5BIltlEJrIP4ZSA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/cJEIWjJ.png"
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Fighting Preacher (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1AhydLdlZNb-zIhlV7ElNW4MVkU_ZW8Xw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/EWgj81w.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Transit 17 (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/FGHsQB6.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Transit 17 (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1zLdmmmMlTjrMlGOpMYgdyEu72xLaxWpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/FGHsQB6.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Aladdin (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/20amKvh.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Aladdin (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1o6WIiNucWr8DRT77mVDzsdYNMi_Siho9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/20amKvh.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Crawl (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/bZvYBuU.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Crawl (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/bZvYBuU.jpg"
 
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",El Camino: A Breaking Bad Movie (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1ZaDQT-lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/g5uKSUN.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",El Camino: A Breaking Bad Movie (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1ZaDQT-lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/g5uKSUN.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Lucky Day (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1icrzCjBPrEpsk128cY5onUcGVVVLxsmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/ffYuJd0.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Lucky Day (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1icrzCjBPrEpsk128cY5onUcGVVVLxsmo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/ffYuJd0.png"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Men in Black: International (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1LIkVZaEGq3nDX1lRA4j19PV8TGzZhVDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/IUtCr5e.jpg"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Men in Black: International (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1LIkVZaEGq3nDX1lRA4j19PV8TGzZhVDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/IUtCr5e.jpg"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Official Secrets (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/pApJmzI.png"
+#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",Official Secrets (2019)","FILM BARAT","
+https://www.googleapis.com/drive/v3/files/1Log81_cUezENFvDayXW06ocWEe2BEU4t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/pApJmzI.png"
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="VOD HOLLYWOD MOVIES",The Elephant Queen (2019)","FILM BARAT","https://www.googleapis.com/drive/v3/files/10it-zcyVnKP4JnobOU84dF9OYPOeZwqn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4","https://i.imgur.com/o6ptIRY.png"
 
@@ -1448,15 +1488,20 @@ http://139.99.80.145/vod/TERBIT21.COM%20-%20Captain%20Marvel%20(2019).mp4
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="VOD INDONESIA MOVIES",Soekarno: Indonesia Merdeka","FILM INDONESIA","https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8"
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD INDONESIA MOVIES",Habibie & Ainun","FILM INDONESIA","https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD INDONESIA MOVIES",Habibie & Ainun
+https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD INDONESIA MOVIES",Bernafas Dalam Kubur","FILM INDONESIA","https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-_3fCkmFfaL_lhofuhlRrLi8tRG34J8Nc8Ej4AcG41GIakoa"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-_3fCkmFfaL_lhofuhlRrLi8tRG34J8Nc8Ej4AcG41GIakoa" group-title="VOD INDONESIA MOVIES",Bernafas Dalam Kubur
+https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD INDONESIA MOVIES",Kalung Jelangkung","FILM INDONESIA","https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-Ygp9ZGQgR_2ZKJavCBz67_AB1H0yNOL-AupI-muYDj-wWAPY"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-Ygp9ZGQgR_2ZKJavCBz67_AB1H0yNOL-AupI-muYDj-wWAPY" group-title="VOD INDONESIA MOVIES",Kalung Jelangkung
+https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD INDONESIA MOVIES",MATA BATIN 2 (2019)","FILM INDONESIA","https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default","https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSca0uU4_LfT51TLsKGMcPQHpEfPF0ox8neALWfxxRehUoFHvJc"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSca0uU4_LfT51TLsKGMcPQHpEfPF0ox8neALWfxxRehUoFHvJc" group-title="VOD INDONESIA MOVIES",MATA BATIN 2 (2019)
+https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="VOD INDONESIA MOVIES",Sunyi","FILM INDONESIA","https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p","https://citypost.id/foto_berita/5c63e16d67c26181sunyi.jpg"
+#EXTINF:-1 tvg-logo="https://citypost.id/foto_berita/5c63e16d67c26181sunyi.jpg" group-title="VOD INDONESIA MOVIES",Sunyi
+https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
 
 
 
