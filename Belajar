@@ -112,7 +112,7 @@ http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHpLnN0/20200225-091225.png" group-title="INDONESIA",JGO FIRTS MOVIES
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+http://mantul.biz.id:8888/live/herry25/herry/81.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA",KOMPAS TV 
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
@@ -182,10 +182,10 @@ https://or-be-01.mycdn.video/football2/index.m3u8
 http://198.147.24.66:25461/live/skydbnew/bfHcm8THgk/212.m3u8?token=HhBZURFYRgkQUwQEUw0ADlsAA1AOXAEMXg1SAwYHUFAAVwMEUwdTAAcQHUMVTBFcWFxoCl1HDQpXChxAQkcDQTpbVRJYElcDEB4TFQ9VBhsDARtBSQxTGlwaAVIPBlARSRBUSBZVFl1TXm4FA04KWlwTDQ1MCVsURFdePVNRC1ILVhMKQAFGHxBbQhFEAg1MVV0bQVsMQ0oHTFVADRZTBlcLExxAUwtGXEZDGEQCQWxqExtBXB1DXQhLWQ1ZFlwRCAFECEAcRlpBbUMEFUwRXFhcUhEbXxUIRBQSD1ZMOVAKXF9VAUQNXFxBE1tECEEVG1xYDVARWEo5SFkGFQ5EBlIACBIf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
-https://edgejt6.useetv.com/joss/17/bein1/chunklist_w549175571_b8128000_sleng.m3u8?enc=zKq2pGlaXk8AT3LgXdTAqw&exp=1583335809
+http://mantul.biz.id:8888/live/herry25/herry/185.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports HD 2
-https://cdnbdsa1.useetv.com/joss/17/bein2/chunklist_w770409972_b1344100_sleng.m3u8?enc=IOnURavoLAf7MTmvHUgWNw&exp=1583335503
+http://mantul.biz.id:8888/live/herry25/herry/186.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
 https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w2121524763_b1344100_sleng.m3u8?enc=z6z50MIcLe97f1ObiLZqew&exp=1583334969
@@ -207,7 +207,7 @@ http://streamku.live:8888/live/masmuto/masmuto20/503.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcb8hZj/20200302-062720.png" group-title="FEED SPORTS",MNC Sports 1
-http://streamku.live:8888/live/masmuto/masmuto20/754.ts
+http://mantul.biz.id:8888/live/herry25/herry/522.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pxphn34/20200302-062816.png" group-title="FEED SPORTS",MNC Sports 2
 http://mantul.biz.id:8888/live/herry25/herry/787.ts
@@ -225,10 +225,10 @@ http://streamku.live:8888/live/masmuto/masmuto20/517.ts
 http://streamku.live:8888/live/masmuto/masmuto20/518.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
-http://streamku.live:8888/live/masmuto/masmuto20/515.ts
+http://mantul.biz.id:8888/live/herry25/herry/266.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
-http://streamku.live:8888/live/masmuto/masmuto20/516.ts
+http://mantul.biz.id:8888/live/herry25/herry/267.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
 https://doofree88.com/streaming/epl-bein1_720/index.m3u8
@@ -421,13 +421,13 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://streamku.live:8888/live/masmuto/masmuto20/586.ts
+http://mantul.biz.id:8888/live/herry25/herry/33.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-http://tvla.xyz:80/Vuu0PTAm2/952YKbq8zd/1385949
+http://mantul.biz.id:8888/live/herry25/herry/117.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
@@ -438,7 +438,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",JGO FIRST MOVIES
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+http://mantul.biz.id:8888/live/herry25/herry/81.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
@@ -608,7 +608,7 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-http://210.210.155.35/dr9445/h/h144/index2.m3u8
+http://mantul.biz.id:8888/live/herry25/herry/53.ts
 
 #EXTINF:0 group-title="KIDS",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
