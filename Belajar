@@ -29,7 +29,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-http://streamku.live:8888/live/masmuto/masmuto20/607.ts
+http://mantul.biz.id:8888/live/herry25/herry/26.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -167,10 +167,10 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583312410~acl=/hls-p/ingest_geo_6685_*/*~hmac=72f669267180127e821d3cb7646cfe2666faffa87e683000527414dd3fa6a4d7/hls-p/ingest_geo_6685_720p/index.m3u8
+http://mantul.biz.id:8888/live/herry25/herry/797.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://etslive-2-vidio-com.akamaized.net/exp=1583312412~acl=/hls-p/ingest_geo_6686_*/*~hmac=e71e6e3aad4026a7b966ba47bd0486353ddf0980df0c80263b222e979dbaee03/hls-p/ingest_geo_6686_720p/index.m3u8
+http://mantul.biz.id:8888/live/herry25/herry/798.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1 +
 https://or-be-01.mycdn.video/football1/index.m3u8
