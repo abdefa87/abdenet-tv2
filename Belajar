@@ -240,19 +240,6 @@ http://mantul.biz.id:8888/live/herry25/herry/841.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQwXqZz/20200226-220924.png" group-title="FEED SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_HD_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7KK5Q3s/20200226-230335.png" group-title="FEED SPORTS",LFC TV
-https://doofree88.com/streaming/uk-lfctv_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SKkCtCQ/20200226-225851.png" group-title="FEED SPORTS",Sport 1
-http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpV5Rvv/20200226-230938.png" group-title="FEED SPORTS",Eurosport 1
-https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
-https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1
 http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
 
