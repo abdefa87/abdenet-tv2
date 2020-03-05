@@ -397,6 +397,30 @@ https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports7.png" group-title="ABDE SPORTS",TrueSport 7
 https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
 
+###### SPORTS ABUDABI #####
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports [480p]
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports [720p]
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports [720p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
 
 
 ##### MOVIES PREMIUM #####
