@@ -307,7 +307,7 @@ https://delivery.macan.live/stream/nbc_golf/index.m3u8?token=ltmWyWnZ&v=20200202
 #EXTINF:0 tvg-id="FoxSports.it" group-title="SPORTS_EXTRA Sports",FOX Sport 1
 https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=ltmWyWnZ&v=20200202
 
-#EXTINF:0 tvg-id="FOXsport2.nl" group-title="SPORTS_EXTRA",FOX Sport 2
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="SPORTS_EXTRA Sports",FOX Sport 2
 https://delivery.macan.live/stream/id_foxsport2/index.m3u8?token=ltmWyWnZ&v=20200202
 
 #EXTINF:0 tvg-id="FoxSports3.ar" group-title="SPORTS_EXTRA Sports",FOX Sport 3
