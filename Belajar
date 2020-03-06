@@ -430,7 +430,7 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=ltmWyWnZ&v=20200202
+https://doofree88.com/streaming/hd-foxaction_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
@@ -530,13 +530,13 @@ http://mantul.biz.id:8888/live/herry25/herry/608.ts
 https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=ltmWyWnZ&v=20200202
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=ltmWyWnZ&v=20200202
+https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GksSPcd/20200303-064210.png" group-title="ENTERTAINMENT",CCM
 http://host4.dynns.com/stream/1c2276a2f1884b269ce281c3334e8f85.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
-https://delivery.macan.live/stream/hits/index.m3u8?token=ltmWyWnZ&v=20200202
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="ENTERTAINMENT",HITS MOVIES
 https://delivery.macan.live/stream/hits_movies/index.m3u8?token=ltmWyWnZ&v=20200202
@@ -545,8 +545,7 @@ https://delivery.macan.live/stream/hits_movies/index.m3u8?token=ltmWyWnZ&v=20200
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
-https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=ltmWyWnZ&v=20200202
-
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 
  ##### ANAK-ANAK #####
 
