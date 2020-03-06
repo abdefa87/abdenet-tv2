@@ -296,6 +296,15 @@ http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 ###### ABDE SPORTS ########
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="" group-title="ABDE SPORTS",ASSP 1
+http://mantul.biz.id:8888/live/herry25/herry/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="" group-title="ABDE SPORTS",ASSP 2
+http://mantul.biz.id:8888/live/herry25/herry/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="" group-title="ABDE SPORTS",ASSP 3
+http://mantul.biz.id:8888/live/herry25/herry/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="" group-title="ABDE SPORTS",ASSP 4
+http://mantul.biz.id:8888/live/herry25/herry/617.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNRccmR/20200301-082330.png" group-title="ABDE SPORTS",SK 1 
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 
