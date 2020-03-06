@@ -191,10 +191,11 @@ http://mantul.biz.id:8888/live/herry25/herry/432.ts
 http://mantul.biz.id:8888/live/herry25/herry/621.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
-https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=ltmWyWnZ&v=20200202
+https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2
-https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=ltmWyWnZ&v=20200202
+https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcb8hZj/20200302-062720.png" group-title="FEED SPORTS",MNC Sports 1
