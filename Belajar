@@ -219,13 +219,6 @@ http://mantul.biz.id:8888/live/herry25/herry/266.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
 http://mantul.biz.id:8888/live/herry25/herry/267.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
-https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=ltmWyWnZ&v=20200202
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports HD 2
-https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=ltmWyWnZ&v=20200202
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM1X112/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
 
@@ -337,25 +330,25 @@ http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
-https://doofree88.com/streaming/sd-skynetsportshd_720/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1
-https://doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="ABDE SPORTS",SKYNET SPORT 2
-https://doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="ABDE SPORTS",SKYNET SPORT 3
-https://doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4
-https://doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5
-https://doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3cNkPcD/20200301-075321.png" group-title="ABDE SPORTS",SKYNET SPORT 6
-https://doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
+http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/DWzqK5R/20200301-082139.png" group-title="ABDE SPORTS",SKY Sport 1 HD
 http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
