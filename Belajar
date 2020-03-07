@@ -502,16 +502,16 @@ http://push18.feber.xyz/hls/channel11hd25/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 http://push2.feber.xyz/hls/channel12hd25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMjozMDo0MyBQTSZoYXNoX3ZhbHVlPWRvaUxvdjVtQmNoY2ZsVWI5ZGo5bmc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",22.00 WIB | Wolves vs Brighton & Hove Albion
-https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+http://push8.feber.xyz/hls/lshch4hd19/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMjozMDoxNiBQTSZoYXNoX3ZhbHVlPTlnMlB1Y0NsM242YTViRk51UFlGVlE9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",22.00 WIB | Sheffield United vs Norwich City
-https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+http://push6.feber.xyz/hls/channel10hd26/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMjozMzoyMyBQTSZoYXNoX3ZhbHVlPWVrZFN2YUxCdEd4Wi9IK2paUG1Nc3c9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",00.30 WIB (Ch1) | Burnley vs Tottenham Hotspur
-https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",00.30 WIB (Ch2) | Burnley vs Tottenham Hotspur
-https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+
+
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cf56lt1qp8y9dpc/spainlaliga.png?dl=0" group-title="LA LIGA (07/03/2020)",19.00 WIB | Eibar vs Mallorca
 https://b27v.broiptv.online/play/free@broiptv.online/RoRe5SW6/NTOF61kU/rattus/bein_sport_1/playlist.m3u8
