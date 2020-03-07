@@ -598,7 +598,7 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-https://delivery.macan.live/stream/id_animax/index.m3u8?token=ltmWyWnZ&v=20200202
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
 
 #EXTINF:0 group-title="KIDS",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -654,7 +654,7 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="KNOWLEDGE",ANIMAL PLANET
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=ltmWyWnZ&v=20200202
+http://178.128.29.102:25461/movon/ayomovon/1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="KNOWLEDGE",BBC EARTH
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
@@ -663,22 +663,19 @@ http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81A
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="KNOWLEDGE",HISTORY
-https://delivery.macan.live/stream/history/index.m3u8?token=ltmWyWnZ&v=20200202
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="KNOWLEDGE",NET GEOGRAPHIC
-https://delivery.macan.live/stream/id_ngc/index.m3u8?token=ltmWyWnZ&v=20200202
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="KNOWLEDGE",NAT GEO WILD
-https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=ltmWyWnZ&v=20200202
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
-https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=ltmWyWnZ&v=20200202
-
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=ltmWyWnZ&v=20200202
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",WAKU WAKU JAPAN
-https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=ltmWyWnZ&v=20200202
+http://202.147.204.114/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",OUTDOOR CHANNEL
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
