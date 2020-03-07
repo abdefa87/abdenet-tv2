@@ -636,7 +636,7 @@ http://210.210.155.35/uq2663/h/h04/01.m3u8?
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png"," group-title="MOVIES PREMIUM",Zee Bioskop
-https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=ltmWyWnZ&v=20200202
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
