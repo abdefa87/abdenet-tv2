@@ -496,10 +496,10 @@ http://push19.feber.xyz/hls/nbcsportshd40/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",22.00 WIB | Crystal Palace vs Watford
-https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+http://push18.feber.xyz/hls/channel11hd25/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMjozNDowNiBQTSZoYXNoX3ZhbHVlPWo5MWc3ZVRkdUNVQ0ZBbDJNeHZqbnc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",22.00 WIB | Southampton vs Newcastle United
-http://mantul.biz.id:8888/live/herry25/herry/628.ts
+http://push2.feber.xyz/hls/channel12hd25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjAgMjozMDo0MyBQTSZoYXNoX3ZhbHVlPWRvaUxvdjVtQmNoY2ZsVWI5ZGo5bmc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (07/03/2020)",22.00 WIB | Wolves vs Brighton & Hove Albion
 https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
