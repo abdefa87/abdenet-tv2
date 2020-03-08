@@ -29,7 +29,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-http://mantul.biz.id:8888/live/herry25/mantulbgt/26.ts
+http://mantul.biz.id:8888/live/herry25/hery/26.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -166,12 +166,6 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 #### FEED SPORTS #####
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/797.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/798.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 ID
 https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
 
@@ -190,40 +184,12 @@ https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1935051947_b1344100_slen
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
 https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1608480925_b1344100_sleng.m3u8?enc=qCJTe6_blJ95U9kp9DcuUg&exp=1583661905
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1 vip
-http://mantul.biz.id:8888/live/herry25/mantulbgt/432.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2 vip
-http://mantul.biz.id:8888/live/herry25/mantulbgt/621.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2
 https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcb8hZj/20200302-062720.png" group-title="FEED SPORTS",MNC Sports 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/522.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pxphn34/20200302-062816.png" group-title="FEED SPORTS",MNC Sports 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/787.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/792.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/793.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/794.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
-https://b27v.broiptv.online/play/free@broiptv.online/RoRe5SW6/4LNanZnq/rattus/bein_sport_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
-https://b27v.broiptv.online/play/free@broiptv.online/RoRe5SW6/4LNanZnq/rattus/bein_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM1X112/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
@@ -300,16 +266,6 @@ http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
 
 ###### ABDE SPORTS ########
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="" group-title="ABDE SPORTS",ASSP 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/614.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="" group-title="ABDE SPORTS",ASSP 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/615.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="" group-title="ABDE SPORTS",ASSP 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/616.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="" group-title="ABDE SPORTS",ASSP 4
-http://mantul.biz.id:8888/live/herry25/herry/617.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNRccmR/20200301-082330.png" group-title="ABDE SPORTS",SK 1 
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
@@ -1138,161 +1094,6 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qCV5HJ6/ASTROBOO-PPI.png" group-title="MALAYSIA",Boo
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
-
-####### SPORT #######
-
-#EXTINF:-1 tvg-ID="" tvg-name="Liga 1 shopee+" tvg-logo="" group-title="Sport",Liga 1 shopee+
-http://mantul.biz.id:8888/live/herry25/mantulbgt/919.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Liga 2 shopee+" tvg-logo="" group-title="Sport",Liga 2 shopee+
-http://mantul.biz.id:8888/live/herry25/mantulbgt/920.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 1" tvg-logo="" group-title="Sport",ZA Super Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/893.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 2" tvg-logo="" group-title="Sport",ZA Super Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 3" tvg-logo="" group-title="Sport",ZA Super Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 4" tvg-logo="" group-title="Sport",ZA Super Sport 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/896.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 5" tvg-logo="" group-title="Sport",ZA Super Sport 5
-http://mantul.biz.id:8888/live/herry25/mantulbgt/897.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 6" tvg-logo="" group-title="Sport",ZA Super Sport 6
-http://mantul.biz.id:8888/live/herry25/mantulbgt/898.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 7" tvg-logo="" group-title="Sport",ZA Super Sport 7
-http://mantul.biz.id:8888/live/herry25/mantulbgt/899.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 8" tvg-logo="" group-title="Sport",ZA Super Sport 8
-http://mantul.biz.id:8888/live/herry25/mantulbgt/900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 9" tvg-logo="" group-title="Sport",ZA Super Sport 9
-http://mantul.biz.id:8888/live/herry25/mantulbgt/901.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 10" tvg-logo="" group-title="Sport",ZA Super Sport 10
-http://mantul.biz.id:8888/live/herry25/mantulbgt/902.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 11" tvg-logo="" group-title="Sport",ZA Super Sport 11
-http://mantul.biz.id:8888/live/herry25/mantulbgt/903.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZA Super Sport 12" tvg-logo="" group-title="Sport",ZA Super Sport 12
-http://mantul.biz.id:8888/live/herry25/mantulbgt/904.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 3" tvg-logo="" group-title="Sport",Sony Ten 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/841.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 2" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989ba91420c3c1917b603bb/1565810987913/2f0f551dd46b0d7197e5ec02b14ef344.jpg" group-title="Sport",Sony Ten 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten 1" tvg-logo="https://2.bp.blogspot.com/-L8-PQPwH5Uc/WbeAo57b4aI/AAAAAAAAHMo/w4FUoBme4nIqlKH4T2ypPUHV7-limSoIQCLcBGAs/s1600/b51668c42221dd2b383c1109aa95aad6.jpg" group-title="Sport",Sony Ten 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 3 SD" tvg-logo="" group-title="Sport",Fox Sport 3 SD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/794.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 2 SD" tvg-logo="" group-title="Sport",Fox Sport 2 SD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/793.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 1 SD" tvg-logo="" group-title="Sport",Fox Sport 1 SD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/792.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 1" tvg-logo="" group-title="Sport",AD Sport 1
-http://mantul.biz.id:8888/live/herry25/mantukbgt/633.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sport 2" tvg-logo="" group-title="Sport",AD Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport 2" tvg-logo="" group-title="Sport",MNC Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/787.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 3 FHD" tvg-logo="" group-title="Sport",FOX Sport 3 FHD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 2 FHD" tvg-logo="" group-title="Sport",FOX Sport 2 FHD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/785.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1 FHD" tvg-logo="" group-title="Sport",FOX Sport 1 FHD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/784.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="" group-title="Sport",ASSP 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/614.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="" group-title="Sport",ASSP 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/615.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="" group-title="Sport",ASSP 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/616.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="" group-title="Sport",ASSP 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/617.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 1" tvg-logo="" group-title="Sport",Liga Champion TV 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/629.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 1 HD" tvg-logo="" group-title="Vidio",Liga Champion TV 1 HD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/797.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 2" tvg-logo="" group-title="Sport",Liga Champion TV 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/630.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Champion TV 2 HD" tvg-logo="" group-title="Vidio",Liga Champion TV 2 HD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/798.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Champion TV 3 HD" tvg-logo="" group-title="Vidio",Champion TV 3 HD
-http://mantul.biz.id:8888/live/herry25/mantulbgt/922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport LIVE" tvg-logo="" group-title="Sport",Sport LIVE
-http://mantul.biz.id:8888/live/herry25/mantulbgt/628.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport" tvg-logo="" group-title="Sport",MNC Sport
-http://mantul.biz.id:8888/live/herry25/mantulbgt/522.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 1 ID" tvg-logo="" group-title="Sport",Bein Sport 1 ID
-http://mantul.biz.id:8888/live/herry25/mantulbgt/185.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 2 ID" tvg-logo="" group-title="Sport",Bein Sport 2 ID
-http://mantul.biz.id:8888/live/herry25/mantulbgt/186.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBC Sport" tvg-logo="" group-title="Sport",NBC Sport
-http://mantul.biz.id:8888/live/herry25/mantulbgt/722.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Redbull TV" tvg-logo="" group-title="Sport",Redbull TV
-http://mantul.biz.id:8888/live/herry25/mantulbgt/309.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="Sport",FOX Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/30.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 2" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="Sport",FOX Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/29.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 3" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" group-title="Sport",FOX Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/28.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sport",Real Madrid TV
-http://mantul.biz.id:8888/live/herry25/mantulbgt/637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Olympic Channel" tvg-logo="" group-title="Sport",Olympic Channel
-http://mantul.biz.id:8888/live/herry25/mantulbgt/636.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Sport" tvg-logo="" group-title="Sport",TVRI Sport
-http://mantul.biz.id:8888/live/herry25/mantulbgt/88.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Indonesia 1" tvg-logo="" group-title="Sport",Liga Indonesia 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/432.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Liga Indonesia 2" tvg-logo="" group-title="Sport",Liga Indonesia 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/621.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sport",Arena Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/320.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2" tvg-logo="" group-title="Sport",Arena Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3" tvg-logo="" group-title="Sport",Arena Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/322.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 4" tvg-logo="" group-title="Sport",Arena Sport 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/323.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1" tvg-logo="" group-title="Sport",Sport TV 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/549.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2" tvg-logo="" group-title="Sport",Sport TV 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/550.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3" tvg-logo="" group-title="Sport",Sport TV 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/551.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4" tvg-logo="" group-title="Sport",Sport TV 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/552.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5" tvg-logo="" group-title="Sport",Sport TV 5
-http://mantul.biz.id:8888/live/herry25/mantulbgt/553.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fight Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sport",Fight Sport
-http://mantul.biz.id:8888/live/herry25/mantulbgt/27.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA TV" tvg-logo="" group-title="Sport",NBA TV
-http://mantul.biz.id:8888/live/herry25/mantulbgt/358.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 1" tvg-logo="" group-title="Sport",Bein Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/266.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 2" tvg-logo="" group-title="Sport",Bein Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/267.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 3" tvg-logo="" group-title="Sport",Bein Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/268.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 4" tvg-logo="" group-title="Sport",Bein Sport 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/269.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 5" tvg-logo="" group-title="Sport",Bein Sport 5
-http://mantul.biz.id:8888/live/herry25/mantulbgt/270.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 6" tvg-logo="" group-title="Sport",Bein Sport 6
-http://mantul.biz.id:8888/live/herry25/mantulbgt/271.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 7" tvg-logo="" group-title="Sport",Bein Sport 7
-http://mantul.biz.id:8888/live/herry25/mantulbgt/272.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 8" tvg-logo="" group-title="Sport",Bein Sport 8
-http://mantul.biz.id:8888/live/herry25/mantulbgt/273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 9" tvg-logo="" group-title="Sport",Bein Sport 9
-http://mantul.biz.id:8888/live/herry25/mantulbtg/274.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 10" tvg-logo="" group-title="Sport",Bein Sport 10
-http://mantul.biz.id:8888/live/herry25/mantulbgt/375.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 11" tvg-logo="" group-title="Sport",Bein Sport 11
-http://mantul.biz.id:8888/live/herry25/mantulbgt/275.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport 12" tvg-logo="" group-title="Sport",Bein Sport 12
-http://mantul.biz.id:8888/live/herry25/bgt/276.ts
 
 
 
