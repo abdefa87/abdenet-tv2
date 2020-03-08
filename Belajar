@@ -179,16 +179,16 @@ https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
 https://dl.dropbox.com/s/mda705alwvrp3ik/bein2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/185.ts
+http://mantul.biz.id:8888/live/herry25/mantulbgt/185.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports HD 2
 http://mantul.biz.id:8888/live/herry25/mantulbgt/186.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-https://b27v.broiptv.online/play/free@broiptv.online/RoRe5SW6/NTOF61kU/rattus/useesports/playlist.m3u8
+https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1935051947_b1344100_sleng.m3u8?enc=sjRtIyZOZWiDXDLxA4c3bg&exp=1583660709
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-https://b27v.broiptv.online/play/free@broiptv.online/RoRe5SW6/NTOF61kU/rattus/useesports2/playlist.m3u8
+https://cdnmdc1.useetv.com/joss/15/useesports2/chunklist_w1608480925_b1344100_sleng.m3u8?enc=AFMvlSB3FQ0sFIi7ctYBIw&exp=1583658011
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1 vip
 http://mantul.biz.id:8888/live/herry25/mantulbgt/432.ts
@@ -439,7 +439,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED SHOPEE LIGA 1 (08/03/2020)",15.30 WIB | AREMA FC vs PERSIB 
-http://mantul.biz.id:8888/live/herry25/mantulbgt/432.ts
+https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1935051947_b1344100_sleng.m3u8?enc=sjRtIyZOZWiDXDLxA4c3bg&exp=1583660709
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED SHOPEE LIGA 1 (08/03/2020)",18.30 WIB | PSS SLEMAN vs PERSIKABO BOGOR
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
