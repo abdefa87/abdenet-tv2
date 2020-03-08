@@ -351,16 +351,16 @@ http://mantul.biz.id:8888/live/herry25/mantulbgt/794.ts
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/31.ts
+http://178.128.29.102:25461/movon/ayomovon/14
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/33.ts
+http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/117.ts
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
@@ -408,10 +408,10 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://mantul.biz.id:8888/live/herry25/herry/889.ts
+https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583701798~acl=/hls-b/ingest_geo_6362_*/*~hmac=9af808d112db1f579deab9732c564b7a657491d41cc4fcc06a5c1019ebb0ebfe/hls-b/ingest_geo_6362_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
 https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
@@ -442,6 +442,7 @@ http://210.210.155.66/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="ENTERTAINMENT",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
@@ -449,7 +450,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-http://mantul.biz.id:8888/live/herry25/mantulbgt/608.ts
+http://tvku.live:8888/0082136285/8788233557/1533
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=ltmWyWnZ&v=20200202
