@@ -301,6 +301,8 @@ http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Abu Dhabi Sports [720p]
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 
+#EXTINF:0 tvg-logo="" group-title="FEED SPORTS", LA LIGA EL BARCA
+http://35.227.234.181/live/l/chunks.m3u8
 
 
 
