@@ -29,7 +29,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-http://mantul.biz.id:8888/live/herry25/herry/26.ts
+http://mantul.biz.id:8888/live/herry25/mantulbgt/26.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -41,7 +41,7 @@ http://streamku.live:8888/live/masmuto/masmutosn20/608.ts
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-http://mantul.biz.id:8888/live/herry25/herry/645.ts
+http://mantul.biz.id:8888/live/herry25/mantulbgt/645.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR FHD
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
@@ -53,7 +53,7 @@ http://streamku.live:8888/live/masmuto/masmutosn20/609.ts
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV HD
-http://mantul.biz.id:8888/live/herry25/herry/12.ts
+http://mantul.biz.id:8888/live/herry25/mantulbgt/12.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
@@ -91,7 +91,7 @@ https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
-http://mantul.biz.id:8888/live/herry25/herry/596.ts
+http://mantul.biz.id:8888/live/herry25/mantulbgt/596.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV +
 https://anevia115.mncnow.id:443/live/eds/MetroTV/sa_hls/MetroTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
@@ -118,7 +118,7 @@ http://mantul.biz.id:8888/live/herry25/herry/81.ts
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
-http://mantul.biz.id:8888/live/herry25/herry/15.ts
+http://mantul.biz.id:8888/live/herry25/mantulbgt/15.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
