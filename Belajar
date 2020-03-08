@@ -172,6 +172,13 @@ https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 ID
 https://dl.dropbox.com/s/mda705alwvrp3ik/bein2.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 FHD
+http://35.227.234.181/live/e1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 FHD
+http://35.227.234.181/live/e2/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
 https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w1501696863_b8128000_sleng.m3u8?enc=fh1ztvOXg059hBplfNHfJA&exp=1583685428
 
