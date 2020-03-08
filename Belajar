@@ -430,7 +430,7 @@ http://mantul.biz.id:8888/live/herry25/mantulbgt/608.ts
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://210.210.155.66/h/h37/index2.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
@@ -460,7 +460,8 @@ https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 http://host4.dynns.com/stream/1c2276a2f1884b269ce281c3334e8f85.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
-http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+http://210.210.155.66/h/h37/index2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="ENTERTAINMENT",HITS MOVIES
 https://delivery.macan.live/stream/hits_movies/index.m3u8?token=ltmWyWnZ&v=20200202
