@@ -444,17 +444,10 @@ https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1935051947_b1344100_slen
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED SHOPEE LIGA 1 (08/03/2020)",18.30 WIB | PSS SLEMAN vs PERSIKABO BOGOR
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",21.00 WIB (CH1) | CHELSEA vs EVERTON
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",21.00 WIB | CHELSEA vs EVERTON
 https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",21.00 WIB (CH2) | CHELSEA vs EVERTON
-http://mantul.biz.id:8888/live/herry25/mantulbgt/615.ts
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",23.30 WIB (CH1)| Manchester UTD vs Manchester City
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",23.30 WIB (CH2)| Manchester UTD vs Manchester City
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",23.30 WIB | Manchester UTD vs Manchester City
 http://mantul.biz.id:8888/live/herry25/mantulbgt/615.ts
 
 
