@@ -248,19 +248,19 @@ http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="FEED SPORTS",TrueSports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="ABDE SPORTS",TrueSports HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XtgVyKZ/20200303-005338.png" group-title="FEED SPORTS",TrueSports HD 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtgVyKZ/20200303-005338.png" group-title="ABDE SPORTS",TrueSports HD 2 
 https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SnrbywK/20200303-010212.png" group-title="FEED SPORTS",TrueSports HD 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnrbywK/20200303-010212.png" group-title="ABDE SPORTS",TrueSports HD 3
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="FEED SPORTS",TrueSports 5
+#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 5
 https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="FEED SPORTS",TrueSports 6
+#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 6
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 ###### SPORTS ABUDABI #####
