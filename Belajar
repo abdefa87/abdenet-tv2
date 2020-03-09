@@ -246,10 +246,10 @@ http://185.180.12.34:8080/SK5/video.m3u8?token=test
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1
-http://iptv.lancar.tech:25461/iptvok/lancar/167
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2
-http://iptv.lancar.tech:25461/iptvok/lancar/168
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3
 https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
