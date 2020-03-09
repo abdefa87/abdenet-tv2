@@ -302,10 +302,6 @@ http://iptv.lancar.tech:25461/iptvok/lancar/167
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2+
 http://iptv.lancar.tech:25461/iptvok/lancar/923
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3+
-http://iptv.lancar.tech:25461/iptvok/lancar/167
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="ABDE SPORTS",TrueSports HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 
