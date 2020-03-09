@@ -166,23 +166,11 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 #### FEED SPORTS #####
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 ID
-https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 ID
-https://dl.dropbox.com/s/mda705alwvrp3ik/bein2.m3u8?dl=0
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 FHD
 https://edgejt6.useetv.com/joss/17/bein1/chunklist_w552720407_b8128000_sleng.m3u8?enc=MWUuxX25kRF-PKfBteP-5g&exp=1583764504
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 FHD
 https://cdnmdc2.useetv.com/joss/17/bein2/chunklist_w755737512_b1344100_sleng.m3u8?enc=cuoZ_RTcKvqBcRRW0g8ziQ&exp=1583764897
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
-https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w1501696863_b8128000_sleng.m3u8?enc=fh1ztvOXg059hBplfNHfJA&exp=1583685428
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports HD 2
-https://cdnjt25.useetv.com/joss/17/bein2/chunklist_w1574411338_b1344100_sleng.m3u8?enc=SPoZoouK0RFOGfiT8NFh2A&exp=1583686020
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
 https://edgejt6.useetv.com/joss/15/useesport/chunklist_w934955_b1344100_sleng.m3u8?enc=aznSpBUsT9V8Rq8NmXqePw&exp=1583762108
@@ -192,7 +180,6 @@ https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w925441706_b1344100_sle
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2
 https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
