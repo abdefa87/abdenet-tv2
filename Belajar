@@ -246,10 +246,10 @@ http://185.180.12.34:8080/SK5/video.m3u8?token=test
 http://185.180.12.34:8080/SK6/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1
-https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+http://iptv.lancar.tech:25461/iptvok/lancar/167
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+http://iptv.lancar.tech:25461/iptvok/lancar/168
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3
 https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
@@ -285,8 +285,7 @@ http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 http://185.180.12.89:8080/SPORT1/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/g7sHKdw/20200301-082036.png" group-title="ABDE SPORTS",Sky Sports 2 HD
-http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
-
+https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="ABDE SPORTS",TrueSports HD
 https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
@@ -297,6 +296,22 @@ https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnrbywK/20200303-010212.png" group-title="ABDE SPORTS",TrueSports HD 3
 https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1+
+http://iptv.lancar.tech:25461/iptvok/lancar/167
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2+
+http://iptv.lancar.tech:25461/iptvok/lancar/923
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3+
+http://iptv.lancar.tech:25461/iptvok/lancar/167
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="ABDE SPORTS",TrueSports HD
+https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtgVyKZ/20200303-005338.png" group-title="ABDE SPORTS",TrueSports HD 2 
+https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 5
 https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
 
@@ -304,16 +319,16 @@ https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="ABDE SPORTS",TrueSport HD 1
-https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
+http://iptv.lancar.tech:25461/iptvok/lancar/922
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XtgVyKZ/20200303-005338.png" group-title="ABDE SPORTS",TrueSport HD 2
-https://doofree88.com/streaming/hd-tsport2_720/index.m3u8
+http://iptv.lancar.tech:25461/iptvok/lancar/923
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnrbywK/20200303-010212.png" group-title="ABDE SPORTS",TrueSport HD 3
-https://doofree88.com/streaming/hd-tsport3_720/index.m3u8
+http://iptv.lancar.tech:25461/iptvok/lancar/924
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCKFvMN/20200303-005927.png" group-title="ABDE SPORTS",TrueSport HD 4
-https://doofree88.com/streaming/hd-tsport4_720/index.m3u8
+http://iptv.lancar.tech:25461/iptvok/lancar/925
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports2.png" group-title="ABDE SPORTS",TRUE SPORT 2
 https://doofree88.com/streaming/sd-tsport5_480/index.m3u8
@@ -326,6 +341,27 @@ https://doofree88.com/streaming/sd-tsport6_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvbeta.my.id/loggos/televisi/truesports7.png" group-title="ABDE SPORTS",TrueSport 7
 https://doofree88.com/streaming/sd-tsport7_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD+
+http://iptv.lancar.tech:25461/iptvok/lancar/919
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1+
+http://iptv.lancar.tech:25461/iptvok/lancar/160
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="ABDE SPORTS",SKYNET SPORT 2+
+http://iptv.lancar.tech:25461/iptvok/lancar/161
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="ABDE SPORTS",SKYNET SPORT 3+
+http://iptv.lancar.tech:25461/iptvok/lancar/162
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4+
+http://iptv.lancar.tech:25461/iptvok/lancar/163
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5+
+http://iptv.lancar.tech:25461/iptvok/lancar/164
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3cNkPcD/20200301-075321.png" group-title="ABDE SPORTS",SKYNET SPORT 6+
+http://iptv.lancar.tech:25461/iptvok/lancar/165
 
 
 
