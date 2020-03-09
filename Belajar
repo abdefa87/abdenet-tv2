@@ -173,11 +173,10 @@ https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
 https://dl.dropbox.com/s/mda705alwvrp3ik/bein2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 FHD
-http://35.227.234.181/live/e1/chunks.m3u8
+https://edgejt6.useetv.com/joss/17/bein1/chunklist_w552720407_b8128000_sleng.m3u8?enc=MWUuxX25kRF-PKfBteP-5g&exp=1583764504
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 FHD
-http://35.227.234.181/live/e2/chunks.m3u8
-
+https://cdnmdc2.useetv.com/joss/17/bein2/chunklist_w755737512_b1344100_sleng.m3u8?enc=cuoZ_RTcKvqBcRRW0g8ziQ&exp=1583764897
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports HD 1
 https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w1501696863_b8128000_sleng.m3u8?enc=fh1ztvOXg059hBplfNHfJA&exp=1583685428
@@ -186,10 +185,10 @@ https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w1501696863_b8128000_sleng.m3
 https://cdnjt25.useetv.com/joss/17/bein2/chunklist_w1574411338_b1344100_sleng.m3u8?enc=SPoZoouK0RFOGfiT8NFh2A&exp=1583686020
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1935051947_b1344100_sleng.m3u8?enc=Z6oeYwoSZ2t3LW-5wQizPQ&exp=1583667685
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w934955_b1344100_sleng.m3u8?enc=aznSpBUsT9V8Rq8NmXqePw&exp=1583762108
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1608480925_b1344100_sleng.m3u8?enc=qCJTe6_blJ95U9kp9DcuUg&exp=1583661905
+https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w925441706_b1344100_sleng.m3u8?enc=kZngtpOVHE1he7xK2SR0Yg&exp=1583762110
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
