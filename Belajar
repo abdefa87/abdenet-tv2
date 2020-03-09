@@ -292,40 +292,6 @@ http://35.227.234.181/live/l/chunks.m3u8
 
 
 
-#####JADWAL BOLA#######
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED SHOPEE LIGA 1 (08/03/2020)",15.30 WIB | AREMA FC vs PERSIB 
-https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w1935051947_b1344100_sleng.m3u8?enc=Z6oeYwoSZ2t3LW-5wQizPQ&exp=1583667685
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED SHOPEE LIGA 1 (08/03/2020)",18.30 WIB | PSS SLEMAN vs PERSIKABO BOGOR
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",21.00 WIB | CHELSEA vs EVERTON
-https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9corap32arxra1a/englishpremierleague.png?dl=0" group-title="PREMIER LEAGUE (08/03/2020)",23.30 WIB | Manchester UTD vs Manchester City
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cf56lt1qp8y9dpc/spainlaliga.png?dl=0" group-title="LA LIGA (08/03/2020)",18.00 WIB | Osasuna vs Espanyol
-https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cf56lt1qp8y9dpc/spainlaliga.png?dl=0" group-title="LA LIGA (08/03/2020)",20.00 WIB | Real Valladollid vs Athletic Bilbao
-http://mantul.biz.id:8888/live/herry25/mantulbgt/185.ts
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cf56lt1qp8y9dpc/spainlaliga.png?dl=0" group-title="LA LIGA (08/03/2020)",22.00 WIB | Levante vs Real Granada
-https://dl.dropbox.com/s/yvc7njcj6wv6iqd/bein1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u4kbglv95v2hh4f/italiaserie_a.png?dl=0" group-title="SERIE A (08/03/2020)",18.30 WIB | Fiorentina vs Brescia
-https://dl.dropbox.com/s/mda705alwvrp3ik/bein2.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u4kbglv95v2hh4f/italiaserie_a.png?dl=0" group-title="SERIE A (08/03/2020)",21.30 WIB | AC Milan vs Genoa
-http://mantul.biz.id:8888/live/herry25/mantulbgt/186.ts
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vi58nxm0saen8vm/germanybundesliga.png?dl=0" group-title="BUNDES LIGA (08/03/2020)",21.30 WIB | Bayern Munchen vs Augsburg
-http://mantul.biz.id:8888/live/herry25/mantulbgt/794.ts
 
 
 
