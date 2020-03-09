@@ -172,51 +172,57 @@ https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 
+http://iptv.lancar.tech:25461/iptvok/lancar/25
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2
+http://iptv.lancar.tech:25461/iptvok/lancar/25
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-https://edgejt6.useetv.com/joss/15/useesport/chunklist_w934955_b1344100_sleng.m3u8?enc=aznSpBUsT9V8Rq8NmXqePw&exp=1583762108
+http://iptv.lancar.tech:25461/iptvok/lancar/5134
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w925441706_b1344100_sleng.m3u8?enc=kZngtpOVHE1he7xK2SR0Yg&exp=1583762110
+http://iptv.lancar.tech:25461/iptvok/lancar/5135
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
+https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/792.ts
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/793.ts
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/794.ts
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",FOX Sports
-http://mantul.biz.id:8888/live/herry25/mantulbgt/784.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",FOX Sports+
+http://iptv.lancar.tech:25461/iptvok/lancar/68
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",FOX Sports 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/785.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",FOX Sports 2+
+http://iptv.lancar.tech:25461/iptvok/lancar/69
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",FOX Sports 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/786.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",FOX Sports 3+
+http://iptv.lancar.tech:25461/iptvok/lancar/70
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6Dd1n4/20200227-001046.png" group-title="FEED SPORTS",SuperSport 1
-http://mantul.biz.id:8888/live/herry25/mantulbgt/893.ts
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kX3W3rb/20200227-001247.png" group-title="FEED SPORTS",SuperSport 2
-http://mantul.biz.id:8888/live/herry25/mantulbgt/894.ts
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMXVgwp/20200227-001425.png" group-title="FEED SPORTS",SuperSport 3
-http://mantul.biz.id:8888/live/herry25/mantulbgt/895.ts
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwgY78Z/20200227-001558.png" group-title="FEED SPORTS",SuperSport 4
-http://mantul.biz.id:8888/live/herry25/mantulbgt/896.ts
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z2StN4C/20200227-001741.png" group-title="FEED SPORTS",SuperSport 5
-http://mantul.biz.id:8888/live/herry25/mantulbgt/897.ts
-
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
 
 
 ###### ABDE SPORTS ########
