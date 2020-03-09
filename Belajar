@@ -469,23 +469,22 @@ http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s
  ##### ANAK-ANAK #####
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Disney Channel
-http://mantul.biz.id:8888/live/herry25/mantulbgt/68.ts
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 #EXTINF:0 group-title="KIDS",Disney Jr
-http://mantul.biz.id:8888/live/herry25/mantulbgt/70.ts
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_big.png" group-title="KIDS", Nickelodeon
-http://mantul.biz.id:8888/live/herry25/mantulbgt/679.ts
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_big.png" group-title="KIDS", Nick JR
-http://mantul.biz.id:8888/live/herry25/mantulbgt/353.ts
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
-
+http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 
 #EXTINF:0 group-title="KIDS",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
