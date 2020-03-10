@@ -195,7 +195,7 @@ http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDar
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NjRxdSQ/20200226-221055.png" group-title="FEED SPORTS", Sony SIX
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_espn_560/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="FEED SPORTS",Sony TEN 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
