@@ -245,25 +245,50 @@ https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="ABDE SPORTS",Premier Football HD 5
 https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
-http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1
+https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="ABDE SPORTS",SKYNET SPORT 2
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch03.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="ABDE SPORTS",SKYNET SPORT 3
-http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch04.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4
-http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch05.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5
-http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch06.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3cNkPcD/20200301-075321.png" group-title="ABDE SPORTS",SKYNET SPORT 6
+https://tv4.chang55.com/live2/tv4ch07.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD+
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1+
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="ABDE SPORTS",SKYNET SPORT 2+
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="ABDE SPORTS",SKYNET SPORT 3+
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4+
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5+
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3cNkPcD/20200301-075321.png" group-title="ABDE SPORTS",SKYNET SPORT 6+
 http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/DWzqK5R/20200301-082139.png" group-title="ABDE SPORTS",SKY Sport 1 HD
