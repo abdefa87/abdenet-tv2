@@ -316,11 +316,21 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 ##### AFC CUP ######
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH1) | PSM MAKASAR VS KAYA FC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH1) | PSM MAKASAR VS KAYA FC (GRUP H)
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH2) | PSM MAKASAR VS KAYA FC
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH2) | PSM MAKASAR VS KAYA FC (GRUP H)
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH3) | PSM MAKASAR VS KAYA FC (GRUP H)
+https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB | Santos vs Delfin (GRUP G)
+https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",05.15 WIB | Bolivar vs Tigre (GRUP B) 
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
+
 
 
 
