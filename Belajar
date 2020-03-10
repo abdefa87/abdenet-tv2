@@ -322,13 +322,13 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH2) | PSM MAKASAR VS KAYA FC (GRUP H)
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH3) | PSM MAKASAR VS KAYA FC (GRUP H)
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB | Santos vs Delfin (GRUP G)
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/7
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/11
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",05.15 WIB | Bolivar vs Tigre (GRUP B) 
 http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
@@ -337,12 +337,14 @@ http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDar
 https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",18.30 WIB | Lao Toyota vs Ho Chi Minh (GRUP F)
-https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_2/playlist.m3u8
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",18.45 WIB | Tampines Rovers vs Shan United (GRUP H)
-https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_1/playlist.m3u8
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
 
-###### CHAMPIONS LEAGUE ######
+
+
+###### CHAMPIONS LEAGUE ####
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch1) | (agg 1-0) RB Leipzig vs Tottenham (Round of 16 - Leg 2)
 https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/champion_tv_1/playlist.m3u8
 
@@ -350,10 +352,10 @@ https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/ch
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0 group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch1) | (agg 1-4) Valencia vs Atalanta (Round of 16 - Leg 2)
-https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/champion_tv_2/playlist.m3u8
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/7
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch2) | (agg 1-4) Valencia vs Atalanta (Round of 16 - Leg 2)
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
 
 
 
