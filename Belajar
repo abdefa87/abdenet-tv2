@@ -312,6 +312,8 @@ https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 6
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 6
+https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 
 ##### AFC CUP ######
@@ -331,6 +333,30 @@ https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",05.15 WIB | Bolivar vs Tigre (GRUP B) 
 http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",16.00 WIB | Yangon United vs Hougang United (GRUP F)
+https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",18.30 WIB | Lao Toyota vs Ho Chi Minh (GRUP F)
+https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",18.45 WIB | Tampines Rovers vs Shan United (GRUP H)
+https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_1/playlist.m3u8
+
+###### CHAMPIONS LEAGUE ######
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL CHAMPIONS LEAGUE",15:0003.00 WIB (Ch1) | (agg 1-0) RB Leipzig vs Tottenham (Round of 16 - Leg 2) WI
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL CHAMPIONS LEAGUE",15:0003.00 WIB (Ch1) | (agg 1-0) RB Leipzig vs Tottenham (Round of 16 - Leg 2) WI
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL CHAMPIONS LEAGUE",15:00 WIB (CH3) | PSM MAKASAR VS KAYA FC (GRUP H)
+https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL CHAMPIONS LEAGUE",15:00 WIB | Santos vs Delfin (GRUP G)
+https://dl.dropbox.com/s/aih47gvg36ls8t9/gameon.ts?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL CHAMPIONS LEAGUE",05.15 WIB | Bolivar vs Tigre (GRUP B) 
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
 
 
 
