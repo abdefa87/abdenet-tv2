@@ -195,19 +195,19 @@ http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDar
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NjRxdSQ/20200226-221055.png" group-title="FEED SPORTS", Sony SIX
-https://streamer-1.toffeelive.com/live/sony_six_hd_576/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="FEED SPORTS",Sony TEN 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="FEED SPORTS",Sony TEN 2
-https://streamer-1.toffeelive.com/live/ten_2_576/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="FEED SPORTS",Sony TEN 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQwXqZz/20200226-220924.png" group-title="FEED SPORTS",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_HD_576/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpV5Rvv/20200226-230938.png" group-title="FEED SPORTS",Eurosport 1
 http://ott.artmott.com/eurosport1/playlist.m3u8
