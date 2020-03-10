@@ -314,7 +314,13 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 
 
+##### AFC CUP ######
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKU87pAiRCcZjKQgBmzxstzIcTr-97HsWmZ98vyaxPwaix0nbM" group-title="JADWAL AFC CUP",15:30 WIB (CH1) | PSM MAKASAR VS KAYA 
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKU87pAiRCcZjKQgBmzxstzIcTr-97HsWmZ98vyaxPwaix0nbM" group-title="JADWAL AFC CUP",15:30 WIB (CH2) | PSM MAKASAR VS KAYA 
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
 
 
 
