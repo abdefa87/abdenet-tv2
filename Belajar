@@ -183,7 +183,7 @@ http://vvn.neoredi.com/iptv/ch8112?code=103131497823984&key=63339
 https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
+https://tv4.chang55.com/live2/tv4ch97.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
 http://iptv.lancar.tech:25461/iptvok/lancar/5134
@@ -257,7 +257,7 @@ http://mantul.biz.id:8888/live/35Joe01/35Joe0703/29.ts
 http://mantul.biz.id:8888/live/35Joe01/35Joe0703/28.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
-https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2
 https://doofree88.com/streaming/epl-bein2_720/index.m3u8
@@ -419,14 +419,16 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch2) | (agg 0-1) Liverpool vs Atletico Madrid (Round of 16 - Leg 2)
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+https://b27v.broiptv.online/play/free@broiptv.online/DUhNjDHu/f8b4wRhj/rattus/champion_tv_1/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0 group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch1) | (agg 1-2) PSG vs Dortmund (Round of 16 - Leg 2)
 https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch2) | (agg 1-2) PSG vs Dortmund (Round of 16 - Leg 2)
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+https://b27v.broiptv.online/play/free@broiptv.online/DUhNjDHu/f8b4wRhj/rattus/champion_tv_2/playlist.m3u8
+
 
 
 
