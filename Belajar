@@ -173,10 +173,10 @@ https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-http://iptv.lancar.tech:25461/iptvok/lancar/5134
+https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-http://iptv.lancar.tech:25461/iptvok/lancar/5135
+https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
@@ -195,7 +195,7 @@ http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDar
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NjRxdSQ/20200226-221055.png" group-title="FEED SPORTS", Sony SIX
-https://streamer-1.toffeelive.com/live/sony_espn_560/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="FEED SPORTS",Sony TEN 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
