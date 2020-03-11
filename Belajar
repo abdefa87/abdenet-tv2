@@ -166,6 +166,15 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 #### FEED SPORTS #####
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
+https://b27v.broiptv.online/play/free@broiptv.online/DUhNjDHu/f8b4wRhj/rattus/champion_tv_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
+https://b27v.broiptv.online/play/free@broiptv.online/DUhNjDHu/f8b4wRhj/rattus/champion_tv_2/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
 https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 
