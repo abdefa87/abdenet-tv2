@@ -194,7 +194,7 @@ http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDar
 http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NjRxdSQ/20200226-221055.png" group-title="FEED SPORTS", Sony SIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ktZ4hW/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="FEED SPORTS",Sony TEN 1
@@ -230,6 +230,9 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHsZcyp/20200311-124553.png" group-title="FEED SPORTS",FOX Sports Thailand
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",FOX Sports
 http://mantul.biz.id:8888/live/35Joe01/35Joe0703/30.ts
