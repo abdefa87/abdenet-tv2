@@ -387,45 +387,30 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 ##### AFC CUP ######
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH1) | PSM MAKASAR VS KAYA FC (GRUP H)
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP 11 MARET 2020",18.30 WIB (CH1) | Ceres–Negros vs Bali United
+http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH2) | PSM MAKASAR VS KAYA FC (GRUP H)
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/12
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB (CH3) | PSM MAKASAR VS KAYA FC (GRUP H)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP 11 MARET 2020",18.30 WIB (CH2) | Ceres–Negros vs Bali United
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",15:00 WIB | Santos vs Delfin (GRUP G)
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/11
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",05.15 WIB | Bolivar vs Tigre (GRUP B) 
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",16.00 WIB | Yangon United vs Hougang United (GRUP F)
-https://b27v.broiptv.online/play/free@broiptv.online/yQIGgc8n/JkLdTRqV/rattus/fox_sport_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",18.30 WIB | Lao Toyota vs Ho Chi Minh (GRUP F)
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/7
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP",18.45 WIB | Tampines Rovers vs Shan United (GRUP H)
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHscNJC/20200310-104438.png" group-title="JADWAL AFC CUP 11 MARET 2020",18.30 WIB (CH3)| Ceres–Negros vs Bali United
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 
 
 ###### CHAMPIONS LEAGUE ####
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch1) | (agg 1-0) RB Leipzig vs Tottenham (Round of 16 - Leg 2)
-https://etslive-2-vidio-com.akamaized.net/exp=1583863211~acl=/hls-p/ingest_geo_6685_*/*~hmac=cdc812fb84ba06bd09791909ea2141ae9615793da3beafb9244e694e79f88d65/hls-p/ingest_geo_6685_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch1) | (agg 0-1) Liverpool vs Atletico Madrid (Round of 16 - Leg 2)
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch2) | (agg 1-0) RB Leipzig vs Tottenham (Round of 16 - Leg 2)
-https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch2) | (agg 0-1) Liverpool vs Atletico Madrid (Round of 16 - Leg 2)
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0 group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch1) | (agg 1-4) Valencia vs Atalanta (Round of 16 - Leg 2)
-https://etslive-2-vidio-com.akamaized.net/exp=1583863212~acl=/hls-p/ingest_geo_6686_*/*~hmac=1860adb3d63a8a5cfe67363a390782c895a78824164a795a734cd0bf7fb871c8/hls-p/ingest_geo_6686_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0 group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch1) | (agg 1-2) PSG vs Dortmund (Round of 16 - Leg 2)
+https://tv4.chang55.com/live2/tv4ch02.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE",03.00 WIB (Ch2) | (agg 1-4) Valencia vs Atalanta (Round of 16 - Leg 2)
-https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bmcja493kga21d5/uefaucl.png?dl=0" group-title="JADWAL CHAMPIONS LEAGUE 12 MARET 2020",03.00 WIB (Ch2) | (agg 1-2) PSG vs Dortmund (Round of 16 - Leg 2)
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
 
 
