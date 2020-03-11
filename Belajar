@@ -184,6 +184,9 @@ https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2
 https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jHsZcyp/20200311-124553.png" group-title="FEED SPORTS",FOX Sports Thailand
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
 http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/7
 
@@ -230,9 +233,6 @@ http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jHsZcyp/20200311-124553.png" group-title="FEED SPORTS",FOX Sports Thailand
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",FOX Sports
 http://mantul.biz.id:8888/live/35Joe01/35Joe0703/30.ts
