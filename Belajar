@@ -173,10 +173,10 @@ https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
+http://iptv.lancar.tech:25461/iptvok/lancar/5134
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+http://iptv.lancar.tech:25461/iptvok/lancar/5135
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
