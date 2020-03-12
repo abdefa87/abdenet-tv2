@@ -333,6 +333,8 @@ https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="ABDE SPORTS",Premier Football HD 5
 https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD PLUS
+https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
 https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
