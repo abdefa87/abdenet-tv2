@@ -406,109 +406,35 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 
-####### BEIN GRUP #######
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://vvn.neoredi.com/iptv/ch8111?code=1501309316704233&key=33281
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://vvn.neoredi.com/iptv/ch8112?code=1501309316704233&key=12334
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://vvn.neoredi.com/iptv/ch8113?code=1501309316704233&key=46519
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://vvn.neoredi.com/iptv/ch8114?code=1501309316704233&key=40487
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://vvn.neoredi.com/iptv/ch8115?code=1501309316704233&key=26611
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://vvn.neoredi.com/iptv/ch8116?code=1501309316704233&key=29929
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://vvn.neoredi.com/iptv/ch8117?code=1501309316704233&key=24135
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://vvn.neoredi.com/iptv/ch8118?code=1501309316704233&key=39883
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-http://vvn.neoredi.com/iptv/ch8510?code=1501309316704233&key=20158
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-http://vvn.neoredi.com/iptv/ch8511?code=1501309316704233&key=15103
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
-http://vvn.neoredi.com/iptv/ch512?code=1501309316704233&key=55556
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-http://vvn.neoredi.com/iptv/ch513?code=1501309316704233&key=55186
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://vvn.neoredi.com/iptv/ch111?code=1501309316704233&key=54576
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://vvn.neoredi.com/iptv/ch112?code=1501309316704233&key=46098
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://vvn.neoredi.com/iptv/ch113?code=1501309316704233&key=39255
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://vvn.neoredi.com/iptv/ch114?code=1501309316704233&key=46165
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://vvn.neoredi.com/iptv/ch115?code=1501309316704233&key=45992
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://vvn.neoredi.com/iptv/ch116?code=1501309316704233&key=57392
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://vvn.neoredi.com/iptv/ch117?code=1501309316704233&key=58844
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://vvn.neoredi.com/iptv/ch118?code=1501309316704233&key=43336
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-http://vvn.neoredi.com/iptv/ch119?code=1501309316704233&key=27398
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
-http://vvn.neoredi.com/iptv/ch511?code=1501309316704233&key=51278
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
-http://vvn.neoredi.com/iptv/ch512?code=1501309316704233&key=55556
-
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
-http://vvn.neoredi.com/iptv/ch513?code=1501309316704233&key=55186
+####JADWAL BOLA ######
 
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",00.55 WIB | Eintracht Frankfurt vs Basel (Round of 16 - Leg 1)
+https://b27v.broiptv.online/play/free@broiptv.online/m27Y8hMQ/jLGXhJN2/rattus/champion_tv_1/playlist.m3u8
 
 
-####### SPORTS ONE #######
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",00.55 WIB (Ch1) | LASK Linz vs Manchester United (Round of 16 - Leg 1)
+https://b27v.broiptv.online/play/free@broiptv.online/m27Y8hMQ/jLGXhJN2/rattus/champion_tv_2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",00.55 WIB (Ch2) | LASK Linz vs Manchester United (Round of 16 - Leg 1)
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8","https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0","null","0","0",""
 
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="SPORTS ONE",Матч! Футбол 1
-http://176.9.101.195:80/303030/404040/260
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1 HD" tvg-logo="" group-title="SPORTS ONE 
-",Матч! Футбол 1 HD
-http://176.9.101.195:80/303030/404040/261
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="SPORTS ONE",Матч! Футбол 2
-http://176.9.101.195:80/303030/404040/262
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 2 HD" tvg-logo="" group-title="SPORTS ONE",Матч! Футбол 2 HD
-http://176.9.101.195:80/303030/404040/263
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="SPORTS ONE",Матч! Футбол 3
-http://176.9.101.195:80/303030/404040/264
-#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 3 HD" tvg-logo="" group-title="SPORTS ONE",Матч! Футбол 3 HD
-http://176.9.101.195:80/303030/404040/265
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",00.55 WIB | Istanbul Basaksehir vs Kobenhavn (Round of 16 - Leg 1)
+https://b27v.broiptv.online/play/free@broiptv.online/m27Y8hMQ/fWbynweB/rattus/useesports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sports 2 HD" tvg-logo="" group-title="SPORTS ONE",TV3 Sports 2 HD
-http://176.9.101.195:80/303030/404040/636
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sports HD" tvg-logo="" group-title="SPORTS ONE",TV3 Sports HD
-http://176.9.101.195:80/303030/404040/637
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sports HD [LV]" tvg-logo="" group-title="SPORTS ONE",TV3 Sports HD [LV]
-http://176.9.101.195:80/303030/404040/638
-#EXTINF:-1 tvg-id="" tvg-name="TV3 Sports SD" tvg-logo="" group-title="SPORTS ONE",TV3 Sports SD
-http://176.9.101.195:80/303030/404040/639
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",03.00 WIB | Olympiakos vs Wolves (Round of 16 - Leg 1)
+https://b27v.broiptv.online/play/free@broiptv.online/m27Y8hMQ/jLGXhJN2/rattus/champion_tv_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",03.00 WIB (Ch1) | Rangers vs Bayer Leverkusen (Round of 16 - Leg 1)
+https://b27v.broiptv.online/play/free@broiptv.online/m27Y8hMQ/jLGXhJN2/rattus/champion_tv_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",03.00 WIB (Ch2) | Rangers vs Bayer Leverkusen (Round of 16 - Leg 1)
+https://tv4.chang55.com/live2/tv4ch01.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/pps6mc8xntdme0m/uefauel.png?dl=0" group-title="UEFA EUROPA LEAGUE (12/03/2020)",03.00 WIB | Wolfsburg vs Shakhtar Donetsk (Round of 16 - Leg 1)
+https://b27v.broiptv.online/play/free@broiptv.online/m27Y8hMQ/fWbynweB/rattus/useesports/playlist.m3u8
 
 ##### MOVIES PREMIUM #####
 
