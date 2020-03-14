@@ -187,16 +187,16 @@ https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1 (Saat Pertandingan Bola)
 https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w1651387021_b1344100_sleng.m3u8?enc=dBWE_1zuOgR4E0mXT4CD4g&exp=1584180906
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2 (Saat Pertandingan Bola)
 https://cdnkbl2.useetv.com/joss/15/useesports2/chunklist_w1548600302_b1344100_sleng.m3u8?enc=qceab9ZcRX96hF4q-0_WHw&exp=1584181254
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1 (Saat Pertandingan Bola)
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2 (Saat Pertandingan Bola)
 https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHsZcyp/20200311-124553.png" group-title="FEED SPORTS",FOX Sports Thailand
