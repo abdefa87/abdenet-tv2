@@ -189,10 +189,10 @@ https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1
-https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1651387021_b1344100_sleng.m3u8?enc=_L_WRrJ0el5mg_mvw59hvQ&exp=1584177608
+https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w1651387021_b1344100_sleng.m3u8?enc=dBWE_1zuOgR4E0mXT4CD4g&exp=1584180906
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2
-https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1548600302_b1344100_sleng.m3u8?enc=V0djtptTMGsClMH1XvEUzw&exp=1584177909
+https://cdnkbl2.useetv.com/joss/15/useesports2/chunklist_w1548600302_b1344100_sleng.m3u8?enc=qceab9ZcRX96hF4q-0_WHw&exp=1584181254
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
@@ -417,9 +417,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1584173422~acl=/hls-p/ingest_205_*
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB (Ch3) | PSIS vs Arema FC 
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB | Persik Kediri vs Persiraja
-https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w1651387021_b1344100_sleng.m3u8?enc=_L_WRrJ0el5mg_mvw59hvQ&exp=1584177608
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB (Ch4) | PSIS vs Arema FC 
+https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w1651387021_b1344100_sleng.m3u8?enc=dBWE_1zuOgR4E0mXT4CD4g&exp=1584180906
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB | Persik Kediri vs Persiraja
+https://b27v.broiptv.online/play/free@broiptv.online/qegaMDHE/OPNN5Ych/rattus/idku/playlist.m3u8
 
 ##### MOVIES PREMIUM #####
 
