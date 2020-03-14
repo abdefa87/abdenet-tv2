@@ -167,20 +167,19 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583999943~acl=/hls-b/ingest_geo_6685_*/*~hmac=d158239ec04ebe55279a2e418ae171919f5f5acb001969eb4d49a504d8479d9c/hls-b/ingest_geo_6685_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584201587~acl=/hls-b/ingest_geo_6685_*/*~hmac=642b9012d31034de36df4fdfe17a801954c4ba6644839d345cd9cf42a17a7e60/hls-b/ingest_geo_6685_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://etslive-2-vidio-com.akamaized.net/exp=1583999943~acl=/hls-b/ingest_geo_6686_*/*~hmac=9497c0a08b3e2547c27be96ea638d377404225bc2f6f55ecb1df5096898c333b/hls-b/ingest_geo_6686_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584201588~acl=/hls-b/ingest_geo_6686_*/*~hmac=2d02f9d4d4f8606b73c19fb6b36fd27f833570633e73cf3c2a20cb6c5493b62d/hls-b/ingest_geo_6686_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://cdndaily.troll.network/x3/x3.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584201587~acl=/hls-b/ingest_geo_6685_*/*~hmac=642b9012d31034de36df4fdfe17a801954c4ba6644839d345cd9cf42a17a7e60/hls-b/ingest_geo_6685_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-http://vvn.neoredi.com/iptv/ch8112?code=103131497823984&key=63339
+https://etslive-2-vidio-com.akamaized.net/exp=1584201588~acl=/hls-b/ingest_geo_6686_*/*~hmac=2d02f9d4d4f8606b73c19fb6b36fd27f833570633e73cf3c2a20cb6c5493b62d/hls-b/ingest_geo_6686_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 
-http://vvn.neoredi.com/iptv/ch512?code=8601338691674826&key=55556
-
+https://etslive-2-vidio-com.akamaized.net/exp=1584201589~acl=/hls-b/ingest_geo_6786_*/*~hmac=edd80f225b817e3614487fcd461e8f2ff309fd132b9b1ed2a7c59a1d8963f721/hls-b/ingest_geo_6786_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
 https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
