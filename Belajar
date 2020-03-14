@@ -247,7 +247,7 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5
-http://185.180.12.34:8080/ARENA5HR/index.m3u8?token=test
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",FOX Sports
 http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
