@@ -407,20 +407,21 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 ####JADWAL BOLA ######
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB (Ch1) | PSIS vs Arema FC 
-https://b27v.broiptv.online/play/free@broiptv.online/qegaMDHE/OPNN5Ych/rattus/useesports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",15.30 WIB (Ch1) | Bali United vs Madura 
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1093736395_b1344100_sleng.m3u8?enc=Ka1d8MH7pULQNgr33rCnYQ&exp=1584269406
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB (Ch2) | PSIS vs Arema FC
-https://etslive-2-vidio-com.akamaized.net/exp=1584173422~acl=/hls-p/ingest_205_*/*~hmac=e6336c464436001db52ad71ae65a3abeb0c9f225d6bb561b84600283e2ab6d91/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",15.30 WIB (Ch2) | Bali United vs Madura
+https://etslive-2-vidio-com.akamaized.net/exp=1584274839~acl=/hls-p/ingest_6588_*/*~hmac=61082f5decf57699c8f1f44fd42d1ee6782d1a25e0aa32ed12993cdc6cd1998b/hls-p/ingest_6588_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB (Ch3) | PSIS vs Arema FC 
-https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w1651387021_b1344100_sleng.m3u8?enc=dBWE_1zuOgR4E0mXT4CD4g&exp=1584180
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",18.30 WIB | Persib vs PSS Sleman
+https://b27v.broiptv.online/play/free@broiptv.online/ZH39qtzM/Tf9u5unC/rattus/useesports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB (Ch4) | PSIS vs Arema FC 
-https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0906
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",18.30 WIB | PS Tira Persikabo vs Persita 
+https://b27v.broiptv.online/play/free@broiptv.online/ZH39qtzM/Tf9u5unC/rattus/idku/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (14/03/2020)",15.30 WIB | Persik Kediri vs Persiraja
-https://b27v.broiptv.online/play/free@broiptv.online/qegaMDHE/OPNN5Ych/rattus/idku/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",18.30 WIB | PSM vs Barito Putera
+https://dl.dropbox.com/s/l0p1q7yillpbzyj/liga1.m3u8?dl=0
+
 
 ##### MOVIES PREMIUM #####
 
