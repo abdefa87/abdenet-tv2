@@ -187,17 +187,37 @@ https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
 https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport 1 (Saat Pertandingan Livr)
-https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w1093736395_b1344100_sleng.m3u8?enc=MyE6z06pltl-kNE6F_D69A&exp=1584272702
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH1)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/1727
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport 2 (Saat Pertandingan Live)
-https://cdnkbl1.useetv.com/joss/15/useesports2/chunklist_w1984732943_b1344100_sleng.m3u8?enc=liECzyBq3bQ3r2nnJxAZ4g&exp=1584272711
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH2) 
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/1719
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sqhW9Wd/20200226-150139.png" group-title="FEED SPORTS",USee Sport HD 1 (Saat Pertandingan Live)
-https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH3)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/8942
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJdWP8Q/20200226-150354.png" group-title="FEED SPORTS",USee Sport HD 2 (Saat Pertandingan Live)
-https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH4)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/25226
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH5)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/1185
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH6)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/2408
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH7)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/26281
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH8)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/26305
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH9)
+https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH10)
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/26944
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHsZcyp/20200311-124553.png" group-title="FEED SPORTS",FOX Sports Thailand
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
@@ -404,24 +424,6 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 
 
-####JADWAL BOLA ######
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",15.30 WIB (Ch1) | Bali United vs Madura 
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1093736395_b1344100_sleng.m3u8?enc=Ka1d8MH7pULQNgr33rCnYQ&exp=1584269406
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",15.30 WIB (Ch2) | Bali United vs Madura
-https://etslive-2-vidio-com.akamaized.net/exp=1584274839~acl=/hls-p/ingest_6588_*/*~hmac=61082f5decf57699c8f1f44fd42d1ee6782d1a25e0aa32ed12993cdc6cd1998b/hls-p/ingest_6588_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",18.30 WIB | Persib vs PSS Sleman
-https://b27v.broiptv.online/play/free@broiptv.online/ZH39qtzM/Tf9u5unC/rattus/useesports/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",18.30 WIB | PS Tira Persikabo vs Persita 
-https://b27v.broiptv.online/play/free@broiptv.online/ZH39qtzM/Tf9u5unC/rattus/idku/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mrwobfq8aq3i7d8/indoliga1.png?dl=0" group-title="FEED ASIA (15/03/2020)",18.30 WIB | PSM vs Barito Putera
-https://dl.dropbox.com/s/l0p1q7yillpbzyj/liga1.m3u8?dl=0
-
 
 ##### MOVIES PREMIUM #####
 
@@ -430,10 +432,10 @@ https://dl.dropbox.com/s/l0p1q7yillpbzyj/liga1.m3u8?dl=0
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/3643
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/3641
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
@@ -442,10 +444,10 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/4829
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/4830
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
