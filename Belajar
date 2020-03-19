@@ -439,7 +439,7 @@ http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
