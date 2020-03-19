@@ -29,7 +29,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/31
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV+
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -44,7 +44,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 http://iptv.rizaldi.web.id/dakocan/m3u8/shopee.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-http://111.221.44.148:19410/live/ZalindoShopee/ModalDikitNapaNyuriAjaBisanyaDasarMiskin/21.ts
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/14983
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
