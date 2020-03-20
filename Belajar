@@ -217,7 +217,8 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH10)
 http://tvku.live:8888/RustamNesti/R86jvSsf8X/26944
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1PqcBD/TEVERIID-S1.png" group-title="FEED SPORTS",TVRI SPORTS
+http://tvku.live:8888/RustamNesti/R86jvSsf8X/3831
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHsZcyp/20200311-124553.png" group-title="FEED SPORTS",FOX Sports Thailand
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
