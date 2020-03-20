@@ -432,7 +432,7 @@ https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://tvku.live:8888/RustamNesti/R86jvSsf8X/3643
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
 http://tvku.live:8888/RustamNesti/R86jvSsf8X/3641
@@ -444,10 +444,10 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-http://tvku.live:8888/RustamNesti/R86jvSsf8X/4829
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-http://tvku.live:8888/RustamNesti/R86jvSsf8X/4830
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
