@@ -81,14 +81,13 @@ http://tvku.live:8888/RustamNesti/R86jvSsf8X/34
 https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
-http://165.22.104.84:25461/live/mymovon/mymovon/23.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584734083~acl=/hls-p/ingest_geo_1561_*/*~hmac=1810a06e4b6314bbf1f06adc5ac655549f11a40a344709bea4c35a881f0e5226/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV 2
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
