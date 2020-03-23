@@ -181,10 +181,10 @@ https://etslive-2-vidio-com.akamaized.net/exp=1584201588~acl=/hls-b/ingest_geo_6
 https://etslive-2-vidio-com.akamaized.net/exp=1584201589~acl=/hls-b/ingest_geo_6786_*/*~hmac=edd80f225b817e3614487fcd461e8f2ff309fd132b9b1ed2a7c59a1d8963f721/hls-b/ingest_geo_6786_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
-http://tvku.live:8888/RustamNesti/R86jvSsf8X/728
+https://tv4.chang55.com/live2/tv4ch96.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-http://tvku.live:8888/RustamNesti/R86jvSsf8X/729
+https://tv4.chang55.com/live2/tv4ch95.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH1)
 http://tvku.live:8888/RustamNesti/R86jvSsf8X/1727
