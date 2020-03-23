@@ -697,14 +697,6 @@ https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=ltmWyWnZ&v=2020020
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJK26R4J/Asian-food.png" group-title="KNOWLEDGE",Asian Food Channel
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="KNOWLEDGE",Fashion TV Teens
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="KNOWLEDGE",Fashion TV Films
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="KNOWLEDGE",Fashion TV Midnight
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
 
 ###### NASIONAL #######
