@@ -484,13 +484,13 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=1
+http://streamku.live:8888/live/edijkt69/3d1jkt69/598.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-https://etslive-2-vidio-com.akamaized.net/exp=1583780341~acl=/hls-b/ingest_geo_6362_*/*~hmac=33e5e37d0847362287c1daf833171f7bcd73ea85167e1c18deb81c28c51c79a2/hls-b/ingest_geo_6362_480p/index.m3u8
+http://streamku.live:8888/live/edijkt69/3d1jkt69/538.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
+http://streamku.live:8888/live/edijkt69/3d1jkt69/539.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.66/h/h143/01.m3u8
@@ -526,7 +526,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://iptv.lancar.tech:25461/iptvok/lancar/59
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-http://iptv.lancar.tech:25461/iptvok/lancar/76
+http://streamku.live:8888/live/edijkt69/3d1jkt69/593.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
