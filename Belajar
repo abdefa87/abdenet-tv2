@@ -517,7 +517,7 @@ http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="ENTERTAINMENT",AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+http://streamku.live:8888/live/edijkt69/3d1jkt69/855.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -542,7 +542,7 @@ http://210.210.155.66/h/h37/index2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="ENTERTAINMENT",HITS MOVIES
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=ltmWyWnZ&v=20200202
+http://streamku.live:8888/live/edijkt69/3d1jkt69/575.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
