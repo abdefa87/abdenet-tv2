@@ -78,7 +78,7 @@ https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southea
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV+
-https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
+http://streamku.live:8888/live/edijkt69/3d1jkt69/612.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
 https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w421463198_b684100_sleng.m3u8
