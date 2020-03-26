@@ -87,7 +87,7 @@ https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w421463198_b684100_sleng.m3u8
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_600000=4-mp4a_98800_eng=3.m3u8
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
