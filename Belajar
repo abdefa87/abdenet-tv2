@@ -451,7 +451,7 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 http://mantul.biz.id:8888/live/herry25/mantulbgt/81.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="MOVIES PREMIUM",Zee Bioskop
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
