@@ -427,16 +427,16 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://3.0.93.95:25461/PunyaZalindo/MiskinAmatNyolongLinkModalCoy/53
+http://vpsus.iptv.my.id:19410/live/iptvdakocan/dakocaniptv/3.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTA0MzIwMDN9fX1dfQ__&Signature=rACyPsePIxSsv95Odq7-ZXCFpS8IY56oqukfOOPQO6fZ7~TTa~CsWVMqzAcK~CnR4VnuD1ZMW~qou-Cw~NJhp3sGcqfGnMyZAlca760QZ7llKwlfb0oALHtfXuj9j3jhJOjnfjGYHnO2U6MFz6MbyKFxlN4Zo-UiDP4liaONVf0NFQLzxG3ixR8D4LOB3g67jOaAyHTk7JUM2W2RknWlLFsMKYdkvjYkw3H~gsBIDkIxb5u4QBKttyzYlK52OPCLO79siQf5wD4tFgWK~10prfNPwYdHmCIsfyCoBjf2BqWZEkrlZAvoRfU0Gx7WCp-nJclxTt0iPfCdjy3mu1-jXA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-http://streamku.live:8888/live/edijkt69/3d1jkt69/578.ts
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTkwNDMyMDA1fX19XX0_&Signature=oYouqJ7d1iNLxL2-60h1go7BXNCjj1DvnTEmP6TFr9xUZoP4bon42fcvBat04j8J2-vUhz6wCyZvDGPsTTFydKFaoRCUnMBpWFTARHI5jGz~P44cRZTgn9RhImbMqO6z6x3U-Zxjqi1l41y0I9IuLdic~TAq0jS9C7TyW7W2-hp3ke-BRhWk~kv0LJXwzDJyjRgUe9thn8rgcl~P0kd5woc3DFcF2IHKimOVPFD1XLis6o3sjtKKYv8mop38DDlIV6vDcWUNGH0x5iXsOxVSRCb7MUaF01if3-Y0xOkI1UMyzVS4a~o1ABZL7JaFsC3qKDz8Mg~CPSUneMWB8mtgUg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
@@ -448,7 +448,7 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 http://mantul.biz.id:8888/live/herry25/mantulbgt/81.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTA0MzIwMDV9fX1dfQ__&Signature=kvv9SN6nUPWqk5PR1rwLHmtDQTSLpRmgwDhjCrtp~ffYM6JPzf6WE6eEF82BOtYC6ZazHGnwLTxJZfg8TyhQVcjd7lGBZxm2F1VuTshkq6YcTrmJeayf4DS4FhooiRQGmneXVrbE2vPTlTwySEwIBbdHUGISbxczRydnK8~lpIuD8rCxqUWQKPdssudXn9z6LFufNR-eD8kRT~xUF5H1XUKGL7L8eYE8RL3VYNemD0-q6ZRSGM2l5iCMvBLVXfFIfJBYX9-DSxUUwSYIX3iCBwHsOen2fGw82g68PUr6IUHUQY3iQ9H5I3FKKrrWIbxFxrbniCGMYCnKN3-xe543bA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="MOVIES PREMIUM",Zee Bioskop
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
@@ -469,7 +469,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-http://210.210.155.66/h/h141/01.m3u8
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/axn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
@@ -478,13 +478,13 @@ http://210.210.155.35/dr9445/h/h16/02.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://streamku.live:8888/live/edijkt69/3d1jkt69/598.ts
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-http://streamku.live:8888/live/edijkt69/3d1jkt69/538.ts
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/tvn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
 http://streamku.live:8888/live/edijkt69/3d1jkt69/539.ts
@@ -517,13 +517,13 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://iptv.lancar.tech:25461/iptvok/lancar/59
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-http://streamku.live:8888/live/edijkt69/3d1jkt69/593.ts
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/warnertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
-http://3.0.93.95:25461/PunyaZalindo/GaModalAmatPlaylistBerbayarKokLinknyaCuriDariGratisan/5
+http://vpsus.iptv.my.id:19410/live/iptvdakocan/dakocaniptv/10.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GksSPcd/20200303-064210.png" group-title="ENTERTAINMENT",CCM
 http://streamku.live:8888/live/edijkt69/3d1jkt69/682.ts
