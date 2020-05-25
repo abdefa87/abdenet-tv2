@@ -166,25 +166,22 @@ https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southea
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2AbLJ1jnJ9hZF9wnUIhn2kcp3EsqmVjBGLkBQx4BI9vZGZ0AQRjZS9moTIhM19mqTqcpUE2Yz0mqGt/MJ5wCKWKMKD5FUAeITx2LwWUq0M2EwE2pTpzMKujCGR1BQx2AQtmAGNX
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/champions1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2AbLJ1jnJ9hZv9wnUIhn2kcp3EsqmH1ZwDjBGV4Ay9vZGZ0AQRjZS9moTIhM19mqTqcpUE2Yz0mqGt/MJ5wCIOIM2flF0cxrS8mEyMwDyb2D1ygEKpzMKujCGR1BQx2AQtmAGRX
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 3
-http://streamku.live:8888/live/edijkt69/3d1jkt69/935.ts
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/champions2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2WynJ4kY2AbqJ5eoTymqS93ZGDmBGR3AwRlZS9vZGZ0AQRjZS9moTIhM19mqTqcpUE2Yz0mqGt/MJ5wCII0Z0Z3pISlLHgSpItjnTEzDmujqzpzMKujCGR1BQx2AQtmAQLX
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/beinsport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2WynJ4lY2AbqJ5eoTymqS93ZGtlZGxlAmVmBS9vZGZ0AQRjZS9moTIhM19mqTqcpUE2Yz0mqGt/MJ5wCJ5nM1EYLxt0IREPZJIyqRS5GxkuJHRzMKujCGR1BQx2AQxmBGDX
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/beinsport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS CH 1
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y3ImMJImpT9lqP9wnUIhn2kcp3EsqmZjZmV1ZmZ4Ay9vZGZ0AQRjZS9moTIhM19mqTqcpUE2Yz0mqGt/MJ5wCGZgMGEenRuUp2kcqJZ3HIOxLIAILIRzMKujCGR1BQx2AQtmAQtX
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/useesport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 CH 1
-http://www.stgiptv.online/explore/player.m3u8?token=
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/useesport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH3)
 https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
@@ -218,13 +215,13 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2MirUAjo3W0ZF9wnUIhn2kcp3EsqmRlZmHmBQZ4ZmSsLwRmAQDkZQOsp2kyozqsp3EanKO0qv5gZ3H4C2IhLm01nS9XF1qjrRAmZzVmnR11JTEGqH5OWzI4pQ0kAGt5AwD4ZmHlPt==
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/foxsport1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2MirUAjo3W0Zv9wnUIhn2kcp3EsqmDjZQtmAmNmAI9vZGZ0AQRjZS9moTIhM19mqTqcpUE2Yz0mqGt/MJ5wCHV3rzcxZmO0qwMOLaymrzgzAHA3GUpzMKujCGR1BQx2AQtmAGZX
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/foxsport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-http://www.stgiptv.online/explore/player.m3u8?token=nUE0pUZ6Yl92L2EhnaDhqKAyMKE2YzAioF9do3AmYmR1Y2MirUAjo3W0Zl9wnUIhn2kcp3Esqmx5BGZ4ZmN0K2VkZmD0ZGNjK3AfMJ5aK3A0M2yjqULhoGA1BQ9yozZ9JJ1MrKSkLKybI0j4L2yjHTcCZJ9BDFMyrUN9ZGH4BGL0BQZ1Zjb=
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/foxsport3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ktZ4hW/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
