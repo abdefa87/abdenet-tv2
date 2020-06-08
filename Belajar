@@ -417,11 +417,8 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDRhk4S/20200227-061955.png" group-title="MOVIES PREMIUM",JGO FIRST MOVIES
-http://mantul.biz.id:8888/live/herry25/mantulbgt/81.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTA0MzIwMDV9fX1dfQ__&Signature=kvv9SN6nUPWqk5PR1rwLHmtDQTSLpRmgwDhjCrtp~ffYM6JPzf6WE6eEF82BOtYC6ZazHGnwLTxJZfg8TyhQVcjd7lGBZxm2F1VuTshkq6YcTrmJeayf4DS4FhooiRQGmneXVrbE2vPTlTwySEwIBbdHUGISbxczRydnK8~lpIuD8rCxqUWQKPdssudXn9z6LFufNR-eD8kRT~xUF5H1XUKGL7L8eYE8RL3VYNemD0-q6ZRSGM2l5iCMvBLVXfFIfJBYX9-DSxUUwSYIX3iCBwHsOen2fGw82g68PUr6IUHUQY3iQ9H5I3FKKrrWIbxFxrbniCGMYCnKN3-xe543bA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="MOVIES PREMIUM",Zee Bioskop
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
