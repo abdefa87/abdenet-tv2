@@ -85,11 +85,9 @@ http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hV5sgj0/20200225-093410.png" group-title="INDONESIA",JTV SURABAYA
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHpLnN0/20200225-091225.png" group-title="INDONESIA",JGO FIRTS MOVIES
-http://mantul.biz.id:8888/live/herry25/mantulbgt/81.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA",KOMPAS TV 
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
 http://mantul.biz.id:8888/live/herry25/mantulbgt/15.ts
@@ -402,16 +400,16 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://vpsus.iptv.my.id:19410/live/iptvdakocan/dakocaniptv/3.ts
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTA0MzIwMDN9fX1dfQ__&Signature=rACyPsePIxSsv95Odq7-ZXCFpS8IY56oqukfOOPQO6fZ7~TTa~CsWVMqzAcK~CnR4VnuD1ZMW~qou-Cw~NJhp3sGcqfGnMyZAlca760QZ7llKwlfb0oALHtfXuj9j3jhJOjnfjGYHnO2U6MFz6MbyKFxlN4Zo-UiDP4liaONVf0NFQLzxG3ixR8D4LOB3g67jOaAyHTk7JUM2W2RknWlLFsMKYdkvjYkw3H~gsBIDkIxb5u4QBKttyzYlK52OPCLO79siQf5wD4tFgWK~10prfNPwYdHmCIsfyCoBjf2BqWZEkrlZAvoRfU0Gx7WCp-nJclxTt0iPfCdjy3mu1-jXA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34793?play_token=4rbbwFQFxF&token=HhVYAkpZQF8XUlMJAARdBQtSUAAGXAVYVgNbW1VRDwUEBAZWAABSAAATThtFQ0pVUlk6X1QaWVJRBQFWG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVAdXVhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTkwNDMyMDA1fX19XX0_&Signature=oYouqJ7d1iNLxL2-60h1go7BXNCjj1DvnTEmP6TFr9xUZoP4bon42fcvBat04j8J2-vUhz6wCyZvDGPsTTFydKFaoRCUnMBpWFTARHI5jGz~P44cRZTgn9RhImbMqO6z6x3U-Zxjqi1l41y0I9IuLdic~TAq0jS9C7TyW7W2-hp3ke-BRhWk~kv0LJXwzDJyjRgUe9thn8rgcl~P0kd5woc3DFcF2IHKimOVPFD1XLis6o3sjtKKYv8mop38DDlIV6vDcWUNGH0x5iXsOxVSRCb7MUaF01if3-Y0xOkI1UMyzVS4a~o1ABZL7JaFsC3qKDz8Mg~CPSUneMWB8mtgUg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
