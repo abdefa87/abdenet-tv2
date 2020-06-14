@@ -386,10 +386,9 @@ http://210.210.155.35/dr9445/h/h16/02.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/flik.m3u8
-
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/imc.m3u8
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w302021241_b684100_sleng_80933.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
 http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/tvn.m3u8
