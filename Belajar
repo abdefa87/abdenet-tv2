@@ -13,22 +13,22 @@ https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV 
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
 http://210.210.155.35/session/637d701a-beda-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.sctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR FHD
-http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
+http://mkctv.net/vidio/indosiarsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
 http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.net.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV 
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
@@ -37,7 +37,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
 http://ikasalon.com/cgi_bin/vidio/m3u/tvone-live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV
 https://dl.dropbox.com/s/hk7utortqj7x18x/transtv.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
@@ -196,38 +196,15 @@ http://178.63.48.23:25461/AirMaxTVbein/sesOpJebFG/2
 
 ###### ABDE SPORTS ########
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qNRccmR/20200301-082330.png" group-title="ABDE SPORTS",SK 1 
-http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4TTmFL/20200301-082426.png" group-title="ABDE SPORTS",SK 2  
-http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/02WmM1q/20200301-082524.png" group-title="ABDE SPORTS",SK 3 
-http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jrgLT7D/20200301-083107.png" group-title="ABDE SPORTS",SK 4
-http://185.180.12.34:8080/SK4/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/crF93Fc/20200301-083237.png" group-title="ABDE SPORTS",SK 5
-http://185.180.12.34:8080/SK5/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sbDCM3V/20200301-083419.png" group-title="ABDE SPORTS",SK 6
-http://185.180.12.34:8080/SK6/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr.jpg" group-title="ABDE SPORTS",NBCSN
+https://fikrul.my.id/~andriant/tv/nbcsn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1
-https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="ABDE SPORTS",Premier Football HD 3
-https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1GCG6fP/20200301-001144.png" group-title="ABDE SPORTS",Premier Football HD 4
-https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="ABDE SPORTS",Premier Football HD 5
-https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD PLUS
 https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
@@ -319,19 +296,19 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DD
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NDExOTc3MH19fV19&Signature=K9e2w0UyjFmtdn3rE33dh~DcPa71~n-aUdlpA8JXMA5yhHZLhJp2lnSlAbcFToYOnxvUoyZra6BMfSfsaNta3iUarY2CuutA8aQr17ZtmYZas7akU2Dwd0hseCwjmUn6eO9l81C2ieF~LeFF6nHCVbdsZZgDCnXzN4-g-Z2bPmaomNwdWktb~uTffj4jTUofvykgb7f3STIb8Bv4K1LSqCtN0rLlWCWcBqNxkb78GdMMZX7AN~P8XiSjsFXFS5~lS3PxzE7n-AuGkTCLQMVMG3j6KWMtPLCQtK4b4cb6x4hNizL~RkXcIte~ZREgyERxYEpuBeMFtQ3w8CEJN9x5iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://fikrul.my.id/~andriant/film/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34804?play_token=4pCoKuRdVg&token=HhVYAkpZQF8XCQQPBVQJAwZRXQJTDlUAVFAMB1NWA1ZVDwZWCVVaAAUTThtFQ0pVUlk6X1QaWVJRCglbG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVA9UURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+https://fikrul.my.id/~andriant/film/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+https://fikrul.my.id/~andriant/film/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186
+https://fikrul.my.id/~andriant/film/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NDExOTc3MH19fV19&Signature=K9e2w0UyjFmtdn3rE33dh~DcPa71~n-aUdlpA8JXMA5yhHZLhJp2lnSlAbcFToYOnxvUoyZra6BMfSfsaNta3iUarY2CuutA8aQr17ZtmYZas7akU2Dwd0hseCwjmUn6eO9l81C2ieF~LeFF6nHCVbdsZZgDCnXzN4-g-Z2bPmaomNwdWktb~uTffj4jTUofvykgb7f3STIb8Bv4K1LSqCtN0rLlWCWcBqNxkb78GdMMZX7AN~P8XiSjsFXFS5~lS3PxzE7n-AuGkTCLQMVMG3j6KWMtPLCQtK4b4cb6x4hNizL~RkXcIte~ZREgyERxYEpuBeMFtQ3w8CEJN9x5iA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+http://203.153.218.28:9981/stream/channelid/255605374
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
 https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
@@ -393,7 +370,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://iptv.lancar.tech:25461/iptvok/lancar/59
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-http://ikasalon.com/cgi_bin/useetv/m3u/*&%23%25e&.warner.zlg*&%23%25e&.m3u8
+https://fikrul.my.id/~andriant/tv/warner.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
