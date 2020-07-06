@@ -29,7 +29,7 @@ http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.indosiar.m3u8
 http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.net.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV HD
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
