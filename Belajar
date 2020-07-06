@@ -144,30 +144,23 @@ http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.bein1.zlg*&-+%7c%5e7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
 http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.bein2.zlg*&-+%7c%5e7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS CH 1
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w224700635_b1344100_sleng_336154.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
+http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.useesport.zlg*&-+%7c%5e7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 CH 1
-https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1202421025_b1344100_sleng_336179.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH3)
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",SHOPEE LIGA 1 (CH4)
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
+http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.useesports2.zlg*&-+%7c%5e7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1PqcBD/TEVERIID-S1.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-http://iptv.burhansyam.com/useetv/foxsport1.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.foxsport1.zlg*&-+%7c%5e7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-http://iptv.burhansyam.com/useetv/foxsport2.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.foxsport2.zlg*&-+%7c%5e7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-http://iptv.burhansyam.com/useetv/foxsport3.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/*&-+%7c%5e7.foxsport3.zlg*&-+%7c%5e7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ktZ4hW/20200227-061213.png" group-title="FEED SPORTS", Sony SIX
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
