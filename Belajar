@@ -71,13 +71,13 @@ http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.kompastv.m3u8
 http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.beritasatu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
-https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w1454139836_b684100_sleng_290349.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/f4+-@%5e=&.useephoto.zlgf4+-@%5e=&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Krcx9Rj/20200225-092828.png" group-title="INDONESIA",USee Prime
-https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w589714763_b684100_sleng_335997.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/78+-@%5e=&.useeprime.zlg78+-@%5e=&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_w2014121997_b684100_sleng_336012.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/25+-@%5e=&.idku.zlg25+-@%5e=&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xg7VkvJ/20200225-092218.png" group-title="INDONESIA",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
@@ -384,10 +384,7 @@ http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.celestialmovie.zlg%5e%25@%5e
 http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.thrill.zlg%5e%25@%5e=&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-http://210.210.155.66/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="ENTERTAINMENT",AXN
-http://streamku.live:8888/live/edijkt69/3d1jkt69/855.ts
+http://ikasalon.com/cgi_bin/useetv/m3u/*86&%23%25e&.kix.zlg*86&%23%25e&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -415,7 +412,7 @@ http://210.210.155.66/h/h37/index2.m3u8
 http://streamku.live:8888/live/edijkt69/3d1jkt69/575.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
 http://ikasalon.com/cgi_bin/vidio/m3u/6399-zee-bioskop-prime.m3u8
@@ -434,7 +431,7 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+http://ikasalon.com/cgi_bin/useetv/m3u/96*&%23%25e&.cartoonnetwork.zlg96*&%23%25e&.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Disney XD
 http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
@@ -460,10 +457,10 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-http://45.126.83.51/dr9445/h/h144/01.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/&*&%5e*54.animax.zlg&*&%5e*54.m3u8
 
 #EXTINF:0 group-title="KIDS",Aniplus
-http://45.126.83.51/dr9445/h/h02/01.m3u8
+http://ikasalon.com/cgi_bin/useetv/m3u/%23@%23@%2387.aniplus.zlg%23@%23@%2387.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
