@@ -220,13 +220,13 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 https://fikrul.my.id/~andriant/film/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://fikrul.my.id/~andriant/film/hbohit.m3u8
+http://203.153.218.28:9981/stream/channelid/2038175895
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-https://fikrul.my.id/~andriant/film/hbofam.m3u8
+http://203.153.218.28:9981/stream/channelid/1316004766
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://fikrul.my.id/~andriant/film/hbosig.m3u8
+http://203.153.218.28:9981/stream/channelid/1197019186
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374
