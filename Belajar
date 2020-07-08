@@ -212,13 +212,13 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+https://cdn-laos.workpoint.news/hd-foxaction_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/hbo.m3u8
+http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
@@ -227,7 +227,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895
 http://203.153.218.28:9981/stream/channelid/1316004766
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/hbo-sign.m3u8
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
 https://vpsus.iptv.my.id/session/dear/hbo/admin/please/fix/your/json/the/link/can/be/accessed/without/prorper/credential/cinemax.m3u8
