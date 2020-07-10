@@ -225,7 +225,7 @@ https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-http://ikasalon.com/cgi_bin/useetv/m3u/*&%23%25e&32.axn.zlg*&%23%25e&32.m3u8
+https://mkctv.my.id/tv/axn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
@@ -234,10 +234,10 @@ http://210.210.155.35/dr9445/h/h16/02.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://ikasalon.com/cgi_bin/useetv/m3u/xyz.flik.zlgxyz.m3u8
+https://mkctv.my.id/tv/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.imc.zlg%5e%25@%5e=&.m3u8
+https://mkctv.my.id/tv/imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
 http://ikasalon.com/cgi_bin/vidio/m3u/6362-tvn-prime.m3u8
@@ -255,13 +255,13 @@ http://ikasalon.com/cgi_bin/useetv/m3u/*&44%23%25e&.sgem.zlg*&44%23%25e&.m3u8
 https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.celestialmovie.zlg%5e%25@%5e=&.m3u8
+https://mkctv.my.id/tv/clestial.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
 http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.thrill.zlg%5e%25@%5e=&.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-http://ikasalon.com/cgi_bin/useetv/m3u/*86&%23%25e&.kix.zlg*86&%23%25e&.m3u8
+https://mkctv.my.id/tv/kix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
