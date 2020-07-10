@@ -225,7 +225,7 @@ https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-https://mkctv.my.id/tv/axn.m3u8
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=C7DFF555C74BFD6C877DA5F3D88AEAA7F1CB1770&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
