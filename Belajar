@@ -249,7 +249,7 @@ http://ikasalon.com/cgi_bin/useetv/m3u/*&%23774%25e&.tvnmovies.zlg*&%23774%25e&.
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
-http://ikasalon.com/cgi_bin/useetv/m3u/*&44%23%25e&.sgem.zlg*&44%23%25e&.m3u8
+http://210.210.155.35/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
 https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
@@ -258,7 +258,7 @@ https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
 https://mkctv.my.id/tv/clestial.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
-http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.thrill.zlg%5e%25@%5e=&.m3u8
+http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
 https://mkctv.my.id/tv/kix.m3u8
@@ -288,10 +288,11 @@ http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h
 https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
-http://ikasalon.com/cgi_bin/vidio/m3u/6399-zee-bioskop-prime.m3u8
- ##### ANAK-ANAK #####
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Disney Channel
+###### ANAK-ANAK #####
+
+#EXTINF:-1 tvg-logo="KIDS" group-title="KIDS", Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 #EXTINF:0 group-title="KIDS",Disney Jr
@@ -304,7 +305,7 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_big.png" group-title="KIDS", Cartoon Network
-http://ikasalon.com/cgi_bin/useetv/m3u/96*&%23%25e&.cartoonnetwork.zlg96*&%23%25e&.m3u8
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=FF0EBD06D354AB48D6CC5DA09F6474CA734C5F43&profile=pass
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="KIDS", Disney XD
 http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
