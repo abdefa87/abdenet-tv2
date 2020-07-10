@@ -26,7 +26,7 @@ https://fikrul.my.id/~andriant/tv/sctv.m3u8
 https://fikrul.my.id/~andriant/tv/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
-https://fikrul.my.id/~andriant/tv/netsd.m3u8
+https://mkctv.net/vidio/net.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV 
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
@@ -41,7 +41,7 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 https://mkctv.net/vidio/rtv.m3u8/trans.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
-http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.rtv.m3u8
+http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
 https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
@@ -62,13 +62,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hV5sgj0/20200225-093410.png" group-title="INDONESIA",JTV SURABAYA
-http://ikasalon.com/cgi_bin/useetv/m3u/+-@212%5e=&.jtv.zlg+-@212%5e=&.m3u8
+http://202.80.222.175:80/000001/2/ch00000090990000001731/1003.m3u8?IASHttpSessionId=OTT2909201912131553552215851&ztecid=ch00000090990000001731&bandwidth=1413530&ispcode=1&timeformat=local&channel=ch00000090990000001731&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTQvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA",KOMPAS TV 
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
-http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.beritasatu.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
 http://ikasalon.com/cgi_bin/useetv/m3u/f4+-@%5e=&.useephoto.zlgf4+-@%5e=&.m3u8
