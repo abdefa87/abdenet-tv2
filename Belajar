@@ -17,13 +17,13 @@ https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-https://fikrul.my.id/~andriant/tv/antv.m3u8
+https://mkctv.my.id/tv/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
-https://fikrul.my.id/~andriant/tv/sctv.m3u8
+https://mkctv.my.id/tv/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
-https://fikrul.my.id/~andriant/tv/indosiar.m3u8
+https://mkctv.my.id/tv/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
 https://mkctv.net/vidio/net.m3u8
@@ -35,13 +35,13 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+https://mkctv.my.id/tv/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV
 https://mkctv.net/vidio/rtv.m3u8/trans.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
-http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
+https://mkctv.my.id/tv/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
 https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
@@ -204,7 +204,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DD
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://fikrul.my.id/~andriant/film/hbo.m3u8
+https://mkctv.my.id/filmhd/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
