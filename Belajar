@@ -213,7 +213,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895
 http://203.153.218.28:9981/stream/channelid/1316004766
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://fikrul.my.id/~andriant/film/hbosig.m3u8
+https://mkctv.my.id/movie/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
 https://mkctv.my.id/movie/cinemax.m3u8
