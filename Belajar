@@ -35,7 +35,7 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-http://103.148.44.22:8876/play/a0aq
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1595106783/ei/fxETX9KYFq-B9fwPteetyAo/ip/125.163.235.243/id/WmFNtQs7X-U.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-2uuxa3vh-wvbz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2960/mh/93/mm/44/mn/sn-2uuxa3vh-wvbz/ms/lva/mv/m/mvi/1/pl/22/dover/11/keepalive/yes/fexp/23883098/mt/1595084904/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAMPcB23ZatcckaYoTUueblZvpoGHsSMmJOQKzACy0PLZAiEA9Den8nQnxLqFiCUFnqhUEXUN-W8R9I_7smmSCmYiIBo%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAPkLa9p2iU-n3TanrRRkgLwOJ63DvdVO87MMQlgvX6K3AiA555Ukrnt1M-rQLnFlmKScIPwFPrdMfRyJSH15QnSuYg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
