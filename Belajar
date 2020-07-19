@@ -180,6 +180,8 @@ https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4
 https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/DWzqK5R/20200301-082139.png" group-title="ABDE SPORTS",SKY Sport 1 HD
 http://stream-e30453a4b.nmbs.top/m3u/Sports/050156c6ae.m3u8
