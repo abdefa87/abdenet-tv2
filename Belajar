@@ -11,22 +11,22 @@ https://content.jwplatform.com/videos/rJieAqhi-640.mp4
 https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+https://dl.dropbox.com/s/rurf6j98vbbq2qc/rcti.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
-http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/02.m3u8
+https://mkctv.my.id/tvje/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
-https://mkctv.my.id/tv/sctv.m3u8
+https://mkctv.my.id/tvje/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
-http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u8
+https://mkctv.net/tvje/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
-https://mkctv.my.id/tv/netsd.m3u8
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV 
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
@@ -47,7 +47,7 @@ https://mkctv.my.id/tv/rtv.m3u8
 https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="INDONESIA",CNN Indonesia SD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -204,7 +204,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DD
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
+https://mkctv.my.id/movie/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
