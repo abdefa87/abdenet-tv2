@@ -23,7 +23,7 @@ https://mkctv.my.id/tv/antv.m3u8
 https://mkctv.my.id/tv/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
-https://mkctv.net/vidio,com/indosiar.m3u8
+http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
 https://mkctv.my.id/tv/netsd.m3u8
@@ -35,7 +35,7 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1595106783/ei/fxETX9KYFq-B9fwPteetyAo/ip/125.163.235.243/id/WmFNtQs7X-U.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r1---sn-2uuxa3vh-wvbz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2960/mh/93/mm/44/mn/sn-2uuxa3vh-wvbz/ms/lva/mv/m/mvi/1/pl/22/dover/11/keepalive/yes/fexp/23883098/mt/1595084904/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAMPcB23ZatcckaYoTUueblZvpoGHsSMmJOQKzACy0PLZAiEA9Den8nQnxLqFiCUFnqhUEXUN-W8R9I_7smmSCmYiIBo%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAPkLa9p2iU-n3TanrRRkgLwOJ63DvdVO87MMQlgvX6K3AiA555Ukrnt1M-rQLnFlmKScIPwFPrdMfRyJSH15QnSuYg%3D%3D/playlist/index.m3u8
+http://210.210.155.35/session/8e9505d0-96ba-11ea-8085-b9b781aec6cb/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
@@ -77,7 +77,7 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ibb.co/r6GM2mR" group-title="INDONESIA",MY TV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
@@ -204,7 +204,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DD
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://mkctv.my.id/movie/hbo.m3u8
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
