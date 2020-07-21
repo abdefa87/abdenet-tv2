@@ -248,13 +248,13 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 https://mkctv.my.id/tv/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-https://mkctv.my.id/tvje/imc.m3u8
+https://mkctv.my.id/.tvje./imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-http://ikasalon.com/cgi_bin/vidio/m3u/6362-tvn-prime.m3u8
+https://cutt.ly/LiveTvn
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-http://ikasalon.com/cgi_bin/useetv/m3u/*&%23774%25e&.tvnmovies.zlg*&%23774%25e&.m3u8
+https://cutt.ly/LiveTvnmov
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
@@ -342,7 +342,7 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-http://ikasalon.com/cgi_bin/useetv/m3u/&*&%5e*54.animax.zlg&*&%5e*54.m3u8
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
 
 #EXTINF:0 group-title="KIDS",Aniplus
 http://ikasalon.com/cgi_bin/useetv/m3u/%23@%23@%2387.aniplus.zlg%23@%23@%2387.m3u8
