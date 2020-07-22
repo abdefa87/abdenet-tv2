@@ -345,7 +345,8 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-http://210.210.155.35/dr9445/h/h144/index2.m3u8
+https://cdngb196.useetv.com/joss/18/animax/chunklist_w779807455_b684100_sleng.m3u8?enc=ZAGhqzuV4tWcahjo73i9pA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595387158
+
 
 #EXTINF:0 group-title="KIDS",Aniplus
 http://ikasalon.com/cgi_bin/useetv/m3u/%23@%23@%2387.aniplus.zlg%23@%23@%2387.m3u8
