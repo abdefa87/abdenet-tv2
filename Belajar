@@ -19,6 +19,9 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
 http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1441578771_b1344100_sleng.m3u8?enc=xr30CRNrK8aqLpwkB2eZwQ&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595386797
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1595322076~acl=/hls-p/ingest_204_*/*~hmac=96a3b1aa0d69e550d0cb8188af8a606aa8151332c2f0deffbcfb5384d41f8f65/hls-p/ingest_204_720p/index.m3u8
 
@@ -117,10 +120,10 @@ https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1765789383_b1344100_sleng_2358.m3u8?enc=fXla8gSXJuFspktW6bOyrQ&id=YWI4MGRmYTY0OTRjNDk5OTYwNWU5YmNiNzk0MDhjNWY=&exp=1595340364
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1461909662_b1344100_sleng.m3u8?enc=yDHdMjwVi3AR7EwC4JJoQg&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595386657
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1073530389_b1344100_sleng_3226.m3u8?enc=_2ZD2XALQSXbpB0vGXFPNA&id=YWI4MGRmYTY0OTRjNDk5OTYwNWU5YmNiNzk0MDhjNWY=&exp=1595340365
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w783821713_b1344100_sleng.m3u8?enc=gVZnbBc-6IiS5v6eRtMPPA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595386714
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1PqcBD/TEVERIID-S1.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
