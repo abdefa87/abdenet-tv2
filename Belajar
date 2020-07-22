@@ -161,45 +161,31 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a13ca3449a.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5
 http://stream-e30453a4b.nmbs.top/m3u/Sports/752e52bae4.m3u8
 
-
-###### ABDE SPORTS ########
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr.jpg" group-title="ABDE SPORTS",NBCSN
-https://fikrul.my.id/~andriant/tv/nbcsn.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="ABDE SPORTS",Premier Football HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="FEED SPORTS",Premier Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="ABDE SPORTS",Premier Football HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="FEED SPORTS",Premier Football HD 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD PLUS
-https://www.livedoomovies.com/03_skynetsporthdplus_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="ABDE SPORTS",SKYNET SPORT HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="FEED SPORTS",SKYNET SPORT HD
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="ABDE SPORTS",SKYNET SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="FEED SPORTS",SKYNET SPORT 1
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="ABDE SPORTS",SKYNET SPORT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="FEED SPORTS",SKYNET SPORT 2
 https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="ABDE SPORTS",SKYNET SPORT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="FEED SPORTS",SKYNET SPORT 3
 https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="ABDE SPORTS",SKYNET SPORT 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="FEED SPORTS",SKYNET SPORT 4
 https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="ABDE SPORTS",SKYNET SPORT 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="FEED SPORTS",SKYNET SPORT 5
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/DWzqK5R/20200301-082139.png" group-title="ABDE SPORTS",SKY Sport 1 HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/050156c6ae.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/g7sHKdw/20200301-082036.png" group-title="ABDE SPORTS",Sky Sports 2 HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8
 
 
 ##### MOVIES PREMIUM #####
