@@ -119,12 +119,6 @@ https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 
-https://etslive-2-vidio-com.akamaized.net/exp=1595433799~acl=/hls-b/ingest_geo_6685_*/*~hmac=18c5471dd3203cd9b16eb1589eaa045d8a27bab0b06c7336a901228f242afe52/hls-b/ingest_geo_6685_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2
-https://production-premium-vidio-bein2.akamaized.net/out/v1/c2bf7d48124c4061a47356a97f5d2354/index_video_12_0_23071481.mp4?m=1549013416
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
 https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1386788726_b1344100_sleng.m3u8?enc=09soSidOyE6OLzOgShWBMA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595427442
 
