@@ -201,7 +201,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DD
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://mkctv.my.id/movie/hbo.m3u8
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
@@ -258,7 +258,7 @@ https://mkctv.my.id/tv/clestial.m3u8
 http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-https://mkctv.my.id/tv/kix.m3u8
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -290,7 +290,7 @@ http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s
 ###### ANAK-ANAK #####
 
 #EXTINF:-1 tvg-logo="KIDS" group-title="KIDS", Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=8420E6A71A5645C1B3E9C0D58C22DFD89A18A562&profile=pass
 
 #EXTINF:0 group-title="KIDS",Disney Jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -328,7 +328,7 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 group-title="KIDS",Animax
-https://cdngb196.useetv.com/joss/18/animax/chunklist_w779807455_b684100_sleng.m3u8?enc=ZAGhqzuV4tWcahjo73i9pA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595387158
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
 
 #EXTINF:0 group-title="KIDS",Aniplus
