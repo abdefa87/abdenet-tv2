@@ -20,13 +20,13 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://cdnbdsa1.useetv.com/joss/15/sctv/chunklist_w401595778_b1344100_sleng.m3u8?enc=Gy8ZPc3hEyNK-Qxa_V1oKQ&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595471217
+https://cdnjt22.useetv.com/joss/15/sctv/chunklist_w407587921_b1344100_sleng.m3u8?enc=nLT-di5aAt5TWIDID0tMkw&exp=1595486879
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1595322076~acl=/hls-p/ingest_204_*/*~hmac=96a3b1aa0d69e550d0cb8188af8a606aa8151332c2f0deffbcfb5384d41f8f65/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://cdnbdsa1.useetv.com/joss/15/indosiar/chunklist_w1281045158_b894100_sleng.m3u8?enc=JhxNkqhzoJoLr2PQvtArfA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595471164
+https://cdnjt22.useetv.com/joss/15/indosiar/chunklist_w1793017470_b894100_sleng.m3u8?enc=ec5opacIxnmoom59_Sn2mQ&exp=1595486927
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
@@ -71,7 +71,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hV5sgj0/20200225-093410.png" group-title="INDONESIA",JTV SURABAYA
-http://122.248.43.138:1935/ch2/myStream/chunklist_w2146882825.m3u8
+https://cdnjt22.useetv.com/joss/18/jtv/chunklist_w1076094364_b684100_sleng.m3u8?enc=YyXs5O-clpiJVHs9PbYbaA&exp=1595487056
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA",KOMPAS TV 
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
@@ -80,10 +80,10 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+https://cdnjt22.useetv.com/joss/15/useephoto/chunklist_w430969223_b1344100_sleng.m3u8?enc=T4QfUp_fuNIaeLoR4MoKTQ&exp=1595486975
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Krcx9Rj/20200225-092828.png" group-title="INDONESIA",USee Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+https://cdnjt22.useetv.com/joss/15/useeprime/chunklist_w565434483_b894100_sleng.m3u8?enc=nqI0nix12TzGACl13DsMYA&exp=1595487010
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/index.m3u8
@@ -120,10 +120,10 @@ https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1963505202_b1344100_sleng.m3u8?enc=73jkEjJDTYMI6LIMie1WEA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595471101
+https://cdnjt22.useetv.com/joss/15/useesport/chunklist_w1510003395_b1344100_sleng.m3u8?enc=PxD3N6dOIuKKJ4U2aaiemw&exp=1595487099
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w1776653139_b1344100_sleng.m3u8?enc=lhkUd29ICF4U4OO_SSqAbw&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595471133
+https://cdnjt22.useetv.com/joss/15/useesports2/chunklist_w1542445189_b894100_sleng.m3u8?enc=UwwLV2TR1mCdUPUjQqZvog&exp=1595487134
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
