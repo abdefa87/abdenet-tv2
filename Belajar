@@ -199,7 +199,7 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DD
 http://203.153.218.28:9981/stream/channelid/756717990
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895
@@ -210,8 +210,11 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
 https://mkctv.my.id/movie/hbosig.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
 http://tvku.live:8888/live/serverkuh/123456/4833.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
+http://136.243.177.164/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
 https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
@@ -229,16 +232,16 @@ http://210.210.155.35/dr9445/h/h16/02.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-https://mkctv.my.id/tv/flik.m3u8
+http://nonton.site:8888/live/serverkuh/123456/29592.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
 https://mkctv.my.id/.tvje./imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-https://cutt.ly/LiveTvn
+http://tvku.live:8888/live/serverkuh/123456/767.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-https://cutt.ly/LiveTvnmov
+http://nonton.site:8888/live/serverkuh/123456/927.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
@@ -265,7 +268,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+http://nonton.site:8888/live/serverkuh/123456/1533.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
