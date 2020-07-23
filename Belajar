@@ -20,13 +20,13 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w515145770_b1344100_sleng.m3u8?enc=XP_OIX5Qi2_CjdVnNzCMnA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595502695
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
-https://cdnmdc2.useetv.com/joss/15/sctv/chunklist_w1170969436_b1344100_sleng.m3u8?enc=5tjz6cX4lN_-GtQ3tT94PA&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595512517
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w1106349656_b894100_sleng.m3u8?enc=gxdYTHK9a-6j4s0eszTDag&id=YjIzOGIzMjI4ZGE2ODk5YTJjNzI3ODNkNWFlNjIyMDI=&exp=1595512441
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
@@ -41,7 +41,7 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-https://mkctv.my.id/tvje/tvone.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE MPEG2
 http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
@@ -94,7 +94,7 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/molat.png" group-title="FEED SPORTS",MOLA SPORT
-https://etslive-2-vidio-com.akamaized.net/exp=1595493052~acl=/hls-b/ingest_geo_6685_*/*~hmac=7b0e1ffefe8ce16616e123212299a8bd1b563c2a888c1d0079134d3a43c15b24/hls-b/ingest_geo_6685_720p/index.m3u8
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
 https://etslive-2-vidio-com.akamaized.net/exp=1595507794~acl=/hls-p/ingest_geo_6685_*/*~hmac=0b2bd7c35d4872253e16368e178a94cec52a0597792ca9551d93af7c44d1a00e/hls-p/ingest_geo_6685_720p/index.m3u8
@@ -211,7 +211,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766
 https://mkctv.my.id/movie/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-https://mkctv.my.id/movie/cinemax.m3u8
+http://tvku.live:8888/live/serverkuh/123456/4833.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
 https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
