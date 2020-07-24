@@ -105,13 +105,13 @@ https://cdnkbl2.useetv.com/joss/18/mytv/chunklist_w636277930_b684100_sleng.m3u8?
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://etslive-2-vidio-com.akamaized.net/exp=1595568973~acl=/hls-p/ingest_geo_6685_*/*~hmac=9d05386b6b635017018f5dbcb56b346b85fdc1cec773195f0309a7ac671d38a6/hls-p/ingest_geo_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595602178~acl=/hls-p/ingest_geo_6685_*/*~hmac=721c3510f8963f65c496db4af9a58c9f48fff289bc6664af24a151b6d42801b0/hls-p/ingest_geo_6685_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://etslive-2-vidio-com.akamaized.net/exp=1595569016~acl=/hls-b/ingest_geo_6686_*/*~hmac=3837970dae17bd96bd2788bc2b4ab4f780c10e2d434ec885257e4f058de2d1c0/hls-b/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595602221~acl=/hls-b/ingest_geo_6686_*/*~hmac=3fb3a6d7ca9b46be667e8428f807b3609410217d61e13679dce8716d10fa632c/hls-b/ingest_geo_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 3
-https://etslive-2-vidio-com.akamaized.net/exp=1595569049~acl=/hls-p/ingest_geo_6786_*/*~hmac=7903529905b0220c43a070d97158a8bc62444b952ccf812550c577d99a66210e/hls-p/ingest_geo_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1595602255~acl=/hls-p/ingest_geo_6786_*/*~hmac=620eb6ea33e362b35e93d7fef1f37c898dc92b335df6f1470b356ae2fc7fcc0f/hls-p/ingest_geo_6786_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
