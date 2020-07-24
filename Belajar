@@ -41,7 +41,7 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybNXaLwxlpBPQ0JR1BrXEDFs)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE MPEG2
 http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
