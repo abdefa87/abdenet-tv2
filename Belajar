@@ -317,7 +317,7 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=FF0EBD06D354AB48D6CC5DA09F6474CA734C5F43&profile=pass
+https://mkctv.my.id/.tvje./carton.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Disney XD
 http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
@@ -370,8 +370,7 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",SPACETOON
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-
+https://mkctv.my.id/.tvje./spacetoon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",SATKIDS
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
@@ -379,7 +378,8 @@ http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Boomerang
+https://mkctv.my.id/.tvje./bomerang.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",DAVINCI KIDS
 http://213.174.8.7:11111/index.m3u8
@@ -392,7 +392,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Horee
-https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
+https://mkctv.my.id/.tvje./hore.m3u8
 
 ##### KNOWLEDGE #####
 
