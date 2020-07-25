@@ -236,9 +236,6 @@ http://136.243.177.164/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
 https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TYvVnV7/20200225-112416.png" group-title="MOVIES PREMIUM",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=C7DFF555C74BFD6C877DA5F3D88AEAA7F1CB1770&profile=pass
 
