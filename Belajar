@@ -409,19 +409,19 @@ http://178.128.29.102:25461/movon/ayomovon/1
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng.m3u8
+http://203.153.218.28:9981/stream/channelid/1151931232
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",HISTORY
-https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng.m3u8
+https://mkctv.my.id/.tvje./histori.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NET GEOGRAPHIC
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+https://mkctv.my.id/.tvje./ngc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO WILD
-https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1701185770_b894100_sleng.m3u8
+https://mkctv.my.id/.tvje./ngw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
-https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w1336919182_b894100_sleng.m3u8
+https://mkctv.my.id/.tvje./ngp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",WAKU WAKU JAPAN
 http://202.147.204.114/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
