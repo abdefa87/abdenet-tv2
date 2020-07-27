@@ -343,7 +343,7 @@ https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+http://starshare.live:8080/live/543678/546789/5703.ts
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Aniplus
