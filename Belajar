@@ -89,18 +89,6 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
-https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w111339344_b1344100_sleng.m3u8?enc=mCszQ-zp0MwNE8c-5QdUUQ&id=YjMzNDliMGJlNDNjNmZiY2NlZTM1ZmQxNzZjMmU1OGI=&exp=1595661207
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Krcx9Rj/20200225-092828.png" group-title="INDONESIA",USee Prime
-https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w2074582010_b894100_sleng.m3u8?enc=8k8szoeXnckymfB7d8gpNw&id=YjMzNDliMGJlNDNjNmZiY2NlZTM1ZmQxNzZjMmU1OGI=&exp=1595661237
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1267817289_b1344100_sleng.m3u8?enc=oyT8Oox9lF3wiS1cPFlvXw&id=YjMzNDliMGJlNDNjNmZiY2NlZTM1ZmQxNzZjMmU1OGI=&exp=1595661265
-
-#EXTINF:-1 tvg-logo="https://ibb.co/r6GM2mR" group-title="INDONESIA",MY TV
-https://vcdnjt.useetv.com/joss/18/mytv/chunklist_w1986360455_b684100_sleng.m3u8?enc=q9gHdFdvZbGu9mSt17YEsw&id=YjMzNDliMGJlNDNjNmZiY2NlZTM1ZmQxNzZjMmU1OGI=&exp=1595640968
-
 
 
 #### FEED SPORTS #####
@@ -179,21 +167,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/41c5230a79.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQntSy8/20200226-232206.png" group-title="FEED SPORTS",Arena Sport 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8bdc1aacdf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xfnTc2f/20200226-232450.png" group-title="FEED SPORTS",Arena Sport 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a564a86426.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DR999jv/20200226-232903.png" group-title="FEED SPORTS",Arena Sport 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a13ca3449a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdPdGkQ/20200226-233053.png" group-title="FEED SPORTS",Arena Sport 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/752e52bae4.m3u8
 
 
 ##### MOVIES PREMIUM #####
@@ -420,33 +393,7 @@ https://mkctv.my.id/.tvje./ngw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
 https://mkctv.my.id/.tvje./ngp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",WAKU WAKU JAPAN
-http://202.147.204.114/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",OUTDOOR CHANNEL
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",TECHSTORM
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
-
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ID ku
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560166~exp=9007200830301157~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=726790f4481ebf1b4f1270a236084230ba8eef1af78b75e6dbbf3909612e4d42
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",Usee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560124~exp=9007200830301115~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=df1895ab7d75062dab8c53f11031484962c78a4059232d5597b624d85ac3993a
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",Usee Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",Foodie Channel
-http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",BBC Earth
-https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=ltmWyWnZ&v=20200202
  
 
 
