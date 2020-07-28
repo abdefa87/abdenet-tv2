@@ -23,13 +23,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=194451255&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIwIDc6MTE6MDkgQU0maGFzaF92YWx1ZT0xb2Nhalc2dmUzQ0x4QnltWU10aTlnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTg0MTE1MTQzfDE4Mi4xLjExMC44Mg==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://cdngb196.useetv.com/joss/15/sctv/chunklist_w1908862025_b894100_sleng.m3u8?enc=OulLSbcVLHxinXT_CTlbgQ&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595927698
+https://cdngb196.useetv.com/joss/15/sctv/chunklist_w1908862025_b894100_sleng.m3u8?enc=juMfcPVFPU1mSIQ0STdfmg&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595936984
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://cdngb196.useetv.com/joss/15/indosiar/chunklist_w1586288473_b894100_sleng.m3u8?enc=gGigW5GD_824_7uflpx0kw&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595927666
+https://cdngb196.useetv.com/joss/15/indosiar/chunklist_w1586288473_b894100_sleng.m3u8?enc=YOP2wpGBCiknp_EEYUmWgw&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595936957
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
@@ -98,10 +98,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://cdngb196.useetv.com/joss/15/champion1/chunklist_w490027737_b1344100_sleng.m3u8?enc=G6-8AzcFoj_fjdQSM6rLbQ&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595927604
+https://cdngb196.useetv.com/joss/15/champion1/chunklist_w490027737_b1344100_sleng.m3u8?enc=ZtDRYLD6cM0V6Y-N8V7iEg&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595936901
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://cdngb196.useetv.com/joss/15/champion2/chunklist_w2102375042_b1344100_sleng.m3u8?enc=UDuuPqrJhsZGKjtZd8meFA&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595927639
+https://cdngb196.useetv.com/joss/15/champion2/chunklist_w2102375042_b1344100_sleng.m3u8?enc=LkcEzYT6EG_M79C8e_f8ww&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595936930
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -116,10 +116,10 @@ https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1354551156_b1344100_sleng.m3u8?enc=X_aLsmEgvx73KMlnCzdNSQ&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595927544
+https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1354551156_b1344100_sleng.m3u8?enc=-jzMF91v4AoriHKeW5rVhw&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595936838
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w837327378_b1344100_sleng.m3u8?enc=dTLOjfeuEiBEM7TTfkhJyA&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595927580
+https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w837327378_b1344100_sleng.m3u8?enc=AMKCaKe0ByZrzdVzKLYslw&id=MGEyNGFjMzk3MDI3NmQ2OGRiZjU1Y2U1ZGM0M2E0NTA=&exp=1595936872
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
