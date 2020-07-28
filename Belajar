@@ -924,40 +924,66 @@ http://mixsrv.me:80/RArYb/c3gsj/69543
 #EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL", HBO Plus HD
 http://mixsrv.me:80/RArYb/c3gsj/69652
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL", HBO Plus SD
+#EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL",HBO Plus SD
 http://mixsrv.me:80/RArYb/c3gsj/69613
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL", HBO Pop FHD
+#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL",HBO Pop FHD
 http://mixsrv.me:80/RArYb/c3gsj/70019
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL", HBO Pop HD
+#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL",HBO Pop HD
 http://mixsrv.me:80/RArYb/c3gsj/225
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL", HBO Pop SD
+#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL",HBO Pop SD
 http://mixsrv.me:80/RArYb/c3gsj/70020
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/DEg" group-title="HBO CHANNEL", HBO SD
+#EXTINF:-1 tvg-logo="http://mixurl.in/DEg" group-title="HBO CHANNEL",HBO SD
 http://mixsrv.me:80/RArYb/c3gsj/69624
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL", HBO Signature FHD
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL",HBO Signature FHD
 http://mixsrv.me:80/RArYb/c3gsj/69554
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL", HBO Signature HD
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL",HBO Signature HD
 http://mixsrv.me:80/RArYb/c3gsj/69664
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL", HBO Signature SD
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL",HBO Signature SD
 http://mixsrv.me:80/RArYb/c3gsj/69632
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL", HBO Xtreme FHD
+#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL",HBO Xtreme FHD
 http://mixsrv.me:80/RArYb/c3gsj/69544
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL", HBO Xtreme HD
+#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL",HBO Xtreme HD
 http://mixsrv.me:80/RArYb/c3gsj/69657
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL", HBO Xtreme SD
+#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL",HBO Xtreme SD
 http://mixsrv.me:80/RArYb/c3gsj/69627
 
 
+#EXTINF:-1,H2 HD
+http://51.195.31.127:8080/Aline/1234/137
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/DEg" group-title="HBO CHANNEL",HBO HD
+http://51.195.31.127:8080/Aline/1234/131
+
+#EXTINF:-1tvg-logo="http://mixurl.in/9ZJ" group-title="HBO CHANNEL",HBO 2 HD
+http://51.195.31.127:8080/Aline/1234/135
+
+#EXTINF:-1tvg-logo="http://mixurl.in/bcM" group-title="HBO CHANNEL",HBO Family HD
+http://51.195.31.127:8080/Aline/1234/133
+
+#EXTINF:-1tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL",HBO Plus HD
+http://51.195.31.127:8080/Aline/1234/128
+
+#EXTINF:-1tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL",HBO Signature HD
+http://51.195.31.127:8080/Aline/1234/531
+
+#EXTINF:-1tvg-logo="http://mixurl.in/gv9" group-title="HBO CHANNEL",HBO Mundi HD
+http://51.195.31.127:8080/Aline/1234/521
+
+#EXTINF:-1tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL",HBO Xtreme HD
+http://51.195.31.127:8080/Aline/1234/520
+
+#EXTINF:-1tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL",HBO Pop HD
+http://51.195.31.127:8080/Aline/1234/111
 
 
 
@@ -1641,12 +1667,6 @@ https://cdn.cloneapi.icu/drive/index.php?id=p92vV0gK2LNXm7lfP64pLAU8ciPRzvimXFgl
 
 
 
-#
-#EXTINF:-1,FX HD
-http://51.195.31.127:8080/Aline/1234/145
-
-#EXTINF:-1,History Channel HD
-http://51.195.31.127:8080/Aline/1234/532
 
 #EXTINF:-1,H2 HD
 http://51.195.31.127:8080/Aline/1234/137
