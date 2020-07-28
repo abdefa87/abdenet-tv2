@@ -167,6 +167,26 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX
 
 ########SPORT LUAR##########
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 1 HD
+http://51.195.31.127:8080/Aline/1234/86
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 2 HD
+http://51.195.31.127:8080/Aline/1234/84
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 3 HD
+http://51.195.31.127:8080/Aline/1234/82
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV
+http://51.195.31.127:8080/Aline/1234/49
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2
+http://51.195.31.127:8080/Aline/1234/47
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3
+http://51.195.31.127:8080/Aline/1234/45
+
+
 
 
 #EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 FHD
@@ -1668,83 +1688,6 @@ https://cdn.cloneapi.icu/drive/index.php?id=p92vV0gK2LNXm7lfP64pLAU8ciPRzvimXFgl
 
 
 
-#EXTINF:-1,H2 HD
-http://51.195.31.127:8080/Aline/1234/137
-
-#EXTINF:-1,HBO HD
-http://51.195.31.127:8080/Aline/1234/131
-
-#EXTINF:-1,HBO 2 HD
-http://51.195.31.127:8080/Aline/1234/135
-
-#EXTINF:-1,HBO Family HD
-http://51.195.31.127:8080/Aline/1234/133
-
-#EXTINF:-1,HBO Plus HD
-http://51.195.31.127:8080/Aline/1234/128
-
-#EXTINF:-1,HBO Signature HD
-http://51.195.31.127:8080/Aline/1234/531
-
-#EXTINF:-1,HBO Mundi HD
-http://51.195.31.127:8080/Aline/1234/521
-
-#EXTINF:-1,HBO Xtreme HD
-http://51.195.31.127:8080/Aline/1234/520
-
-#EXTINF:-1,HBO Pop HD
-http://51.195.31.127:8080/Aline/1234/111
-
-#EXTINF:-1,Megapix HD
-http://51.195.31.127:8080/Aline/1234/109
-
-#EXTINF:-1,MTV HD
-http://51.195.31.127:8080/Aline/1234/519
-
-#EXTINF:-1,MULTISHOW HD
-http://51.195.31.127:8080/Aline/1234/105
-
-#EXTINF:-1,Nat Geo Kids HD
-http://51.195.31.127:8080/Aline/1234/518
-
-#EXTINF:-1,Nat Geo Wild HD
-http://51.195.31.127:8080/Aline/1234/101
-
-#EXTINF:-1,National Geographic HD
-http://51.195.31.127:8080/Aline/1234/99
-
-#EXTINF:-1,Nick Jr HD
-http://51.195.31.127:8080/Aline/1234/95
-
-#EXTINF:-1,Nickelodeon HD
-http://51.195.31.127:8080/Aline/1234/93
-
-#EXTINF:-1,Paramount Channel HD
-http://51.195.31.127:8080/Aline/1234/91
-
-#EXTINF:-1,Premiere 1 HD
-http://51.195.31.127:8080/Aline/1234/86
-
-#EXTINF:-1,Premiere 2 HD
-http://51.195.31.127:8080/Aline/1234/84
-
-#EXTINF:-1,Premiere 3 HD
-http://51.195.31.127:8080/Aline/1234/82
-
-#EXTINF:-1,Record HD
-http://51.195.31.127:8080/Aline/1234/240
-
-#EXTINF:-1,Record News HD
-http://51.195.31.127:8080/Aline/1234/67
-
-#EXTINF:-1,Sbt HD
-http://51.195.31.127:8080/Aline/1234/59
-
-#EXTINF:-1,Sony HD
-http://51.195.31.127:8080/Aline/1234/53
-
-#EXTINF:-1,Space HD
-http://51.195.31.127:8080/Aline/1234/51
 
 #EXTINF:-1,SporTV HD
 http://51.195.31.127:8080/Aline/1234/49
