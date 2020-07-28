@@ -293,16 +293,16 @@ http://mixsrv.me:80/RArYb/c3gsj/70069
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -311,13 +311,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://dl.dropbox.com/s/91zlfghezdvam3g/hbo.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://dl.dropbox.com/s/vexp5kd8gvahffd/hbohit.m3u8?dl=0
+http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34804?play_token=4pCoKuRdVg&token=HhVYAkpZQF8XCQQPBVQJAwZRXQJTDlUAVFAMB1NWA1ZVDwZWCVVaAAUTThtFQ0pVUlk6X1QaWVJRCglbG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVA9UURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-https://dl.dropbox.com/s/lrzrzqs5e7vzhyx/hbofam.m3u8?dl=0
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
+http://203.153.218.28:9981/stream/channelid/1197019186
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
 http://51.195.31.127:8080/Aline/1234/203
