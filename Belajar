@@ -165,6 +165,109 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
 
+########SPORT LUAR##########
+
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69717
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69744
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/69726
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69758
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 HD
+http://mixsrv.me:80/RArYb/c3gsj/69745
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 SD
+http://mixsrv.me:80/RArYb/c3gsj/69727
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV FHD
+http://mixsrv.me:80/RArYb/c3gsj/69716
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV HD
+http://mixsrv.me:80/RArYb/c3gsj/69743
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV SD
+http://mixsrv.me:80/RArYb/c3gsj/69790
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports FHD
+http://mixsrv.me:80/RArYb/c3gsj/70044
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports HD
+http://mixsrv.me:80/RArYb/c3gsj/70045
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports SD
+http://mixsrv.me:80/RArYb/c3gsj/69789
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate FHD
+http://mixsrv.me:80/RArYb/c3gsj/69788
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate HD
+http://mixsrv.me:80/RArYb/c3gsj/69749
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate SD
+http://mixsrv.me:80/RArYb/c3gsj/69725
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/70046
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/70047
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/70048
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/AkO" group-title="Canais | Esportes", ESPN Brasil HD
+http://mixsrv.me:80/RArYb/c3gsj/239
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/AkO" group-title="Canais | Esportes", ESPN Brasil SD
+http://mixsrv.me:80/RArYb/c3gsj/70050
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra FHD
+http://mixsrv.me:80/RArYb/c3gsj/74606
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra HD
+http://mixsrv.me:80/RArYb/c3gsj/70052
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra SD
+http://mixsrv.me:80/RArYb/c3gsj/70053
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN FHD
+http://mixsrv.me:80/RArYb/c3gsj/70054
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN HD
+http://mixsrv.me:80/RArYb/c3gsj/70055
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN SD
+http://mixsrv.me:80/RArYb/c3gsj/70056
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69715
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69748
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/266
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports FHD
+http://mixsrv.me:80/RArYb/c3gsj/69714
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports HD
+http://mixsrv.me:80/RArYb/c3gsj/69746
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports SD
+http://mixsrv.me:80/RArYb/c3gsj/70069
+
+
+
 
 ##### MOVIES PREMIUM #####
 
@@ -197,7 +300,7 @@ https://dl.dropbox.com/s/lrzrzqs5e7vzhyx/hbofam.m3u8?dl=0
 https://dl.dropbox.com/s/vk9sojyyegjxdnj/hbosig.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
-http://tvku.live:8888/live/serverkuh/123456/4833.m3u8
+http://51.195.31.127:8080/Aline/1234/203
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
 http://136.243.177.164/CINEMAX/index.m3u8
@@ -248,7 +351,7 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNjKRk9/20200229-225258.png" group-title="ENTERTAINMENT",FX
-http://nonton.site:8888/live/serverkuh/123456/3645.m3u8
+http://51.195.31.127:8080/Aline/1234/145
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
 http://nonton.site:8888/live/serverkuh/123456/1533.m3u8
@@ -274,22 +377,23 @@ http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s
 ###### ANAK-ANAK #####
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=8420E6A71A5645C1B3E9C0D58C22DFD89A18A562&profile=pass
+http://mixsrv.me:80/RArYb/c3gsj/69494
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Disney Jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+http://mixsrv.me:80/RArYb/c3gsj/69512
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nick JR
-http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+http://mixsrv.me:80/RArYb/c3gsj/69509
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Cartoon Network
 https://mkctv.my.id/.tvje./carton.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Disney XD
-http://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+http://mixsrv.me:80/RArYb/c3gsj/69500
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
@@ -299,12 +403,14 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png"" group-title="KIDS", Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Boomerang
+http://mixsrv.me:80/RArYb/c3gsj/69485
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Discovery Kids HD
+http://mixsrv.me:80/RArYb/c3gsj/69491
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Baby TV
-https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+http://mixsrv.me:80/RArYb/c3gsj/631
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Bee Smart
@@ -776,8 +882,225 @@ http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=54899939&ct=18190&tsum=730b03822
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qCV5HJ6/ASTROBOO-PPI.png" group-title="MALAYSIA",Boo
 http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
 
+####### HBO CHANNEL ###########
+
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9ZJ" group-title="HBO CHANNEL", HBO 2 FHD
+http://mixsrv.me:80/RArYb/c3gsj/69541
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9ZJ" group-title="HBO CHANNEL", HBO 2 HD
+http://mixsrv.me:80/RArYb/c3gsj/69651
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/9ZJ" group-title="HBO CHANNEL", HBO 2 SD
+http://mixsrv.me:80/RArYb/c3gsj/69612
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/bcM" group-title="HBO CHANNEL", HBO Family FHD
+http://mixsrv.me:80/RArYb/c3gsj/69559
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/bcM" group-title="HBO CHANNEL", HBO Family HD
+http://mixsrv.me:80/RArYb/c3gsj/69675
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/bcM" group-title="HBO CHANNEL", HBO Family SD
+http://mixsrv.me:80/RArYb/c3gsj/69633
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/DEg" group-title="HBO CHANNEL", HBO FHD
+http://mixsrv.me:80/RArYb/c3gsj/69542
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/DEg" group-title="HBO CHANNEL", HBO HD
+http://mixsrv.me:80/RArYb/c3gsj/69650
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/gv9" group-title="HBO CHANNEL", HBO Mundi FHD
+http://mixsrv.me:80/RArYb/c3gsj/70017
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/gv9" group-title="HBO CHANNEL", HBO Mundi HD
+http://mixsrv.me:80/RArYb/c3gsj/220
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/gv9" group-title="HBO CHANNEL", HBO Mundi SD
+http://mixsrv.me:80/RArYb/c3gsj/70018
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL", HBO Plus FHD
+http://mixsrv.me:80/RArYb/c3gsj/69543
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL", HBO Plus HD
+http://mixsrv.me:80/RArYb/c3gsj/69652
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/dwN" group-title="HBO CHANNEL", HBO Plus SD
+http://mixsrv.me:80/RArYb/c3gsj/69613
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL", HBO Pop FHD
+http://mixsrv.me:80/RArYb/c3gsj/70019
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL", HBO Pop HD
+http://mixsrv.me:80/RArYb/c3gsj/225
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/WXT" group-title="HBO CHANNEL", HBO Pop SD
+http://mixsrv.me:80/RArYb/c3gsj/70020
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/DEg" group-title="HBO CHANNEL", HBO SD
+http://mixsrv.me:80/RArYb/c3gsj/69624
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL", HBO Signature FHD
+http://mixsrv.me:80/RArYb/c3gsj/69554
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL", HBO Signature HD
+http://mixsrv.me:80/RArYb/c3gsj/69664
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/4YP" group-title="HBO CHANNEL", HBO Signature SD
+http://mixsrv.me:80/RArYb/c3gsj/69632
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL", HBO Xtreme FHD
+http://mixsrv.me:80/RArYb/c3gsj/69544
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL", HBO Xtreme HD
+http://mixsrv.me:80/RArYb/c3gsj/69657
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/1CI" group-title="HBO CHANNEL", HBO Xtreme SD
+http://mixsrv.me:80/RArYb/c3gsj/69627
+
+
+
+
+
+
+
 
 ########################################################## VOD ANIMASI ###################################################
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | Esportes", RAI Internacional FHD
+http://mixsrv.me:80/RArYb/c3gsj/78453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | Esportes", Golf Channel HD
+http://mixsrv.me:80/RArYb/c3gsj/78456
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - A Grande Familia
+http://mixsrv.me:80/RArYb/c3gsj/76185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Aladin
+http://mixsrv.me:80/RArYb/c3gsj/76107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - A Feiticeira
+http://mixsrv.me:80/RArYb/c3gsj/76190
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - A Grande Familia
+http://mixsrv.me:80/RArYb/c3gsj/76185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Bob Esponja
+http://mixsrv.me:80/RArYb/c3gsj/76110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Caverna do Dragão
+http://mixsrv.me:80/RArYb/c3gsj/76113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Chapolin Colorado
+http://mixsrv.me:80/RArYb/c3gsj/76114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Chaves
+http://mixsrv.me:80/RArYb/c3gsj/76115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Chaves Desenho
+http://mixsrv.me:80/RArYb/c3gsj/76116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Denis o Pimentinha
+http://mixsrv.me:80/RArYb/c3gsj/76117
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Dois Homens e Meio
+http://mixsrv.me:80/RArYb/c3gsj/76121
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Doug
+http://mixsrv.me:80/RArYb/c3gsj/76122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Dragon Ball
+http://mixsrv.me:80/RArYb/c3gsj/76123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Dragon Ball Z
+http://mixsrv.me:80/RArYb/c3gsj/76125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Eu a Patroa e as Crianças
+http://mixsrv.me:80/RArYb/c3gsj/76126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Friends - Temp 03
+http://mixsrv.me:80/RArYb/c3gsj/76196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Jiraya o Incrível Ninja
+http://mixsrv.me:80/RArYb/c3gsj/76139
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Kenan e Kel
+http://mixsrv.me:80/RArYb/c3gsj/76140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Liga da Justica 24hs
+http://mixsrv.me:80/RArYb/c3gsj/76186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Medabots
+http://mixsrv.me:80/RArYb/c3gsj/76142
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/mA8" group-title="Canais | 24 Horas", [24H] - Mr. Bean
+http://mixsrv.me:80/RArYb/c3gsj/76195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Naruto
+http://mixsrv.me:80/RArYb/c3gsj/76146
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Naruto Shippuden
+http://mixsrv.me:80/RArYb/c3gsj/76147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - O Fantástico Mundo de Bobby
+http://mixsrv.me:80/RArYb/c3gsj/76148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - O Máskara
+http://mixsrv.me:80/RArYb/c3gsj/76150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Os Simpsons
+http://mixsrv.me:80/RArYb/c3gsj/76154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Os Vingadores
+http://mixsrv.me:80/RArYb/c3gsj/76155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Papa-Léguas
+http://mixsrv.me:80/RArYb/c3gsj/76156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Phineas e Ferb
+http://mixsrv.me:80/RArYb/c3gsj/76159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Pica Pau
+http://mixsrv.me:80/RArYb/c3gsj/76160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Scooby-Doo
+http://mixsrv.me:80/RArYb/c3gsj/76165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - South Park
+http://mixsrv.me:80/RArYb/c3gsj/76168
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Steven Universe
+http://mixsrv.me:80/RArYb/c3gsj/76169
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Super Choque
+http://mixsrv.me:80/RArYb/c3gsj/76189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Timão e Pumba
+http://mixsrv.me:80/RArYb/c3gsj/76173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Todo Mundo Odeia o Chris
+http://mixsrv.me:80/RArYb/c3gsj/76174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Tres Espias Demais
+http://mixsrv.me:80/RArYb/c3gsj/76176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - Xena
+http://mixsrv.me:80/RArYb/c3gsj/76181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - YU-GI-OH
+http://mixsrv.me:80/RArYb/c3gsj/76182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] - YU-YU-Hakusho
+http://mixsrv.me:80/RArYb/c3gsj/76183
+
+#EXTINF:-1 tvg-logo="http://mixurl.in/gOo" group-title="Canais | 24 Horas", [24h] Bob Zoom
+http://mixsrv.me:80/RArYb/c3gsj/77792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Friends - Temp 01
+http://mixsrv.me:80/RArYb/c3gsj/76105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Friends - Temp 02
+http://mixsrv.me:80/RArYb/c3gsj/76106
 
 
 
@@ -1317,130 +1640,8 @@ https://cdn.cloneapi.icu/drive/index.php?id=p92vV0gK2LNXm7lfP64pLAU8ciPRzvimXFgl
 ############# CHANNEL PLUS TEXTBIN #############
 
 
-#EXTINF:-1,A&E HD
-http://51.195.31.127:8080/Aline/1234/236
 
-#EXTINF:-1,Amc HD
-http://51.195.31.127:8080/Aline/1234/512
-
-#EXTINF:-1,Animal Planet HD
-http://51.195.31.127:8080/Aline/1234/232
-
-#EXTINF:-1,AXN HD
-http://51.195.31.127:8080/Aline/1234/535
-
-#EXTINF:-1,Band SP HD
-http://51.195.31.127:8080/Aline/1234/130
-
-#EXTINF:-1,Canal Band News HD
-http://51.195.31.127:8080/Aline/1234/224
-
-#EXTINF:-1,Band Sports HD
-http://51.195.31.127:8080/Aline/1234/221
-
-#EXTINF:-1,Boomerang HD
-http://51.195.31.127:8080/Aline/1234/217
-
-#EXTINF:-1,Canal OFF HD
-http://51.195.31.127:8080/Aline/1234/209
-
-#EXTINF:-1,Canal Woohoo HD
-http://51.195.31.127:8080/Aline/1234/207
-
-#EXTINF:-1,Cartoon Network HD
-http://51.195.31.127:8080/Aline/1234/524
-
-#EXTINF:-1,Cine Action HD
-http://51.195.31.127:8080/Aline/1234/548
-
-#EXTINF:-1,Cine Adventure HD
-http://51.195.31.127:8080/Aline/1234/549
-
-#EXTINF:-1,Cine Family HD
-http://51.195.31.127:8080/Aline/1234/551
-
-#EXTINF:-1,Cine Fiction HD
-http://51.195.31.127:8080/Aline/1234/536
-
-#EXTINF:-1,Cine Fun HD
-http://51.195.31.127:8080/Aline/1234/552
-
-#EXTINF:-1,Cine Horror HD
-http://51.195.31.127:8080/Aline/1234/553
-
-#EXTINF:-1,Cinemax HD
-http://51.195.31.127:8080/Aline/1234/203
-
-#EXTINF:-1,Combate HD
-http://51.195.31.127:8080/Aline/1234/201
-
-#EXTINF:-1,Comedy Central HD
-http://51.195.31.127:8080/Aline/1234/199
-
-#EXTINF:-1,Cultura HD
-http://51.195.31.127:8080/Aline/1234/197
-
-#EXTINF:-1,Discovery Channel HD
-http://51.195.31.127:8080/Aline/1234/195
-
-#EXTINF:-1,Discovery Home & Health HD
-http://51.195.31.127:8080/Aline/1234/191
-
-#EXTINF:-1,Discovery Investigartion HD
-http://51.195.31.127:8080/Aline/1234/121
-
-#EXTINF:-1,Discovery Science HD
-http://51.195.31.127:8080/Aline/1234/187
-
-#EXTINF:-1,Discovery Theater HD
-http://51.195.31.127:8080/Aline/1234/185
-
-#EXTINF:-1,Discovery Turbo HD
-http://51.195.31.127:8080/Aline/1234/183
-
-#EXTINF:-1,Discovery World HD
-http://51.195.31.127:8080/Aline/1234/181
-
-#EXTINF:-1,Disney Channel  HD
-http://51.195.31.127:8080/Aline/1234/179
-
-#EXTINF:-1,Disney Junior HD
-http://51.195.31.127:8080/Aline/1234/177
-
-#EXTINF:-1,Disney XD HD
-http://51.195.31.127:8080/Aline/1234/175
-#EXTINF:-1,DAZN 1 HD₂
-http://sv1.nowiptv.net:8880/Welson/1234/33627
-#EXTINF:-1,Espn HD
-http://51.195.31.127:8080/Aline/1234/167
-
-#EXTINF:-1,Espn  2 HD
-http://51.195.31.127:8080/Aline/1234/171
-
-#EXTINF:-1,Espn Brasil HD
-http://51.195.31.127:8080/Aline/1234/169
-
-#EXTINF:-1,Espn Extra HD
-http://51.195.31.127:8080/Aline/1234/165
-
-#EXTINF:-1,FOX HD
-http://51.195.31.127:8080/Aline/1234/157
-
-#EXTINF:-1,FOX Life HD
-http://51.195.31.127:8080/Aline/1234/156
-
-#EXTINF:-1,Fox Premium 2 HD
-http://51.195.31.127:8080/Aline/1234/526
-
-#EXTINF:-1,Fox Premium HD
-http://51.195.31.127:8080/Aline/1234/528
-
-#EXTINF:-1,Fox Sports HD
-http://51.195.31.127:8080/Aline/1234/147
-
-#EXTINF:-1,Fox Sports 2 HD
-http://51.195.31.127:8080/Aline/1234/529
-
+#
 #EXTINF:-1,FX HD
 http://51.195.31.127:8080/Aline/1234/145
 
