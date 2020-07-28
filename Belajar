@@ -176,19 +176,6 @@ http://51.195.31.127:8080/Aline/1234/84
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 3 HD
 http://51.195.31.127:8080/Aline/1234/82
 
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV
-http://51.195.31.127:8080/Aline/1234/49
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2
-http://51.195.31.127:8080/Aline/1234/47
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3
-http://51.195.31.127:8080/Aline/1234/45
-
-
-
-
 #EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 FHD
 http://mixsrv.me:80/RArYb/c3gsj/69717
 
