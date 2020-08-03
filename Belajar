@@ -283,13 +283,13 @@ http://mixsrv.me:80/RArYb/c3gsj/70069
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+http://103.47.132.164/PLTV/88888888/224/3221227117/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+http://103.47.132.164/PLTV/88888888/224/3221227121/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+http://103.47.132.164/PLTV/88888888/224/3221227119/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -316,7 +316,7 @@ https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
 https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=C7DFF555C74BFD6C877DA5F3D88AEAA7F1CB1770&profile=pass
+http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
