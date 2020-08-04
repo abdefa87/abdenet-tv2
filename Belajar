@@ -288,7 +288,7 @@ http://mixsrv.me:80/RArYb/c3gsj/70069
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-https://content.jwplatform.com/videos/xuDgiAtj-640.mp4
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
 http://103.47.132.164/PLTV/88888888/224/3221227117/01.m3u8
