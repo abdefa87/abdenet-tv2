@@ -20,16 +20,16 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV HD
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=194451255&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIwIDc6MTE6MDkgQU0maGFzaF92YWx1ZT0xb2Nhalc2dmUzQ0x4QnltWU10aTlnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTg0MTE1MTQzfDE4Mi4xLjExMC44Mg==
+http://210.210.155.35/session/3b18946e-85d8-11ea-a66f-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w69665016_b894100_sleng.m3u8?enc=t--64jOt_AMUVPZ6l5gETw&id=NTVhOGQ0NDk5OTMyYWE1NWFhNjc5YWUzYWQ2ZDU2MTY=&exp=1596634145
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w798216364_b894100_sleng.m3u8?enc=yTNYV2-zxQJXMdp-bBE5Nw&id=NTVhOGQ0NDk5OTMyYWE1NWFhNjc5YWUzYWQ2ZDU2MTY=&exp=1596634190
+http://210.210.155.35/session/14ab6538-78c0-11ea-afc9-c81f66f89318/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
