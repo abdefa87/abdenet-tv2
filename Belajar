@@ -23,13 +23,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 http://210.210.155.35/session/3b18946e-85d8-11ea-a66f-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://cdngb196.useetv.com/joss/15/sctv/chunklist_w1522817648_b894100_sleng.m3u8?enc=YTPavcjnVUl2804A1otWLw&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596730396
+https://cdnkbl2.useetv.com/joss/15/sctv/chunklist_w520980912_b894100_sleng.m3u8?enc=66ADjxKzBe5VWJE7E9WUsA&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783858
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://cdngb196.useetv.com/joss/15/indosiar/chunklist_w1346380834_b894100_sleng.m3u8?enc=zzP6I72k9CgF2TQ8X5b4XA&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596730455
+https://cdnkbl2.useetv.com/joss/15/indosiar/chunklist_w585125641_b894100_sleng.m3u8?enc=qh1jHEKKRIy_-XtBz6SkTg&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783831
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
@@ -106,10 +106,10 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://cdngb196.useetv.com/joss/15/champion1/chunklist_w2029177930_b1344100_sleng.m3u8?enc=jSAny56VZc00qx0NF-UIfA&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596730489
+https://cdnkbl2.useetv.com/joss/15/champion1/chunklist_w599030500_b1344100_sleng.m3u8?enc=xaCCs_lxjXuVRowoDNhnew&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783768
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://cdngb196.useetv.com/joss/15/champion2/chunklist_w1715271547_b1344100_sleng.m3u8?enc=Mtpf4pzTpcAcyzt3UVTl2Q&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596730538
+https://cdnkbl2.useetv.com/joss/15/champion2/chunklist_w502969202_b1344100_sleng.m3u8?enc=_O7FjjPCGk6scnBRS69bmA&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783798
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -124,10 +124,10 @@ http://tvku.live:8888/lombok/lombok123/728
 http://tvku.live:8888/lombok/lombok123/729
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w1169907979_b1344100_sleng.m3u8?enc=tAZKAI_eXKvsrjyiXuDKKQ&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596730575
+https://cdnkbl2.useetv.com/joss/15/useesport/chunklist_w1290744360_b1344100_sleng.m3u8?enc=DTzOX9q-HKzCpvnx5sx9pA&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783703
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1815553207_b1344100_sleng.m3u8?enc=4G43AR8wgXZ93gZDyqYZoQ&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596730603
+https://cdnkbl2.useetv.com/joss/15/useesports2/chunklist_w987925691_b1344100_sleng.m3u8?enc=r-k36x814H16SL8RBfR0Ug&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783735
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
