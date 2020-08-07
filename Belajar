@@ -20,16 +20,16 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV HD
-http://210.210.155.35/session/3b18946e-85d8-11ea-a66f-b82a72d63267/qwr9ew/s/s07/01.m3u8
+http://103.47.132.164:80/PLTV/88888888/224/3221227215/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://cdnkbl2.useetv.com/joss/15/sctv/chunklist_w520980912_b894100_sleng.m3u8?enc=66ADjxKzBe5VWJE7E9WUsA&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783858
+https://mkctv.net/video/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://cdnkbl2.useetv.com/joss/15/indosiar/chunklist_w585125641_b894100_sleng.m3u8?enc=qh1jHEKKRIy_-XtBz6SkTg&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1596783831
+https://mkctv.net/video/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
