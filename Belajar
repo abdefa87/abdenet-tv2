@@ -305,13 +305,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
 http://51.195.31.127:8080/Aline/1234/203
