@@ -23,14 +23,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 http://103.47.132.164:80/PLTV/88888888/224/3221227215/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://edgejt6.useetv.com/joss/15/sctv/chunklist_w2017964695_b894100_sleng.m3u8?enc=-wlY29k4s-OJzNFOOBJ14w&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1597216366
+https://edgejt6.useetv.com/joss/15/sctv/chunklist_w2017964695_b894100_sleng.m3u8?enc=MKG6RAx_2Tcs6mI29xcOBw&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1597216625
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 https://mkctv.net/video/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://edgejt6.useetv.com/joss/15/indosiar/chunklist_w1320850537_b894100_sleng.m3u8?enc=qel5RB5-yPiR0y2BOhD-ag&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1597216327
-
+https://edgejt6.useetv.com/joss/15/indosiar/chunklist_w1320850537_b894100_sleng.m3u8?enc=YpsX4FaqyubhzwW1Vgf2OQ&id=OTdjMWFlNTQ2MWZhOGZjYzZmYjE1ZDUwMzA4MjUzMTI=&exp=1597216735
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 https://mkctv.net/video/indosiar.m3u8
 
