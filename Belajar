@@ -173,14 +173,39 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX
 
 ########SPORT LUAR##########
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 1 HD
-http://51.195.31.127:8080/Aline/1234/86
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 1 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49213
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 2 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49214
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 3 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49215
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="RMC SPORT",RMC SPORT 4 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49216
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="RMC SPORT 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 5 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49217
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="RMC SPORT 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 6 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49218
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="RMC SPORT 7 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 7 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49219
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="RMC SPORT 8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 8 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49220
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="RMC SPORT 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 9 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49221
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="RMC SPORT 10 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 10 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49222
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="RMC SPORT 11 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 11 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49223
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="RMC SPORT 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 12 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49224
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="RMC SPORT 13 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 13 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49225
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="RMC SPORT 14 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 14 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49226
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="RMC SPORT 15 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="RMC SPORT",RMC SPORT 15 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49227
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 2 HD
-http://51.195.31.127:8080/Aline/1234/84
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Canais | SporTV",Premiere 3 HD
-http://51.195.31.127:8080/Aline/1234/82
+
 
 #EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 FHD
 http://mixsrv.me:80/RArYb/c3gsj/69717
