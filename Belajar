@@ -207,104 +207,26 @@ http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49227
 
 
 
-#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 FHD
-http://mixsrv.me:80/RArYb/c3gsj/69717
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 HD
-http://mixsrv.me:80/RArYb/c3gsj/69744
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/Frt" group-title="Canais | SporTV", SporTV 2 SD
-http://mixsrv.me:80/RArYb/c3gsj/69726
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 FHD
-http://mixsrv.me:80/RArYb/c3gsj/69758
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 HD
-http://mixsrv.me:80/RArYb/c3gsj/69745
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/8dR" group-title="Canais | SporTV", SporTV 3 SD
-http://mixsrv.me:80/RArYb/c3gsj/69727
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV FHD
-http://mixsrv.me:80/RArYb/c3gsj/69716
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV HD
-http://mixsrv.me:80/RArYb/c3gsj/69743
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/tAs" group-title="Canais | SporTV", SporTV SD
-http://mixsrv.me:80/RArYb/c3gsj/69790
-
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports FHD
-http://mixsrv.me:80/RArYb/c3gsj/70044
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports HD
-http://mixsrv.me:80/RArYb/c3gsj/70045
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/RWu" group-title="Canais | Esportes", Band Sports SD
-http://mixsrv.me:80/RArYb/c3gsj/69789
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate FHD
-http://mixsrv.me:80/RArYb/c3gsj/69788
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate HD
-http://mixsrv.me:80/RArYb/c3gsj/69749
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/hw4" group-title="Canais | Esportes", Combate SD
-http://mixsrv.me:80/RArYb/c3gsj/69725
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 FHD
-http://mixsrv.me:80/RArYb/c3gsj/70046
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 HD
-http://mixsrv.me:80/RArYb/c3gsj/70047
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/YI0" group-title="Canais | Esportes", ESPN 2 SD
-http://mixsrv.me:80/RArYb/c3gsj/70048
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/AkO" group-title="Canais | Esportes", ESPN Brasil HD
-http://mixsrv.me:80/RArYb/c3gsj/239
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/AkO" group-title="Canais | Esportes", ESPN Brasil SD
-http://mixsrv.me:80/RArYb/c3gsj/70050
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra FHD
-http://mixsrv.me:80/RArYb/c3gsj/74606
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra HD
-http://mixsrv.me:80/RArYb/c3gsj/70052
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/2No" group-title="Canais | Esportes", ESPN Extra SD
-http://mixsrv.me:80/RArYb/c3gsj/70053
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN FHD
-http://mixsrv.me:80/RArYb/c3gsj/70054
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN HD
-http://mixsrv.me:80/RArYb/c3gsj/70055
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/jzl" group-title="Canais | Esportes", ESPN SD
-http://mixsrv.me:80/RArYb/c3gsj/70056
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 FHD
-http://mixsrv.me:80/RArYb/c3gsj/69715
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 HD
-http://mixsrv.me:80/RArYb/c3gsj/69748
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/NTl" group-title="Canais | Esportes", Fox Sports 2 SD
-http://mixsrv.me:80/RArYb/c3gsj/266
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports FHD
-http://mixsrv.me:80/RArYb/c3gsj/69714
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports HD
-http://mixsrv.me:80/RArYb/c3gsj/69746
-
-#EXTINF:-1 tvg-logo="http://mixurl.in/Clc" group-title="Canais | Esportes", Fox Sports SD
-http://mixsrv.me:80/RArYb/c3gsj/70069
-
-
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS 1 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49229
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS 2 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49230
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS 3 HD
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49231
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2009_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 4
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52518
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200A_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 5
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52519
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200B_430_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 6
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52520
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2071_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 7
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52521
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2072_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 8
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52522
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2073_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 9
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52523
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2074_432_1_C00000_0_0_0.png" group-title="BEIN SPORT",BEIN SPORTS MAX 10
+http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/52524 
 
 
 ##### MOVIES PREMIUM #####
