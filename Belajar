@@ -246,7 +246,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227121/01.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227119/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO ID
 https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
