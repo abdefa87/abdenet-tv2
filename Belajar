@@ -105,10 +105,10 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-https://cdnbdsa1.useetv.com/joss/15/champion1/chunklist_w257054187_b1344100_sleng.m3u8?enc=7zOgLsguiyjEaMI_rEqDsw&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1599014733
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion1&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://cdnbdsa1.useetv.com/joss/15/champion2/chunklist_w1527104192_b1344100_sleng.m3u8?enc=Bte57i8Soips_6amw74jIQ&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1599014765
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion2&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -117,16 +117,16 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
-https://mkctv.net/josmkc/beinsport1.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein1&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-https://mkctv.net/josmkc/beinsport2.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein2&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w727355039_b1344100_sleng.m3u8?enc=sfIFuIElzwBHKXczeYQeZA&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1599014661
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w2067809732_b1344100_sleng.m3u8?enc=v6SQA13Z_6iU4gN6IrxFvA&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1599014696
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesports2&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
