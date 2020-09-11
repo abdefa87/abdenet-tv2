@@ -184,19 +184,19 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=fox&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-http://103.47.132.164/PLTV/88888888/224/3221227117/01.m3u8
+https://mkctv.net/josmkc/foxfamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-http://103.47.132.164/PLTV/88888888/224/3221227121/01.m3u8
+http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxam&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
-http://103.47.132.164/PLTV/88888888/224/3221227119/01.m3u8
+http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxm&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+http://iptv-wow.my.id/tv/gen/hbo.m3u8?channel=hbohd&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO ID
 https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
