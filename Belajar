@@ -223,22 +223,22 @@ https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
-http://tvku.live:8888/lombok/lombok123/1506
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-http://tvku.live:8888/lombok/lombok123/811
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueantextreme&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://nonton.site:8888/live/serverkuh/123456/29592.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-https://mkctv.my.id/.tvje./imc.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-http://tvku.live:8888/lombok/lombok123/767
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-http://tvku.live:8888/lombok/lombok123/927
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
@@ -271,7 +271,7 @@ http://nonton.site:8888/live/serverkuh/123456/1533.m3u8
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
-http://tvku.live:8888/live/serverkuh/123456/2257.m3u8
+http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxcrime&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
