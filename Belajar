@@ -202,13 +202,13 @@ http://iptv-wow.my.id/tv/gen/hbo.m3u8?channel=hbohd&token=c5b50cbe9913f47ce6a80a
 https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
 http://51.195.31.127:8080/Aline/1234/203
