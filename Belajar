@@ -240,19 +240,19 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=dd67ed045038465c51fe8b4
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
 http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=celestialmovie&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=celestialmovie&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=thrill&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=thrill&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=kix&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
@@ -279,7 +279,7 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
-http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=cinemaworld&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
 https://mkctv.net/josmkc/zee.m3u8
