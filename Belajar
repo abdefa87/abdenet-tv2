@@ -117,10 +117,10 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein1&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://chama.ml/channelgratisan-BEINSPORT1ID
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein2&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://chama.ml/channelgratisan-BEINSPORT2ID
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
