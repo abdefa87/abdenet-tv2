@@ -53,7 +53,7 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 https://mkctv.net/josmkc/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV HD
-a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=transtv&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV 
 https://mkctv.net/vidbos/trans.m3u8
