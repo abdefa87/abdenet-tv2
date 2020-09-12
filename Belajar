@@ -108,7 +108,7 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion1&token=b0d1f1f4da990c01f600b331a2d89613129e00a46c280ef9fb232f04b90372a7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://mkctv.net/josmkc/champion2.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion2&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
