@@ -23,13 +23,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 https://mkctv.net/josmkc/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-https://cdnbdsa1.useetv.com/joss/15/sctv/chunklist_w1434960659_b894100_sleng.m3u8?enc=mhCPppmO3TVTyTFTTMl-5w&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1599014865
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sctv&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 https://mkctv.net/vidbos/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-https://cdnbdsa1.useetv.com/joss/15/indosiar/chunklist_w1394698098_b894100_sleng.m3u8?enc=c0cwpkMFXgB2smaxBDcuQQ&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1599014830
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=indosiar&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 https://mkctv.net/vidbos/indosiar.m3u8
@@ -117,10 +117,10 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein1&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein1&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein2&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein2&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
@@ -223,40 +223,40 @@ https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueantextreme&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueantextreme&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
-http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
-http://210.210.155.35/uq2663/h/h19/index.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
 https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://tvku.live:8888/live/serverkuh/123456/5.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=celestialmovie&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
-http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=thrill&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-http://tvku.live:8888/lombok/lombok123/8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=kix&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -265,13 +265,13 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 https://videos-fms.jwpsrv.com/0_5f2871cb_0x23cd8e1175fe00f87b906a6b9a47533e2792daf8/content/conversions/ip4XipnJ/videos/CI89mx3Y-32841866.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-http://nonton.site:8888/live/serverkuh/123456/1533.m3u8
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=warner&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
-http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxcrime&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxcrime&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
@@ -283,7 +283,7 @@ http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h
 https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
-http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
+https://mkctv.net/josmkc/zee.m3u8
 
 ###### ANAK-ANAK #####
 
