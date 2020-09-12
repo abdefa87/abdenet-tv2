@@ -184,7 +184,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=fox&token=c5b50cbe9913f47ce6a80a315d466553d641d65a6ca4dfa606d4fa9594d235ce
+https://cdn-laos.workpoint.news/sd-fox_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
 https://mkctv.net/josmkc/foxfamily.m3u8
@@ -247,7 +247,7 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=a6135d6835e4a17b737c18
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
-https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
+http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=celestialmovie&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
@@ -262,13 +262,13 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=kix&token=a6135d6835e4a17b737c18b
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNjKRk9/20200229-225258.png" group-title="ENTERTAINMENT",FX
-https://videos-fms.jwpsrv.com/0_5f2871cb_0x23cd8e1175fe00f87b906a6b9a47533e2792daf8/content/conversions/ip4XipnJ/videos/CI89mx3Y-32841866.mp4
+https://www.livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=warner&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+http://203.154.243.31:15001
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
 http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxcrime&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
@@ -280,7 +280,7 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
-https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
+http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
 https://mkctv.net/josmkc/zee.m3u8
