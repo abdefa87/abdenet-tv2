@@ -23,13 +23,13 @@ http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 https://mkctv.net/josmkc/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sctv&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sctv&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV 
 https://mkctv.net/vidbos/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=indosiar&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=indosiar&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR 
 https://mkctv.net/vidbos/indosiar.m3u8
@@ -44,7 +44,7 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 https://mkctv.net/vidbos/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 HD
-http://iptv-wow.my.id/tv/gen/yt.m3u8?channel=trans7dm&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=trans7&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
@@ -53,8 +53,7 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 https://mkctv.net/josmkc/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=transtv&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
-
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=transtv&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV 
 https://mkctv.net/vidbos/trans.m3u8
 
