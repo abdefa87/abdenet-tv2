@@ -104,10 +104,10 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion1&token=b0d1f1f4da990c01f600b331a2d89613129e00a46c280ef9fb232f04b90372a7
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion1&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion2&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion2&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -122,10 +122,10 @@ http://chama.ml/channelgratisan-BEINSPORT1ID
 http://chama.ml/channelgratisan-BEINSPORT2ID
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesports2&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesports2&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -228,16 +228,16 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=a6135d6835e4a17b737
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueantextreme&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
