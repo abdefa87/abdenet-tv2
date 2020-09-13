@@ -184,7 +184,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
-https://cdn-laos.workpoint.news/sd-fox_720/index.m3u8
+https://tinyurl.com/gratistvmediaFOX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
 https://mkctv.net/josmkc/foxfamily.m3u8
@@ -211,16 +211,16 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
-http://51.195.31.127:8080/Aline/1234/203
+https://tinyurl.com/gratistvmediaCINEMAX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
 https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
-https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
+https://tinyurl.com/gratistvmediaCINEMAWORLD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
+https://tinyurl.com/gratistvmediaAXN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
@@ -235,10 +235,10 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=dd67ed045038465c51fe8b
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvn&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://tinyurl.com/gratistvmediaTVN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=tvnmovies&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://tinyurl.com/gratistvmediaTVNMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
@@ -250,34 +250,34 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=dd67ed045038465c51fe8b
 http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=celestialmovie&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://tinyurl.com/gratistvmediaCELESTIALMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=thrill&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://tinyurl.com/gratistvmediaTHRILL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=kix&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+https://tinyurl.com/gratistvmediaKIX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNjKRk9/20200229-225258.png" group-title="ENTERTAINMENT",FX
-https://www.livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
+https://tinyurl.com/gratistvmediaFX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=warner&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+https://tinyurl.com/gratistvmediaWB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://203.154.243.31:15001
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
-http://iptv-wow.my.id/tv/gen/repsol.m3u8?channel=foxcrime&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+https://tinyurl.com/gratistvmediaFOXCRIME
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
+https://tinyurl.com/gratistvmediaHITS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="ENTERTAINMENT",HITS MOVIES
-http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+https://tinyurl.com/gratistvmediaHITSMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=cinemaworld&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
