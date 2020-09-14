@@ -304,8 +304,6 @@ https://mkctv.net/josmkc/zee.m3u8
 
 ###### ANAK-ANAK #####
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Disney Channel
-http://mixsrv.me:80/RArYb/c3gsj/69494
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Disney Jr
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -320,75 +318,27 @@ https://mkctv.net/usetvvv/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Cartoon Network
 https://mkctv.net/usetvvv/cartoon.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Disney XD
-http://mixsrv.me:80/RArYb/c3gsj/69500
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Boomerang
 https://mkctv.net/usetvvv/boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Discovery Kids HD
-http://mixsrv.me:80/RArYb/c3gsj/69491
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Baby TV
-http://mixsrv.me:80/RArYb/c3gsj/631
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Bee Smart
-https://anevia115.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_2499968=8-mp4a_98800_ind=5.m3u8
-
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Animax
-http://starshare.live:8080/live/543678/546789/5703.ts
-
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",DISNEY JUNIOR Indo SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",DISNEY JUNIOR Indo HD
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",My Kids
 https://mkctv.net/usetvvv/mykids.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",MIAO MI
-http://103.146.185.235:8888/live/stress/bersama/286.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",My KIDS
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",NICK ASIA
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",SPACETOON
-https://mkctv.my.id/.tvje./spacetoon.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",SATKIDS
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",50
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-
-#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",DAVINCI KIDS
-http://213.174.8.7:11111/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",MIAO MI+
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Horee
 https://mkctv.net/usetvvv/horee.m3u8
