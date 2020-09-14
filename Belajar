@@ -249,7 +249,7 @@ http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=a6135d6835e4a17b737
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueantextreme&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=flik&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://mkctv.net/usetvvv/flik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=imc&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
@@ -261,7 +261,7 @@ https://tinyurl.com/gratistvmediaTVN
 https://tinyurl.com/gratistvmediaTVNMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sone&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://mkctv.net/usetvvv/sone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
@@ -311,14 +311,14 @@ http://mixsrv.me:80/RArYb/c3gsj/69494
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nickelodeon
-http://mixsrv.me:80/RArYb/c3gsj/69512
+https://mkctv.net/usetvvv/nick.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nick JR
-http://mixsrv.me:80/RArYb/c3gsj/69509
+https://mkctv.net/usetvvv/nickjr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Cartoon Network
-https://mkctv.my.id/.tvje./carton.m3u8
+https://mkctv.net/usetvvv/cartoon.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Disney XD
 http://mixsrv.me:80/RArYb/c3gsj/69500
@@ -332,7 +332,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Boomerang
-http://mixsrv.me:80/RArYb/c3gsj/69485
+https://mkctv.net/usetvvv/boomerang.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Discovery Kids HD
 http://mixsrv.me:80/RArYb/c3gsj/69491
@@ -359,8 +359,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",My Kids
-http://45.126.83.51/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
-
+https://mkctv.net/usetvvv/mykids.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",MIAO MI
 http://103.146.185.235:8888/live/stress/bersama/286.ts
@@ -381,9 +380,6 @@ http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Boomerang
-https://mkctv.my.id/.tvje./bomerang.m3u8
-
 #EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",DAVINCI KIDS
 http://213.174.8.7:11111/index.m3u8
 
@@ -395,7 +391,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Horee
-https://mkctv.my.id/.tvje./hore.m3u8
+https://mkctv.net/usetvvv/horee.m3u8
 
 ##### KNOWLEDGE #####
 
@@ -409,20 +405,19 @@ http://178.128.29.102:25461/movon/ayomovon/1
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-http://203.153.218.28:9981/stream/channelid/1151931232
+https://mkctv.net/usetvvv/disco.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",HISTORY
 https://mkctv.my.id/.tvje./histori.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NET GEOGRAPHIC
-https://mkctv.my.id/.tvje./ngc.m3u8
+https://mkctv.net/usetvvv/natgeo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO WILD
-https://mkctv.my.id/.tvje./ngw.m3u8
+https://mkctv.net/usetvvv/ngw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
-https://mkctv.my.id/.tvje./ngp.m3u8
-
+https://mkctv.net/usetvvv/ngp.m3u8
 
  
 
