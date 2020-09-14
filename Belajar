@@ -345,8 +345,6 @@ https://mkctv.net/usetvvv/horee.m3u8
 
 ##### KNOWLEDGE #####
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ANIMAL PLANET
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
