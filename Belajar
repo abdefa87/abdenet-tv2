@@ -347,7 +347,7 @@ https://mkctv.net/usetvvv/horee.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ANIMAL PLANET
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://mkctv.net/usetvvv/disco.m3u8
