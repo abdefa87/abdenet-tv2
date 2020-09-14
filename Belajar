@@ -165,15 +165,35 @@ https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="FEED SPORTS",SKYNET SPORT 5
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WpV5Rvv/20200226-230938.png" group-title="FEED SPORTS",Eurosport 1
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony Ten 1 HD IN
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10168
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sCvmn28/20200226-231403.png" group-title="FEED SPORTS",Eurosport 2
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20200721_1595336176015/3000K/3000_slide.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony Ten 2 HD IN
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10170
 
-########SPORT LUAR##########
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony Ten 3 IN
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10169
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony ESPN HD IN
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10238
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Star Sports 1 HD IN
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/18807
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Star Sports 2 IN
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10165
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 1 MY
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/23453
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 2 MY
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/23452
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 3 MY
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/23451
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 4 MY
+http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/33973
 
 
 
