@@ -349,16 +349,13 @@ https://mkctv.net/usetvvv/horee.m3u8
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ANIMAL PLANET
-http://178.128.29.102:25461/movon/ayomovon/1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",BBC EARTH
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
 https://mkctv.net/usetvvv/disco.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",HISTORY
-https://mkctv.my.id/.tvje./histori.m3u8
+https://mkctv.net/useetvvv/histori.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NET GEOGRAPHIC
 https://mkctv.net/usetvvv/natgeo.m3u8
