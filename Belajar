@@ -11,10 +11,10 @@ https://content.jwplatform.com/videos/rJieAqhi-640.mp4
 https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
-https://mkctv.net/josmkc/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV 
-https://mkctv.net/josmkc/mnctv.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
@@ -38,13 +38,13 @@ https://mkctv.net/vidbos/indosiar.m3u8
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV 
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
 https://mkctv.net/vidbos/trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 HD
-https://tinyurl.com/gratistvmediaTRANS7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
@@ -53,7 +53,7 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 https://mkctv.net/josmkc/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV HD
-https://tinyurl.com/gratistvmediaTRANSTV
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV 
 https://mkctv.net/vidbos/trans.m3u8
@@ -62,7 +62,7 @@ https://mkctv.net/vidbos/trans.m3u8
 https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
-https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
