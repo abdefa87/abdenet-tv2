@@ -116,11 +116,11 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2 ASIA
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein1&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 ID
+http://chama.ml/channelgratisan-BEINSPORT1ID
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 HD
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein2&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 2 ID
+http://chama.ml/channelgratisan-BEINSPORT2ID
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
 http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
@@ -243,10 +243,10 @@ https://tinyurl.com/gratistvmediaCINEMAWORLD
 https://tinyurl.com/gratistvmediaAXN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=blueant&token=a6135d6835e4a17b737c18b471f0278bd8adf095e54dbcbbe083b36dd92b7b02
+http://210.210.155.35/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
+http://210.210.155.35/session/4cb2a5fa-73b6-11e9-be41-bd7db160af63/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
 https://mkctv.net/usetvvv/flik.m3u8
@@ -264,7 +264,7 @@ https://tinyurl.com/gratistvmediaTVNMOVIES
 https://mkctv.net/usetvvv/sone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=sgem&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+http://210.210.155.35/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
 http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
@@ -300,8 +300,7 @@ https://tinyurl.com/gratistvmediaHITS
 https://tinyurl.com/gratistvmediaHITSMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
-https://mkctv.net/josmkc/zee.m3u8
-
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 ###### ANAK-ANAK #####
 
 
