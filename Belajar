@@ -107,7 +107,7 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 https://mkctv.net/vidbos/champion.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
-https://mkctv.net/vidbos/champion2.m3u8
+https://cdnbdsa1.useetv.com/joss/15/champion2/chunklist_w2105332503_b1344100_sleng.m3u8?enc=4q7cTMZXeqSTBrm7P1iPng&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1600438244
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -122,10 +122,10 @@ http://chama.ml/channelgratisan-BEINSPORT1ID
 http://chama.ml/channelgratisan-BEINSPORT2ID
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1690861876_b1344100_sleng.m3u8?enc=siCXKWdAPHUvkIP5HUfXyQ&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1600438277
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesports2&token=dd67ed045038465c51fe8b47490ae8776764151894c01beffcf977dda010f269
+https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w901612951_b1344100_sleng.m3u8?enc=xBwNYFo9_BqzKRqzDLW4DA&id=ODE5ZjQ1OTFhMzg5YmZlMDcyM2ZhZTVkMWRmZDgzZTk=&exp=1600438314
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
