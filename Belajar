@@ -278,7 +278,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 https://tinyurl.com/gratistvmediaFX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
-https://tinyurl.com/gratistvmediaWB
+http://live4.ocnttv.com:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
 http://203.154.243.31:15001
