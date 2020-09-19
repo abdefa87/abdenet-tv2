@@ -166,17 +166,18 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQwXqZz/20200226-220924.png" group-title="FEED SPORTS",Sony ESPN HD IN
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 1 MY
-https://bit.ly/SEassp1
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 1
+http://iptvtree.net:8080/13354/27c12697/157559
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 2 MY
-https://bit.ly/SEassp2
+#EXTINF:-1 group-title="FEED SPROTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 2
+http://iptvtree.net:8080/13354/27c12697/157556
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 3 MY
-https://bit.ly/SEassp3
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 3
+http://iptvtree.net:8080/13354/27c12697/157557
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 4 MY
-https://bit.ly/SEassp4
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 4
+http://iptvtree.net:8080/13354/27c12697/157558
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
