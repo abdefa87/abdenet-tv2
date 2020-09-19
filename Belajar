@@ -165,13 +165,13 @@ https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony Ten 1 HD IN
-http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10168
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony Ten 2 HD IN
-http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10170
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony Ten 3 IN
-http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10169
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sony ESPN HD IN
 http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10238
