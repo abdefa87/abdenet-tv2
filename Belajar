@@ -177,10 +177,10 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://gma2.blab.email/espnu.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Star Sports 1 HD IN
-http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/18807
+http://****.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Star Sports 2 IN
-http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946/10165
+http://****.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Supersports 1 MY
 https://bit.ly/SEassp1
