@@ -174,30 +174,34 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 https://gma2.blab.email/espnu.m3u8
 
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 1,Astro sport_1 beckup
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 1
 http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59220
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 1,Astro sport_2 beckup
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 2
 http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59219
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 1,Astro sport_3 beckup
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 3
 http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59218
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 1,Astro sport_4 beckup
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 4
 http://mu03.wanicelife.com:8880/FL2MF790/COY3GJSHZ/59217
 
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 1
-http://iptvtree.net:8080/13354/27c12697/157559
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJqMRqn/20200303-005132.png" group-title="ABDE SPORTS",TrueSports HD
+https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 2
-http://iptvtree.net:8080/13354/27c12697/157556
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtgVyKZ/20200303-005338.png" group-title="ABDE SPORTS",TrueSports HD 2 
+https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 3
-http://iptvtree.net:8080/13354/27c12697/157557
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnrbywK/20200303-010212.png" group-title="ABDE SPORTS",TrueSports HD 3
+https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro SuperSport 4
-http://iptvtree.net:8080/13354/27c12697/157558
+#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 5
+https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ibb.co/rfH10HY" group-title="ABDE SPORTS",TrueSports 6
+https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 1
