@@ -142,8 +142,15 @@ https://mkctv.net/josmkc/foxs3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="FEED SPORTS",Premier Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="FEED SPORTS",Premier Football HD 1+
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="FEED SPORTS",Premier Football HD 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="FEED SPORTS",Premier Football HD 2 +
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="FEED SPORTS",Premier Football HD 3
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
