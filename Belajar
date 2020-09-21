@@ -1,14 +1,56 @@
-##### INDONESIA ####
+##### INDONESIA VIDIO ####
 
 
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="INDONESIA",ABDENET TV opening FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Lokal",ABDENET TV opening FHD
 https://content.jwplatform.com/videos/rJieAqhi-640.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="INDONESIA",ABDENET TV opening 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="Lokal",ABDENET TV opening 2
 https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="Lokal",MNC TV 
+https://mkctv.net/josmkc/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Lokal",GTV
+https://mkctv.net/josmkc/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="Lokal",RCTI
+https://mkctv.net/josmkc/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="Lokal",INDOSIAR HD
+https://mkctv.net/josmkc/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="Lokal",SCTV HD
+https://mkctv.net/josmkc/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Lokal",TRANS 7 
+https://mkctv.net/josmkc/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="Lokal",TRANS TV
+https://mkctvbos.my.id/vidiocom/trans.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="Lokal",INEWS
+https://mkctv.net/josmkc/inews.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="Lokal",KOMPAS TV 
+https://mkctv.net/josmkc/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="Lokal",RTV
+https://mkctv.net/josmkc/rtv.m3u8
+
+
+
+
+
+
+
+
+########### INDONESIA #########
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
