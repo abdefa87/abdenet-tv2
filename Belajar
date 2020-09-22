@@ -11,36 +11,34 @@ https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="Lokal",MNC TV 
-https://mkctv.net/josmkc/mnctv.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Lokal",GTV
-https://mkctv.net/josmkc/gtv.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="Lokal",RCTI
-https://kamiselaluada.com/m3u/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="Lokal",INDOSIAR HD
-https://mkctv.net/josmkc/indosiar.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="Lokal",SCTV HD
-https://mkctv.net/josmkc/sctv.m3u8
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="Lokal",TRANS 7 
-https://mkctv.net/josmkc/trans7.m3u8
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="Lokal",TRANS TV
-https://mkctvbos.my.id/vidiocom/trans.m3u8
-
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="Lokal",INEWS
-https://mkctv.net/josmkc/inews.m3u8
-
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="Lokal",KOMPAS TV 
 https://mkctv.net/josmkc/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="Lokal",RTV
-https://mkctv.net/josmkc/rtv.m3u8
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/manifest.mpd
 
 
 
