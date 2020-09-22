@@ -11,7 +11,7 @@ https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="Lokal",MNC TV 
-https://kamiselaluada.com/m3u/mnc.m3u8
+https://mkctv.net/josmkc/mnc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Lokal",GTV
 https://mkctv.net/josmkc/gtv.m3u8
@@ -53,10 +53,11 @@ https://mkctv.net/josmkc/rtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+http://chostv.mobie.in/files/iptv/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV 
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+http://chostv.mobie.in/files/iptv/mnctv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
