@@ -52,7 +52,7 @@ https://mkctv.net/josmkc/rtv.m3u8
 ########### INDONESIA #########
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title=INDONESIA",RCTI +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI +
 https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1600844759~acl=%2f*~data=hdntl~hmac=5ebc17d414da822420b4fc8c20b6624d009b85a54eb5fa655dd00bb7bea9b591/rcti_fta-avc1_2000000=1.m3u8?hdnts=exp=1600759246~hmac=32a8b0b205325334e7025a77b80d0e4325ccdabb9d19fc21cade262c244fe9d2&4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
