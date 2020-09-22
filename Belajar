@@ -10,14 +10,19 @@ https://content.jwplatform.com/videos/rJieAqhi-640.mp4
 https://content.jwplatform.com/videos/rJieAqhi-egLXNCXe.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="Lokal",MNC TV 
-http://chostv.mobie.in/files/iptv/mnctv.m3u8
+https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1600844888~acl=%2f*~data=hdntl~hmac=90f996bf51d778bf5768e2ffc0f8cd6b5dbe9c776e47e452e69412b67ee36bcc/mnctv_fta-avc1_2000000=1.m3u8?hdnts=exp=1600759385~hmac=8d3be9068820951ebee786042e31291ffef4e0e184e4ed0ab4b35cb41ecb9a1b&4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="Lokal",MNC TV 
+http://chostv.mobie.in/files/iptv/mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="Lokal",GTV
 https://mkctv.net/josmkc/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="Lokal",RCTI
 http://chostv.mobie.in/files/iptv/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="Lokal",RCTI +
+https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1600844759~acl=%2f*~data=hdntl~hmac=5ebc17d414da822420b4fc8c20b6624d009b85a54eb5fa655dd00bb7bea9b591/rcti_fta-avc1_2000000=1.m3u8?hdnts=exp=1600759246~hmac=32a8b0b205325334e7025a77b80d0e4325ccdabb9d19fc21cade262c244fe9d2&4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="Lokal",INDOSIAR HD
 https://mkctv.net/josmkc/indosiar.m3u8
