@@ -164,10 +164,10 @@ https://kamiselaluada.com/m3u/bein1.m3u8
 https://kamiselaluada.com/m3u/bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
-https://rosyid004.com/profesionaliptv/m3u/useetv/useesport.m3u8
+https://kamiselaluada.com/m3u/useesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
-https://rosyid004.com/profesionaliptv/m3u/useetv/useesport2.m3u8
+https://kamiselaluada.com/m3u/useesports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
