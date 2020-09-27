@@ -143,13 +143,13 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",MOLA SPORT
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",Champions TV 1
 https://mkctv.net/vidbos/champion.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",Champions TV 2
 https://mkctv.net/vidbos/useesports2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="SPORTS",Champion TV 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",Champions TV 3 
 https://m3u-editor.com:443/live/n7f9cfpt/yu49egfa/107949131.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
