@@ -254,6 +254,19 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQntSy8/20200226-232206.png" group-title="FEED SPORTS",Arena Sport 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfnTc2f/20200226-232450.png" group-title="FEED SPORTS",Arena Sport 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DR999jv/20200226-232903.png" group-title="FEED SPORTS",Arena Sport 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+
+
 
 
 
