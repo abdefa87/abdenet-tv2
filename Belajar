@@ -303,7 +303,7 @@ https://mkctv.net/josmkc/cinemax.m3u8
 https://tinyurl.com/gratistvmediaCINEMAWORLD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-https://tinyurl.com/gratistvmediaAXN
+https://mkctv.net/usetvvv/axn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
 http://210.210.155.35/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
@@ -333,7 +333,7 @@ http://210.210.155.35/uq2663/h/h19/index.m3u8
 http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-https://tinyurl.com/gratistvmediaCELESTIALMOVIES
+https://mkctv.net/usetvvv/clestial.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
 https://tinyurl.com/gratistvmediaTHRILL
@@ -364,6 +364,8 @@ https://tinyurl.com/gratistvmediaHITSMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
 https://mkctv.net/josmkc/zee.m3u8
+
+
 ############ GRUP HBO & FOX ##############$
 
 
