@@ -144,10 +144,10 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",Champions TV 1
-https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=champion1
+https://mkctv.net/usetvvv/champion1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",Champions TV 2
-https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=champion2
+https://mkctv.net/usetvvv/champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -155,12 +155,11 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2 ASIA
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",BeInSports 1 ID
-https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=bein1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",BT Sports 1 
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",BeInSports 2 ID
-https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=bein2
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",BT Sports 2 
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",UseeSports HD
 https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=useesport
