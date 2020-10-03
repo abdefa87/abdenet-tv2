@@ -282,28 +282,22 @@ https://mkctv.net/josmkc/foxfamily.m3u8
 http://iptvtree.net:8080/13354/27c12697/157575
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
-http://iptvtree.net:8080/13354/27c12697/171962
+https://mkctv.net/josmkc/foxmovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO ID
-https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
+https://mkctv.net/josmkc/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+https://mkctv.net/josmkc/hbohits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+https://mkctv.net/josmkc/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+https://mkctv.net/josmkc/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
-https://tinyurl.com/gratistvmediaCINEMAX
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
-https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
+https://mkctv.net/josmkc/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
 https://tinyurl.com/gratistvmediaCINEMAWORLD
@@ -369,8 +363,7 @@ https://tinyurl.com/gratistvmediaHITS
 https://tinyurl.com/gratistvmediaHITSMOVIES
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
-http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
-
+https://mkctv.net/josmkc/zee.m3u8
 ############ GRUP HBO & FOX ##############$
 
 
