@@ -279,25 +279,25 @@ https://rebrand.ly/fACT-62
 https://mkctv.net/josmkc/foxmovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",RED & HBO
-https://mkctv.net/josmkc/red.m3u8
+https://mkctv.net/topcermkc/red.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-https://mkctv.net/josmkc/hbo.m3u8
+https://mkctv.net/topcermkc/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://mkctv.net/josmkc/hbohits.m3u8
+https://mkctv.net/topcermkc/hbohits.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-https://mkctv.net/josmkc/hbofam.m3u8
+https://mkctv.net/topcermkc/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-https://mkctv.net/josmkc/hbosig.m3u8
+https://mkctv.net/topcermkc/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
-https://mkctv.net/josmkc/cinemax.m3u8
+https://mkctv.net/topcermkc/cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
-https://tinyurl.com/gratistvmediaCINEMAWORLD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM", GALAXY
+https://mkctv.net/usetvvv/galaxiprem.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
 https://mkctv.net/usetvvv/axn.m3u8
@@ -336,7 +336,7 @@ https://mkctv.net/usetvvv/clestial.m3u8
 https://mkctv.net/usetvvv/thrill.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=kix
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
