@@ -75,7 +75,7 @@ https://tinyurl.com/gratistvmediaINDOSIAR
 https://mkctv.net/vidbos/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPSZFMs/20200225-085643.png" group-title="INDONESIA",NET TV 
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+https://mkctv.net/vidbos/net.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV 
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -87,7 +87,7 @@ https://mkctv.net/vidbos/trans7.m3u8
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE 
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s105/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Tvone_TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE MPEG2
 https://mkctv.net/josmkc/tvone.m3u8
@@ -99,7 +99,7 @@ http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 https://mkctv.net/vidbos/trans.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
+https://mkctv.net/vidbos/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
@@ -165,13 +165,13 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
-https://mkctv.net/josmkc/foxs1.m3u8
+https://mkctv.net/topcermkc/foxs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
-https://mkctv.net/josmkc/foxs2.m3u8
+https://mkctv.net/topcermkc/foxs2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
-https://mkctv.net/josmkc/foxs3.m3u8
+https://mkctv.net/topcermkc/foxs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="FEED SPORTS",Premier Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
