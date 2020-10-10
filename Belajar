@@ -6,7 +6,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -999,17 +999,17 @@ http://iptvtree.net:8080/13354/27c12697/172046
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Disney Jr
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/213
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nickelodeon
-https://mkctv.net/usetvvv/nick.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/962
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nick JR
-https://mkctv.net/usetvvv/nickjr.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/522
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Cartoon Network
-https://mkctv.net/usetvvv/cartoon.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/680
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Boomerang
@@ -1040,22 +1040,22 @@ https://mkctv.net/usetvvv/horee.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ANIMAL PLANET
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/358
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-https://mkctv.net/usetvvv/disco.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/165
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",HISTORY
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/718
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NET GEOGRAPHIC
-https://mkctv.net/usetvvv/natgeo.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/96
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO WILD
-https://mkctv.net/usetvvv/ngw.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/97
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
-https://mkctv.net/usetvvv/ngp.m3u8
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/455
 
  
 
