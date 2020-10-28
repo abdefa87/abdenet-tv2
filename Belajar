@@ -1,12 +1,9 @@
-
-
 ########### INDONESIA #########
 
 
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+http://chostv.mobie.in/files/iptv/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA",MNC TV 
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -67,112 +64,1914 @@ http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Krcx9Rj/20200225-092828.png" group-title="INDONESIA",USee Prime
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+
+
+#### FEED SPORTS #####
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",MOLA SPORT
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1 ASIA
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2 ASIA
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="FEED SPORTS",beIN Sports 1
+https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2 
+https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",MNC SPORTS
+http://dmtn.tv:8080/blUL4oaE2z/t36YzZ4SKk/160641?play_token=ndrY2KGfHd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
+https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48Hq3vf/20200229-221116.png" group-title="FEED SPORTS",CHAMPIONS 2
+https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORTS 
+https://cdnmdc1.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="FEED SPORTS",USEE SPORT 2 
+https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Setanta Sports 1 HD
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Setanta Sports 2 HD
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="FEED SPORTS",TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV689pj/20200226-173224.png" group-title="FEED SPORTS",Fox Sport 1
+https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbQ9Nz6/20200226-173449.png" group-title="FEED SPORTS",Fox Sport 2
+https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8xH6cjd/20200226-173622.png" group-title="FEED SPORTS",Fox Sport 3
+https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n0RhhkW/20200301-001551.png" group-title="FEED SPORTS",Premier Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsB2JpB/20200301-001448.png" group-title="FEED SPORTS",Premier Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rg8m47/20200301-001316.png" group-title="FEED SPORTS",Premier Football HD 3
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GCG6fP/20200301-001144.png" group-title="FEED SPORTS",Premier Football HD 4
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8vCm8B/20200301-001014.png" group-title="FEED SPORTS",Premier Football HD 5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="FEED SPORTS",Sony Ten 1 HD IN
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="FEED SPORTS",Sony Ten 2 HD IN
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="FEED SPORTS",Sony Ten 3 IN
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQwXqZz/20200226-220924.png" group-title="FEED SPORTS",Sony ESPN HD IN
+https://gma2.blab.email/espnu.m3u8
+
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 1
+http://iptvtree.net:8080/12357/b5d7b894/157559
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 2
+http://iptvtree.net:8080/12357/b5d7b894/157556
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 3
+http://iptvtree.net:8080/12357/b5d7b894/157557
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Astro Sports 4
+http://iptvtree.net:8080/12357/b5d7b894/157558
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports HD
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports HD 2 
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPtqt2y/20200226-232644.png" group-title="FEED SPORTS",Arena Sport 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQntSy8/20200226-232206.png" group-title="FEED SPORTS",Arena Sport 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfnTc2f/20200226-232450.png" group-title="FEED SPORTS",Arena Sport 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DR999jv/20200226-232903.png" group-title="FEED SPORTS",Arena Sport 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="FEED SPORTS",SKYNET SPORT HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="FEED SPORTS",SKYNET SPORT 1
+https://www.livedoomovies.com/03_skynetsport1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="FEED SPORTS",SKYNET SPORT 2
+https://www.livedoomovies.com/03_skynetsport2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="FEED SPORTS",SKYNET SPORT 3
+https://www.livedoomovies.com/03_skynetsport3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="FEED SPORTS",SKYNET SPORT 4
+https://www.livedoomovies.com/03_skynetsport4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="FEED SPORTS",SKYNET SPORT 5
+https://www.livedoomovies.com/03_skynetsport5_720p/chunklist.m3u8
+
+
+##### MOVIES PREMIUM #####
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX 
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
+https://rebrand.ly/fFAM-62
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
+https://rebrand.ly/fACT-62
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
+http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",RED & HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO (beckup)
+http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
+http://me.zichannels.my.id/ch/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
+http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34800?play_token=AlFtFYOnO5&token=QhVcUhcJRggXU1BfUVQCA1ABBFIFVF1TVlYHVVFSAFlbB1YKXAIHCwBGGURBEkJRAFtpWgVEXlBRXAVRSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
+http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33258?play_token=TnHKJ46sMk&token=QhVcUhcJRggXUlFXAl4IDFUOAgtRXgdTUAYDAl5XVQIOAwdQUQUCVAZGGURBEkJRAFtpWgVEXlBWVgBZSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBXDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM", CINEMA WORLD
+http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
+http://210.210.155.35/session/4cb2a5fa-73b6-11e9-be41-bd7db160af63/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
+http://103.130.186.138:8800/oxygenplay/flik/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
+http://103.130.186.138:8800/oxygenplay/imc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
+https://mkctvbos.my.id/mkcuse/tvn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/4375
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
+http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
+http://210.210.155.35/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNjKRk9/20200229-225258.png" group-title="ENTERTAINMENT",FX
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/332
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
+https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="ENTERTAINMENT",HITS MOVIES
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
+http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/7
+
+
+############ GRUP HBO & FOX ##############$
+
+
+
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/OIXjdsl.png",HBO HD
+http://195.154.184.150:25461/KLp1VrQ0Ig/9UE8tQL5Wf/34793?play_token=cZNK0pfRz6&token=QhVcUhcJRggXBQxSB1UBBFFXAwcCBQEHUFUDB1IGU1hfBQJXBVlVAQVGGURBEkJRAFtpWgVEXlBRUwxSSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlFRChsWQw0FRggXVQdQClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBgdWFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABRAwNXFEs=
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/OIXjdsl.png",hbo hits
+http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34804?play_token=U3gFZg2bPG&token=QhVcUhcJRggXUgZSBwQEBVZUBQVWV1xQVAABVVQAVlUPUVJSUlhcUFdGGURBEkJRAFtpWgVEXlBRXAVVSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlNYARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/OIXjdsl.png",hbo signature
+http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34800?play_token=AlFtFYOnO5&token=QhVcUhcJRggXU1BfUVQCA1ABBFIFVF1TVlYHVVFSAFlbB1YKXAIHCwBGGURBEkJRAFtpWgVEXlBRXAVRSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/OIXjdsl.png",hbo family
+http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34809?play_token=xwtFeABAdn&token=QhVcUhcJRggXXQBUVFUGDVNUVwRWVgBWXF0CBQBVVlEOUwFRUFYFBQZGGURBEkJRAFtpWgVEXlBRXAVYSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlNZARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/OIXjdsl.png",Red By Hbo
+http://62.210.127.217:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/28650?play_token=8Oin7nCIYC&token=QhVcUhcJRggXV1EFUwUGVgdVVQRZBVNUAAIFV1YGVVUPDlcLBllUV1FGGURBEkJRAFtpWgVEXlFdUgBRSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBQABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/OIXjdsl.png",Cinemax
+http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33258?play_token=TnHKJ46sMk&token=QhVcUhcJRggXUlFXAl4IDFUOAgtRXgdTUAYDAl5XVQIOAwdQUQUCVAZGGURBEkJRAFtpWgVEXlBWVgBZSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBXDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+
+
+
+
+###### ANAK-ANAK #####
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Disney Jr
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nickelodeon
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Nick JR
+http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=FF0EBD06D354AB48D6CC5DA09F6474CA734C5F43&profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS", Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",MIAOMI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",Disney Channel
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KIDS",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+##### KNOWLEDGE #####
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",ANIMAL PLANET
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",HISTORY
+http://202.147.204.114/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8?Stream/id/History/PPIIPTV.xdx/chunks/RepresentationID=change=mpd.mpeg.dash.profile=get.forward.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEOGRAPHIC
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO WILD
+http://www.livedoomovies.com/02_NatGeoWild_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
+http://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
  
+
+
+
 ###### NASIONAL #######
- 
- 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI NASIONAL 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI BUDAYA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI ACEH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SUMATERA UTARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SUMATERA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SUMATERA SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI RIAU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI JAMBI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI BANGKA BELITUNG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI BENGKULU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI LAMPUNG
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
- 
- 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI JAWA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
- 
- 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI JAWA TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI JAWA TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI YOGYAKARTA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI BALI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI NUSA TENGGARA BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI NUSA TENGGARA TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI KALIMANTAN BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI KALIMANTAN TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI KALIMANTAN TIMUR
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI KALIMANTAN SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SULAWESI SELATAN
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SULAWESI BARAT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SULAWESI TENGGARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SULAWESI TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI SULAWESI UTARA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI GORONTALO
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI MALUKU
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="NASIONAL",TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
- 
- 
+
+########### MALAYSIA ###########
 
 
+
+EXTINF:-1 tvg-ID="" tvg-name="MY: TV2" tvg-logo="" group-title="Malaysia",MY: TV2
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55481
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV1" tvg-logo="" group-title="Malaysia",MY: TV1
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55480
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WARNER TV HD" tvg-logo="" group-title="Malaysia",MY: WARNER TV HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55478
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVN MOVIES" tvg-logo="" group-title="Malaysia",MY: TVN MOVIES
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55477
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVN HD" tvg-logo="" group-title="Malaysia",MY: TVN HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55476
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV9" tvg-logo="" group-title="Malaysia",MY: TV9
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55475
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV8" tvg-logo="" group-title="Malaysia",MY: TV8
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55474
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV ALHIJRA" tvg-logo="" group-title="Malaysia",MY: TV ALHIJRA
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55472
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TRAVEL CHANNEL HD" tvg-logo="" group-title="Malaysia",MY: TRAVEL CHANNEL HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55471
+#EXTINF:-1 tvg-ID="" tvg-name="MY: STAR CHINESE CHANNEL HD" tvg-logo="" group-title="Malaysia",MY: STAR CHINESE CHANNEL HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55470
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SETi CHINESE" tvg-logo="" group-title="Malaysia",MY: SETi CHINESE
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55469
+#EXTINF:-1 tvg-ID="" tvg-name="MY: PESONA HD" tvg-logo="" group-title="Malaysia",MY: PESONA HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55468
+#EXTINF:-1 tvg-ID="" tvg-name="MY: PARAMAUNT CHANNEL" tvg-logo="" group-title="Malaysia",MY: PARAMAUNT CHANNEL
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55467
+#EXTINF:-1 tvg-ID="" tvg-name="MY: COLORS CINEPLEX APAC+" tvg-logo="" group-title="Malaysia",MY: COLORS CINEPLEX APAC+
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55466
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NICK JR KD" tvg-logo="" group-title="Malaysia",MY: NICK JR KD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55465
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO WILD HD" tvg-logo="" group-title="Malaysia",MY: NAT GEO WILD HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55464
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO PEOPLE HD" tvg-logo="" group-title="Malaysia",MY: NAT GEO PEOPLE HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55463
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO ASIA HD" tvg-logo="" group-title="Malaysia",MY: NAT GEO ASIA HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55462
+#EXTINF:-1 tvg-ID="" tvg-name="MY: MTV ASIA" tvg-logo="" group-title="Malaysia",MY: MTV ASIA
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55461
+#EXTINF:-1 tvg-ID="" tvg-name="MY: COLORS TAMIL HD" tvg-logo="" group-title="Malaysia",MY: COLORS TAMIL HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55460
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FX CINEMA HD" tvg-logo="" group-title="Malaysia",MY: FX CINEMA HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55459
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX TV HD" tvg-logo="" group-title="Malaysia",MY: FOX TV HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55458
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX MOVIES HD" tvg-logo="" group-title="Malaysia",MY: FOX MOVIES HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55457
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX LIFE HD" tvg-logo="" group-title="Malaysia",MY: FOX LIFE HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55456
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX FAMILY MOVIES HD" tvg-logo="" group-title="Malaysia",MY: FOX FAMILY MOVIES HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55455
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX ACTION MOVIES HD" tvg-logo="" group-title="Malaysia",MY: FOX ACTION MOVIES HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55454
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DUNIA SINEMA" tvg-logo="" group-title="Malaysia",MY: DUNIA SINEMA
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55453
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CINEMA WORLD HD" tvg-logo="" group-title="Malaysia",MY: CINEMA WORLD HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55452
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BOOMERANG HD KD" tvg-logo="" group-title="Malaysia",MY: BOOMERANG HD KD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55451
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BLUE ANT EXTREME" tvg-logo="" group-title="Malaysia",MY: BLUE ANT EXTREME
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55450
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC LIFESTYLE" tvg-logo="" group-title="Malaysia",MY: BBC LIFESTYLE
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55449
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC EARTH HD" tvg-logo="" group-title="Malaysia",MY: BBC EARTH HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55448
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BABY TV KD" tvg-logo="" group-title="Malaysia",MY: BABY TV KD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55447
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SCM LEGEND" tvg-logo="" group-title="Malaysia",MY: SCM LEGEND
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55445
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SCM HD" tvg-logo="" group-title="Malaysia",MY: SCM HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55444
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SALAAM HD" tvg-logo="" group-title="Malaysia",MY: SALAAM HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55443
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NTV 7" tvg-logo="" group-title="Malaysia",MY: NTV 7
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55442
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NOW JELLi" tvg-logo="" group-title="Malaysia",MY: NOW JELLi
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55441
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BLUE ANT ENTER" tvg-logo="" group-title="Malaysia",MY: BLUE ANT ENTER
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55438
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BARNAMA NEWS" tvg-logo="" group-title="Malaysia",MY: BARNAMA NEWS
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55437
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 4" tvg-logo="" group-title="Malaysia",MY: ASTRO SUPERSPORTS 4
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55436
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 3" tvg-logo="" group-title="Malaysia",MY: ASTRO SUPERSPORTS 3
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55435
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 2" tvg-logo="" group-title="Malaysia",MY: ASTRO SUPERSPORTS 2
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55434
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO SUPERSPORTS 1" tvg-logo="" group-title="Malaysia",MY: ASTRO SUPERSPORTS 1
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55433
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CRICKET HD" tvg-logo="" group-title="Malaysia",MY: ASTRO CRICKET HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55432
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAX HD KD" tvg-logo="" group-title="Malaysia",MY: ANIMAX HD KD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55431
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DREAMWORKS HD" tvg-logo="" group-title="Malaysia",MY: DREAMWORKS HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55430
+
+
+########## THAILAND ############
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: ATTV" tvg-logo="" group-title="Thailand",THAI: ATTV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55613
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: COOL" tvg-logo="" group-title="Thailand",THAI: COOL
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55612
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: Mixmajor" tvg-logo="" group-title="Thailand",THAI: Mixmajor
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55611
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: Monoplus" tvg-logo="" group-title="Thailand",THAI: Monoplus
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55610
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: MTV-Asia" tvg-logo="" group-title="Thailand",THAI: MTV-Asia
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55609
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: Fah Won Mai Thai" tvg-logo="" group-title="Thailand",THAI: Fah Won Mai Thai
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55608
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: Bull & Chicken Showtime" tvg-logo="" group-title="Thailand",THAI: Bull & Chicken Showtime
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55607
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: Sabaidee" tvg-logo="" group-title="Thailand",THAI: Sabaidee
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55606
+#EXTINF:-1 tvg-ID="" tvg-name="THAI: WISH" tvg-logo="" group-title="Thailand",THAI: WISH
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55605
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Cartoon Net" tvg-logo="" group-title="Thailand",TH: Cartoon Net
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55604
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Disney Channel" tvg-logo="" group-title="Thailand",TH: Disney Channel
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55603
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Disney Channel Thai" tvg-logo="" group-title="Thailand",TH: Disney Channel Thai
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55602
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Disney XD HD" tvg-logo="" group-title="Thailand",TH: Disney XD HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55601
+#EXTINF:-1 tvg-ID="" tvg-name="TH: GMM Channel 25" tvg-logo="" group-title="Thailand",TH: GMM Channel 25
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55600
+#EXTINF:-1 tvg-ID="" tvg-name="TH: GMM One" tvg-logo="" group-title="Thailand",TH: GMM One
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55599
+#EXTINF:-1 tvg-ID="" tvg-name="TH: KBS World HD" tvg-logo="" group-title="Thailand",TH: KBS World HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55598
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mcot Family/Australia" tvg-logo="" group-title="Thailand",TH: Mcot Family/Australia
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55597
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mcot HD" tvg-logo="" group-title="Thailand",TH: Mcot HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55596
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mono" tvg-logo="" group-title="Thailand",TH: Mono
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55595
+#EXTINF:-1 tvg-ID="" tvg-name="TH: New TV" tvg-logo="" group-title="Thailand",TH: New TV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55594
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NHK Premium" tvg-logo="" group-title="Thailand",TH: NHK Premium
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55593
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NHK World" tvg-logo="" group-title="Thailand",TH: NHK World
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55592
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Nation TV" tvg-logo="" group-title="Thailand",TH: Nation TV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55591
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Nickeodeon" tvg-logo="" group-title="Thailand",TH: Nickeodeon
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55590
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Amarin HD" tvg-logo="" group-title="Thailand",TH: Amarin HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55589
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Arirang" tvg-logo="" group-title="Thailand",TH: Arirang
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55588
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channelnews Asia" tvg-logo="" group-title="Thailand",TH: Channelnews Asia
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55587
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Bloomberg TH" tvg-logo="" group-title="Thailand",TH: Bloomberg TH
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55586
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CNBC Asia" tvg-logo="" group-title="Thailand",TH: CNBC Asia
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55585
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CNN" tvg-logo="" group-title="Thailand",TH: CNN
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55584
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PPTV HD" tvg-logo="" group-title="Thailand",TH: PPTV HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55583
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Spark Jump" tvg-logo="" group-title="Thailand",TH: Spark Jump
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55582
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Spark Play" tvg-logo="" group-title="Thailand",TH: Spark Play
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55581
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Thai PBS" tvg-logo="" group-title="Thailand",TH: Thai PBS
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55580
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Thairath HD" tvg-logo="" group-title="Thailand",TH: Thairath HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55579
+#EXTINF:-1 tvg-ID="" tvg-name="TH: ThaiThai" tvg-logo="" group-title="Thailand",TH: ThaiThai
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55578
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Inside" tvg-logo="" group-title="Thailand",TH: Inside
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55577
+#EXTINF:-1 tvg-ID="" tvg-name="TH: FX HD" tvg-logo="" group-title="Thailand",TH: FX HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55576
+#EXTINF:-1 tvg-ID="" tvg-name="TH: History HD" tvg-logo="" group-title="Thailand",TH: History HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55575
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Discovery Asia HD" tvg-logo="" group-title="Thailand",TH: Discovery Asia HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55574
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Discovery Channel" tvg-logo="" group-title="Thailand",TH: Discovery Channel
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55573
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CI HD/13 Siam TV" tvg-logo="" group-title="Thailand",TH: CI HD/13 Siam TV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55572
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Explore Life" tvg-logo="" group-title="Thailand",TH: Explore Life
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55571
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Explore Science" tvg-logo="" group-title="Thailand",TH: Explore Science
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55570
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Explore Wild" tvg-logo="" group-title="Thailand",TH: Explore Wild
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55569
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Nat Geo People" tvg-logo="" group-title="Thailand",TH: Nat Geo People
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55568
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Nat Geo Wild" tvg-logo="" group-title="Thailand",TH: Nat Geo Wild
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55567
+#EXTINF:-1 tvg-ID="" tvg-name="TH: National Geo" tvg-logo="" group-title="Thailand",TH: National Geo
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55566
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TNN24" tvg-logo="" group-title="Thailand",TH: TNN24
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55565
+#EXTINF:-1 tvg-ID="" tvg-name="TH: True4u" tvg-logo="" group-title="Thailand",TH: True4u
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55564
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Blue Ant Entertainment" tvg-logo="" group-title="Thailand",TH: Blue Ant Entertainment
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55563
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Movie Hits" tvg-logo="" group-title="Thailand",TH: Movie Hits
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55562
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Paramount/Smart SME" tvg-logo="" group-title="Thailand",TH: Paramount/Smart SME
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55561
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Series (TH)" tvg-logo="" group-title="Thailand",TH: Series (TH)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55560
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox" tvg-logo="" group-title="Thailand",TH: Fox
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55559
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Action HD" tvg-logo="" group-title="Thailand",TH: Fox Action HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55558
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Crime" tvg-logo="" group-title="Thailand",TH: Fox Crime
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55557
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Premium HD" tvg-logo="" group-title="Thailand",TH: Fox Premium HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55556
+#EXTINF:-1 tvg-ID="" tvg-name="TH: TRUE Asian Series HD" tvg-logo="" group-title="Thailand",TH: TRUE Asian Series HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55555
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Warner TV HD" tvg-logo="" group-title="Thailand",TH: Warner TV HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55554
+#EXTINF:-1 tvg-ID="" tvg-name="TH: STAR WORLD (VN)" tvg-logo="" group-title="Thailand",TH: STAR WORLD (VN)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55553
+#EXTINF:-1 tvg-ID="" tvg-name="TH: AXN HD" tvg-logo="" group-title="Thailand",TH: AXN HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55552
+#EXTINF:-1 tvg-ID="" tvg-name="TH: CINEMAX SD (th)" tvg-logo="" group-title="Thailand",TH: CINEMAX SD (th)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55551
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO Family SD (th)" tvg-logo="" group-title="Thailand",TH: HBO Family SD (th)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55550
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO Signature SD (th)" tvg-logo="" group-title="Thailand",TH: HBO Signature SD (th)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55549
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO HITS HD (th)" tvg-logo="" group-title="Thailand",TH: HBO HITS HD (th)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55548
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO HD (th)" tvg-logo="" group-title="Thailand",TH: HBO HD (th)
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55547
+#EXTINF:-1 tvg-ID="" tvg-name="TH: HBO HD" tvg-logo="" group-title="Thailand",TH: HBO HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55546
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Workpoint HD" tvg-logo="" group-title="Thailand",TH: Workpoint HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55545
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 8" tvg-logo="" group-title="Thailand",TH: Channel 8
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55544
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 7 HD" tvg-logo="" group-title="Thailand",TH: Channel 7 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55543
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 5 HD" tvg-logo="" group-title="Thailand",TH: Channel 5 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55542
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 3 Digi/69TV" tvg-logo="" group-title="Thailand",TH: Channel 3 Digi/69TV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55541
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mangkorn TV" tvg-logo="" group-title="Thailand",TH: Mangkorn TV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55540
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Channel 3 HD" tvg-logo="" group-title="Thailand",TH: Channel 3 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55539
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Espn SD" tvg-logo="" group-title="Thailand",TH: Espn SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55538
+#EXTINF:-1 tvg-ID="" tvg-name="TH: NBA HD" tvg-logo="" group-title="Thailand",TH: NBA HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55537
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Sports 3" tvg-logo="" group-title="Thailand",TH: Fox Sports 3
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55536
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Sports 2" tvg-logo="" group-title="Thailand",TH: Fox Sports 2
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55535
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox Sports 1" tvg-logo="" group-title="Thailand",TH: Fox Sports 1
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55534
+#EXTINF:-1 tvg-ID="" tvg-name="TH:Arena Sports 2" tvg-logo="" group-title="Thailand",TH:Arena Sports 2
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55533
+#EXTINF:-1 tvg-ID="" tvg-name="TH:Arena Sports 1" tvg-logo="" group-title="Thailand",TH:Arena Sports 1
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55532
+#EXTINF:-1 tvg-ID="" tvg-name="TH:MNCSport" tvg-logo="" group-title="Thailand",TH:MNCSport
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55531
+#EXTINF:-1 tvg-ID="" tvg-name="TH:TVRI Sport" tvg-logo="" group-title="Thailand",TH:TVRI Sport
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55530
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fightsports HD" tvg-logo="" group-title="Thailand",TH: Fightsports HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55529
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Setanta HD" tvg-logo="" group-title="Thailand",TH: Setanta HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55528
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Golf Channel HD" tvg-logo="" group-title="Thailand",TH: Golf Channel HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55527
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Tennis HD" tvg-logo="" group-title="Thailand",TH: Tennis HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55526
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet SunTV" tvg-logo="" group-title="Thailand",TH: Skynet SunTV
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55525
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet MBiz" tvg-logo="" group-title="Thailand",TH: Skynet MBiz
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55524
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet MRTVent" tvg-logo="" group-title="Thailand",TH: Skynet MRTVent
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55523
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Star Chinese" tvg-logo="" group-title="Thailand",TH: Skynet Star Chinese
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55522
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Starchinese" tvg-logo="" group-title="Thailand",TH: Skynet Starchinese
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55521
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Teen" tvg-logo="" group-title="Thailand",TH: Skynet Teen
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55520
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Music/D Music" tvg-logo="" group-title="Thailand",TH: Skynet Music/D Music
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55519
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Zee Cinema" tvg-logo="" group-title="Thailand",TH: Skynet Zee Cinema
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55518
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Pay-Per-View/Drama" tvg-logo="" group-title="Thailand",TH: Skynet Pay-Per-View/Drama
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55517
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sport +" tvg-logo="" group-title="Thailand",TH: Skynet Sport +
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55516
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 6" tvg-logo="" group-title="Thailand",TH: Skynet Sports 6
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55515
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 5" tvg-logo="" group-title="Thailand",TH: Skynet Sports 5
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55514
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 4" tvg-logo="" group-title="Thailand",TH: Skynet Sports 4
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55513
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 3" tvg-logo="" group-title="Thailand",TH: Skynet Sports 3
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55512
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 2" tvg-logo="" group-title="Thailand",TH: Skynet Sports 2
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55511
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 1" tvg-logo="" group-title="Thailand",TH: Skynet Sports 1
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55510
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Skynet Sports 1 HD" tvg-logo="" group-title="Thailand",TH: Skynet Sports 1 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55509
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T-Sport 7 SD" tvg-logo="" group-title="Thailand",TH: T-Sport 7 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55508
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T-Sport 4 HD" tvg-logo="" group-title="Thailand",TH: T-Sport 4 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55507
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T-Sport 3 HD" tvg-logo="" group-title="Thailand",TH: T-Sport 3 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55506
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T-Sport 2 SD" tvg-logo="" group-title="Thailand",TH: T-Sport 2 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55505
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T-Sport 2 HD" tvg-logo="" group-title="Thailand",TH: T-Sport 2 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55504
+#EXTINF:-1 tvg-ID="" tvg-name="TH: T-Sport 1 HD" tvg-logo="" group-title="Thailand",TH: T-Sport 1 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55503
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 5 SD" tvg-logo="" group-title="Thailand",TH: Premier Football 5 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55502
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 4 SD" tvg-logo="" group-title="Thailand",TH: Premier Football 4 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55501
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 3 SD" tvg-logo="" group-title="Thailand",TH: Premier Football 3 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55500
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 2 SD" tvg-logo="" group-title="Thailand",TH: Premier Football 2 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55499
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 1 SD" tvg-logo="" group-title="Thailand",TH: Premier Football 1 SD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55498
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 5 HD" tvg-logo="" group-title="Thailand",TH: Premier Football 5 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55497
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 4 HD" tvg-logo="" group-title="Thailand",TH: Premier Football 4 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55496
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 3 HD" tvg-logo="" group-title="Thailand",TH: Premier Football 3 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55495
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 2 HD" tvg-logo="" group-title="Thailand",TH: Premier Football 2 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55494
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Premier Football 1 HD" tvg-logo="" group-title="Thailand",TH: Premier Football 1 HD
+http://m3ulink.com:7899/dolqgcy0Ds/GlJHU6Flfw/55493
+
+############ SPORTS CENTER ###########
+
+
+
+
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",165.Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",166.Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",167.Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",168.Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",epl1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",epl2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",True Sport HD1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport",True Sport HD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport",True Sport HD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",True Sport 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/wl00Xig.png",True Sport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png",Astro SuperSport 1
+http://iptvtree.net:8080/13354/27c12697/157559
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png",Astro SuperSport 2
+http://iptvtree.net:8080/13354/27c12697/157556
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png",Astro SuperSport 3
+http://iptvtree.net:8080/13354/27c12697/157557
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png",Astro SuperSport 4
+http://iptvtree.net:8080/13354/27c12697/157558
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/D7hKGI6.jpg",ASTRO ARENA HD
+http://iptvtree.net:8080/13354/27c12697/157485
+#EXTINF:-1 group-title="Live Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png",61. Premier HD1
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png",62. Premier HD2
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png",33. Premier HD3
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png",64. Premier HD4
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png",65. Premier HD5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg",Premier Football HD 3
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg",Premier Football HD 4
+http://203.150.107.30:8081/tested2iptv/core104/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png",Sony Ten 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png",Sony Ten 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png",Sony Ten 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",PremieLeague1
+http://ip2121.com:8081/at1/ENG1/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",PremieLeague2
+http://ip2121.com:8081/at1/ENG2/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",PremieLeague3
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",BEIN SPORT 1
+http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",BEIN SPORT 2
+http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Fight Plus
+https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",FIGHT TIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",RTV Sport
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",rusian sport
+https://raw.githubusercontent.com/d3ddy-alex/gado2-pedes/master/rusi
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Bulu 1
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",bulu 2
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",La Liga CH2
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",La Liga
+https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Serie A CH2
+https://dl.dropbox.com/s/a01v9ex7xyyrpxx/itali.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Arena Sport 5
+https://dl.dropbox.com/s/79jgjv055453957/prancis.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",劲爆体育
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 2
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 3
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 4
+http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 5
+http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Olympic Channel 6
+http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Nashya Sportkool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",CCX Nashya Sport [1080p]
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Cheddar Nashya Sport
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Horizon Nashya Sport
+https://a.jsrdn.com/broadcast/22705/+0000/c.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",SEC Network
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",Nashya Sportkool TV
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",World of Free Nashya Sport
+https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/5HLinDI.jpg",ATP Tennis TV
+http://203.154.243.89:11739
+
+#EXTINF:-1 group-title="Live Sport",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Live Sport",Dubai Sports 1 (HD)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Live Sport",Dubai Sports 1 (SD)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b850000.m3u8
+#EXTINF:-1 group-title="Live Sport",Dubai Sports 2 (HD)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Live Sport",Dubai Sports 2 (SD)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
+#EXTINF:-1 group-title="Live Sport",Dubai Sports 3 (HD)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="Live Sport",Dubai Sports 3 (SD)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
+#EXTINF:-1 group-title="Live Sport",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",Fox Sport 2 (TH)
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",Golf Channel HD
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Live Sport",Mola FREE
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/02.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 group-title="Live Sport",PTV Sports HD 720
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport",PTV Sports SD 360
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Live Sport",RTM SPORTS
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/QTRyKv9.png",Sony Ten 1 HD Backup
+http://****.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg",Sony Ten 2 [Extra-1]
+http://****.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",SPORTmax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/CRYe7Gt.png",Star Sports Select 1 HD
+http://****.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/CRYe7Gt.png",Star Sports Select 2 HD
+http://****.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 group-title="Live Sport",TVRI SPORTS
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/ThPdqNU.png",Automoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/z9519hO.png",AD Sport 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/z9519hO.png",AD Sport 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/z9519hO.png",AD Sport 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/z9519hO.png",AD Sport 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/uRfHWQD.png",Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/07ET5Kr.png",Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/etcOOmJ.png",Eurosport 1 Bulgária
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/etcOOmJ.png",Eurosport 1 Espanha
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/etcOOmJ.png",Eurosport 2 Bulgária
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/etcOOmJ.png",Eurosport 2 Espanha
+http://91.126.39.98:8086/udp/224.168.32.4:3204
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/etcOOmJ.png",Eurosport 4K Rússia
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/C89ylSu.png",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/kmOToMr.png",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/QUPjygv.png",Golf Network
+http://203.162.235.41:16924
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/B5HFzRr.png",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/R14wlVq.png",Racing TV
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/DFgLA5O.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/DFgLA5O.png",Real Madrid TV English
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/itc2Moe.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/pjxBFZU.png",Teletrak TV
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/ugzuHrH.png",TV Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Sport 7
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Al Kass  Sport 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Al Kass Sport 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Al Kass  Sport 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Al Kass  Sport 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Al Kass  Sport 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",ALL  Sport HD
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",Bundesliga ch. 3
+https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
+#EXTINF:-1 group-title="Live Sport" tvg-logo="https://i.imgur.com/yNhG6ys.jpg",rm tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/6J57qAx.png",Arena Sport 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8?checkedby
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/6J57qAx.png",Arena Sport 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/6J57qAx.png",Arena Sport 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/6J57qAx.png",Arena Sport 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",FOX SPORTS 1
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28675?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg",FOX SPORTS 2
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg",FOX SPORTS 3
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/lh9L7F8.png",FOX Nashya Sport 1 ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/02.m3u8
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/lh9L7F8.png",FOX Nashya Sport 3 ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/02.m3u8
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/lh9L7F8.png",Bek Nashya Sport East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/lh9L7F8.png",Bek Nashya Sport West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Sportivo Live" tvg-logo="https://i.imgur.com/lh9L7F8.png",Most Video TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+
+
+
+####### VOD MOVIES ##########
+
+
+
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Runners (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-26-2020/The.Runners.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",TEKKEN (2010)
+https://bitball.b-cdn.net/movies/2020-07/07-26-2020/Tekken.2010.720p.BluRay.x264.AAC-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Fearless Hyena 2 (1983)
+https://bitball.b-cdn.net/movies/2020-07/07-20-2020/Fearless.Hyena.2.1983.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Outpost (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/The.Outpost.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Old Guard (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-12-2020/The.Old.Guard.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Greyhound (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Greyhound.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Disturbing the Peace (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Disturbing.The.Peace.2020.720p.WEBRip.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Spy Intervention (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Spy.Intervention.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Heavenquest: A Pilgrim’s Progress (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Heavenquest.A.Pilgrim\'s.Progress.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Final Kill (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Final.Kill.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Wishmas Tree (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/The.Wishmas.Tree.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Tanhaji: The Unsung Warrior (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Tanhaji.The.Unsung.Warrior.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Top Gunner (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-30-2020/Top.Gunner.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Punching and Stealing (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/Punching.And.Stealing.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Psy 3: W imi? zasad (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-26-2020/Psy.3.W.Imie.Zasad.2020.720p.BluRay.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Lost Bullet (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-26-2020/Lost.Bullet.2020.720p.WEBRip.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Fast and Fierce: Death Race (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/Fast.And.Fierce.Death.Race.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Devil’s Night: Dawn of the Nain Rouge (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/Devils.Night.Dawn.Of.The.Nain.Rouge.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Tainted (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-21-2020/Tainted.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Force of Nature (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-19-2020/Force.of.Nature.2020.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Da 5 Bloods (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-15-2020/Da.5.Bloods.2020.720p.NF.WEB-DL.x264.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Last Days of American Crime (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-10-2020/The.Last.Days.of.American.Crime.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Sniper: Assassin’s End (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-10-2020/Sniper.Assassins.End.2020.BluRay.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Becky (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-09-2020/Becky.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Ancestral World (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-07-2020/Ancestral.World.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Rev (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Rev.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Debt Collectors (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Debt.Collectors.2020.PROPER.720p.WEBRip.x264-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Code of Thieves (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Code.Of.Thieves.2020.720p.WEBRip.x264-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Survive the Night (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-25-2020/Survive.The.Night.2020.720p.WEBRip.x264-IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Malang (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-18-2020/Malang.2020.WEB-DL.480p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Dragon Soldiers (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-15-2020/Dragon.Soldiers.2020.WEB-DL.720p.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Legion (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-15-2020/The.Legion.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",'Walkaway Joe (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-13-2020/Walkaway.Joe.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Justice League Dark: Apokolips War (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-06-2020/Justice.League.Dark.Apokolips.War.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Suraya (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-05-2020/Suraya.2020.HD.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Agent Jade Black (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-04-2020/Agent.Jade.Black.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",A Perfect Plan (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-04-2020/A.Perfect.Plan.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Enter the Fat Dragon (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-03-2020/Enter.the.Fat.Dragon.2020.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Baaghi 3 (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-03-2020/Baaghi.3.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Enemy Lines (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Enemy.Lines.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Extraction (2020)
+https://bitball.se/movies/APRIL/04-26-2020/Extraction.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Earth and Blood (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Earth.and.Blood.2020.WEB-DL.480p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Scorpion’s Revenge (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Mortal.Kombat.Legends.Scorpions.Revenge.2020.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",My Spy (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-12-2020/My.Spy.2020.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Rhythm Section (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-10-2020/The.Rhythm.Section.2020.WEB-DL.480p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Underwater (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Underwater.2020.HDRip.720p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Bad Boys for Life (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Bad.Boys.for.Life.2020.HDRip.720p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Bloodshot (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Hunt (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-24-2020/The.Hunt.2020.WEBRip.x264-ION10.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Man Standing Next (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/The.Man.Standing.Next.2020.720p.HDRip.H264.AAC-NonDRM.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Hitman: Agent Jun (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-22-2020/Hitman.Agent.Jun.2020.1080p.FHDRip.H264.AAC-NonDRM.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Mr. Zoo: The Missing VIP (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-12-2020/Mr.Zoo.The.Missing.VIP.HDRip.720p.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",spenser confidential (2020)
+https://bitball.b-cdn.net/movies/03-01-2020/Spenser.Confidential.2020.WEBRip.x264-ION10.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Arena of the Street Fighter (2012)
+https://bitball.se/movies/APRIL/04-06-2020/Urban.Fighter.2012.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Sonic the Hedgehog (2020) 1080p TrueHD Atmos 5.1
+https://bitball.b-cdn.net/movies/2020-05/05-06-2020/Sonic%20The%20Hedgehog%202020%201080p%20BluRay%20x264%20DD5.1-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Birds of Prey (2020)
+https://bitball.b-cdn.net/movies/03-01-2020/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Superman: Red Son (2020)
+https://bitball.b-cdn.net/movies/03-01-2020/Superman.Red.Son.2020.WEB-DL.720p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Guns Akimbo (2019)
+https://bitball.b-cdn.net/movies/03-01-2020/Guns.Akimbo.2019.720p.WEB-HD.x264.850MB-Pahe.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",Dolittle (2020)
+https://bitball.b-cdn.net/movies/02-08-2020/Dolittle.2020.HDRip.x264-STUTTERSHIT.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ACTION",The Mercenary (2019)
+https://bitball.b-cdn.net/movies/01-18-2020/The.Mercenary.2019.720p.WEBRip.x264-%5BYTS.LT%5D.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Elvis from Outer Space (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Elvis.From.Outer.Space.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Nathan’s Kingdom (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-07-2020/Nathan\'s.Kingdom.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Timmy Failure: Mistakes Were Made (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Timmy.Failure.Mistakes.Were.Made.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Spy Intervention (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Spy.Intervention.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Heavenquest: A Pilgrim’s Progress (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Heavenquest.A.Pilgrim\'s.Progress.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+	
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",The Adventures of Açela (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Adventures.Of.Acela.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Wendy (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Wendy.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Agent Toby Barks (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Agent.Toby.Barks.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Gold Dust (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Gold.Dust.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",The Magic Kids: Three Unlikely Heroes (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/The.Magic.Kids.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",We Bare Bears: The Movie (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-14-2020/We.Bare.Bears.The.Movie.2020.WEB-DL.480p.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Artemis Fowl (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-15-2020/Artemis.Fowl.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Adventures of Rufus: The Fantastic Pet (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-30-2020/Adventures.Of.Rufus.The.Fantastic.Pet.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Chinese Ghost Story: Human Love (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-25-2020/Chinese.Ghost.Story.Human.Love.2020.720p.WEB-DL.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Scoob! (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-17-2020/Scoob.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",The Call of the Wild (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/The.Call.Of.The.Wild.2020.WEBRip.x264-ION10.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE ADVENTURE",Onward (2020)
+https://bitball.b-cdn.net/movies/03-03-2020/03-25-2020/Onward.2020.720p.WEB-DL.DD5.1.H264-FGT.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Maid (2020)
+https://bitball.b-cdn.net/movies/2020-08/08-02-2020/The.Maid.2020.720p.NF.WEB-DL.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Vibration (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Vibration.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Rental (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/The.Rental.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Murder Death Koreatown (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Murder.Death.Koreatown.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Don’t Let Them In (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Dont.Let.Them.In.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Amulet (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Amulet.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Spirits in the Dark (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-16-2020/Spirits.In.The.Dark.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Unsubscribe (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Unsubscribe.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Subferatu (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Subferatu.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Dead Voices (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Dead.Voices.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Fat Ass Zombies (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/American.Zombieland.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Relic (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-12-2020/Relic.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Choke (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Choke.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Bone Breaker (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Bone.Breaker.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Alien Outbreak (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Alien.Outbreak.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Don’t Speak (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Silent.Place.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",I Am Fear (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/I.Am.Fear.2020.720p.BluRay.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Clown Fear (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Clown.Fear.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Jonestown Haunting (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Jonestown.Haunting.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Haunting of Alcatraz (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Haunting.Of.Alcatraz.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Reawakened (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/Reawakened.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.pngg" group-title="VOD MOVIE HORROR",Possessor (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/Possessor.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Source of Shadows (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/The.Source.Of.Shadows.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Penance Lane (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Penance.Lane.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Dead by Dawn (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Dead.By.Dawn.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",An English Haunting (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/An.English.Haunting.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Hunter’s Moon (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Hunters.Moon.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Bulbbul (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Bulbbul.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Days of Violence (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-29-2020/Days.Of.Violence.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Clearing (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/The.Clearing.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",The Candy Witch (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/The.Candy.Witch.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Her Name Was Christa (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-25-2020/Her.Name.Was.Christa.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",A Nun’s Curse (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/A.Nuns.Curse.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE HORROR",Bhoot: Part One – The Haunted Ship (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-01-2020/Bhoot.Part.One.The.Haunted.Ship.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",X-TRA ABSURD (2020)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/X-tra.Absurd.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",The One
+http://srv36.nf21.net/files/15-2020-06-01-4435fb82d4a8747e71bffb2847fc8dcd.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Are We in Love? (2020)
+http://srv33.nf21.net/files/15-2020-05-30-1fe64e22cfd23e4c3c1a0cbb982b4c83.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Chinese Ghost Story 3: The Enchanting Phantom (2020)
+http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Reborn
+http://srv30.nf21.net/files/11-2018-12-25-8bbff1bc38c625aaf74804dbdfb73fe7.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Running Man
+http://srv32.nf21.net/files/15-2020-04-25-945da31d92d773f1ceea59cdc7549368.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Long Long Time Ago 2
+https://yi.jingdianzuida.com/20191030/02bdBfzl/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Scoob! (2020)
+http://srv32.nf21.net/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Skyscraper (2018)
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Mission Impossible: Fallout (2018)
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",The Meg (2018)
+http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Jurassic World: Fallen Kingdom (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Jumanji: Welcome To The Jungle (2017)
+http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Tomb Raider (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Runner
+https://bitball.b-cdn.net/movies/2020-08/08-02-2020/The.Maid.2020.720p.NF.WEB-DL.x264-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Dil Bechara (2020)
+https://bitball.b-cdn.net/movies/2020-08/08-01-2020/Dil.Bechara.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Turnt (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Turnt.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Theatre: A Love Story (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Theater.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Big Ugly (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/The.Big.Ugly.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Never Too Late (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-30-2020/Never.Too.Late.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Buffaloed (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-27-2020/Buffaloed.2019.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",First Cow (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-26-2020/First.Cow.2019.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Military Wives (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-23-2020/Military.Wives.2019.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Spirits in the Dark (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-16-2020/Spirits.In.The.Dark.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Measure for Measure (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-15-2020/Measure.For.Measure.2019.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Outpost (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/The.Outpost.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png"    group-title="VOD MOVIE DRAMA",Lady Driver (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Lady.Driver.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Open Season (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-13-2020/Jagdzeit.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Hamilton (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-06-2020/Hamilton.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",To the Beat! Back 2 School (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/To.The.Beat!.Back.2.School.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Windermere Children (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/The.Windermere.Children.2020.720p.BluRay.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Redemption (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Redemption.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Pemburu di Manchester Biru (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-05-2020/Pemburu.di.Manchester.Biru.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Dark Side of Opulent (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Dark.Side.Of.Opulent.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Aerialist (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/The.Aerialist.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",For the Love of Jessee (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-04-2020/For.The.Love.Of.Jessee.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Viena and the Fantomes (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Viena.And.The.Fantomes.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Roads Not Taken (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/The.Roads.Not.Taken.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Rich in Love (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Rich.In.Love.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Murder RX (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Murder.RX.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Finding Grace (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-03-2020/Finding.Grace.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",What Love Looks Like (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/What.Love.Looks.Like.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Photograph (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/The.Photograph.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Hater (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/The.Hater.2020.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Tanhaji: The Unsung Warrior (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Tanhaji.The.Unsung.Warrior.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Rising High (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Rising.High.2020.720p.NF.WEB-DL-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Misbehaviour (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Misbehaviour.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Becoming (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Becoming.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Arkansas (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/Arkansas.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",The Temptation of Christ (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-02-2020/40.The.Temptation.Of.Christ.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Nikah Yuk! (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Nikah.Yuk.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",TemanTapiMenikah 2 (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/TemanTapiMenikah.2.2020.1080p.NF.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Classic Again (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Classic.Again.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Chintu Ka Birthday (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Chintu.Ka.Birthday.2020.720p.BluRay.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",American Woman (2019)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/American.Woman.2019.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Adú (2020)
+https://bitball.b-cdn.net/movies/2020-07/07-01-2020/Adu.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+#EXTINF:-1,tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIE DRAMA",Nobody Knows I’m Here (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-29-2020/Nobody.Knows.Im.Here.2020.720p.WEBRip.x264.AAC-IDFL.info.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", BEGIN AGAIN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/11990/19084/2c9c55d7-93e9-4604-8f6c-c366e9b555ba/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", CLOUD ATLAS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/dd6cfe49-53c0-455f-bc4c-bd7e8b09c7e6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", IMAGINAERUM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d-3005cb4e04ec/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", PREDESTINATION
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="VOD MOVIES", A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", ESCAPE PLAN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e27947a8-4d65-4693-b485-903b69d674e4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", THE IMPOSSIBLE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/82ac8bc6-5179-4ceb-b9a2-06e0c360aad6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="VOD MOVIES", YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUNYI(2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || POCONG THE ORIGIN (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || PUSAKA (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROY KIYOSHI : THE UNTOLD STORY (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DANUR 3 : SUNYARURI (2019)
+https://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ROH FASIK (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || MATA BATIN 2 (2019)
+https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SEKTE (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || REVA : GUNA GUNA (2019)
+https://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RASUK (2018)
+https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BISISKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEMBANG KANTIL (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || JAGA POCONG (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BAYI GAIB (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SUZANNA : BURIED A LIVE (2018)
+https://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SESAT (2018)
+https://bitball.b-cdn.net/movies/indonesia/sesat.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BISIKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/indonesia/bisikaniblis.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ARWAH TUMBAL NYAI (2018)
+https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || GASING TENGKORAK (2017)
+https://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RUMAH MALAIKAT (2016)
+https://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KAKAK (2015)
+https://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DANAU HITAM (2014)
+https://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || MALL KLENDER (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || DRAKULA CINTA (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || SARANG HANTU JAKARTA (2014)
+https://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KAFAN SUNDEL BOLONG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || BANGKITNYA SISTER GEPENG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || RUMAH BEKAS KUBURAN (2012)
+https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || ADA APA DENGAN POCONG (2011)
+https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || POCONG JUGA POCONG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KEPELET KUNITLANAK (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || KALUNG JELANGKUNG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", INDONESIAN || 13 CARA MEMANGGIL SETAN (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Prodigy (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-29-2020/The.Prodigy.2019.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Riki-Oh: The Story of Ricky (1991)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Riki-Oh.The.Story.of.Ricky.1991.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Cold Prey II (2008)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Fritt.Vilt.2.2008.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", My Soul to Take (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Hannibal (2001)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Hannibal.2001.REMASTERED.720p.BluRay.x264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Dark (2018)
+https://bitball.se/movies/APRIL/04-26-2020/The.Dark.2018.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Polaroid (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/Polaroid.2019.720p.BluRay.x264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", A Girl Walks Home Alone at Night (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/A.Girl.Walks.Home.Alone.at.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Shallows (2016)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/The.Shallows.2016.720p.UHD.BluRay.x264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Killer Sofa (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Killer.Sofa.2019.BluRay.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Flatliners (1990)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Flatliners.1990.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Blade II (2002)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.II.2002.BluRay.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Blade (1998)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.1998.BluRay.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Perfection (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/The.Perfection.2018.480p.NF.WEB-DL.x264.300MB-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Zoo (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Den (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Salò -  or the 120 Days of Sodom (1975)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Poker Night (2014)
+https://bitball.se/movies/APRIL/04-22-2020/Poker.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Await Further Instructions (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Await.Further.Instructions.2018.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Us (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/us.2019.480p.bluray.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Funny Games (1997)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/Funny.Games.1997.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Another (2012)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/ANOTHER.2012.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", 12 Feet Deep (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/12.Feet.Deep.2017.720p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Ginger Snaps (2000)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Evil Angel (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Evil.Angel.2009.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Near Dark (1987)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Near.Dark.1987.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Mutant Girls Squad (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Mutant.Girls.Squad.2010.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Leprechaun Returns (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Leprechaun.Returns.2018.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Isabelle (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Isabelle.2019.480p.WEB-HD.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Tokyo Slaves (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tokyo.Slaves.2014.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Innocents (1961)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/The.Innocents.1961.REMASTERED.480p.BluRay.X264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Antichrist (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/Antichrist.2009.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Book of Monsters (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Silent House (2011)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Silent.House.2011.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Piranha (1978)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Piranha.1978.Remastered.720p.BluRay.x26.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Horns (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-08-2020/Horns.2013.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Inhuman Kiss (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-06-2020/Inhuman.Kiss.2019.480p.NF.WEB-DL.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Granny of the Dead (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-03-2020/Granny.of.the.Dead.2017.480p.WEB-HD.x264.300MB-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Vampire Hunter D: Bloodlust (2000)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/Vampire.Hunter.D.Bloodlust.2000.480p.BluRay.x264.300MB-Pahe.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Deception of the Novelist (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-02-2020/Deception.Of.The.Novelist.2019.720p.BluRay.X264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Satu Suro (2019)
+https://bitball.se/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", MatiAnak (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Makmum (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Makmum.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Sekte (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Sekte.2019.WEB-HD.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Reuni Z (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-16-2020/Reuni.Z.2018.720p.WEB-DL.AAC2.0.H.264-IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Tembang Lingsir (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tembang.Lingsir.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Reva: Guna Guna (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-12-2020/Reva.Guna.Guna.2019.WEBRip.720p.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Serpent and the Rainbow (1988)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Serpent.And.The.Rainbow.1988.REMASTERED.720p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Clinic (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Clinic.2010.480p.BluRay.x264.IDFL.info.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Munafik 2 (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
 
