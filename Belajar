@@ -92,8 +92,17 @@ https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQ6wnZ4/20200226-195113.png" group-title="FEED SPORTS",beIN Sports 2 
 https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 
-#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",MNC SPORTS
-http://dmtn.tv:8080/blUL4oaE2z/t36YzZ4SKk/160641?play_token=ndrY2KGfHd
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",BT SPORTS 1
+http://my.streamerstv.com:25461/qrew/111111/1679
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",BT SPORTS 2
+http://my.streamerstv.com:25461/qrew/111111/1680
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",BT SPORTS 3
+http://my.streamerstv.com:25461/qrew/111111/1681
+
+#EXTINF:-1 group-title="FEED SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",NBCSN (EPL)
+http://my.streamerstv.com:25461/qrew/111111/263
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTyYqr3/20200229-220844.png" group-title="FEED SPORTS",CHAMPIONS 1
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
