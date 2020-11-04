@@ -65,13 +65,13 @@ http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+https://cdnjt25.useetv.com/joss/15/useephoto/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Krcx9Rj/20200225-092828.png" group-title="INDONESIA",USee Prime
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_b894100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvM6h21/20200225-093255.png" group-title="INDONESIA",ID KU
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+https://cdnjt25.useetv.com/joss/15/idku/chunklist_b1344100_sleng_.m3u8
 
 
 #### FEED SPORTS #####
@@ -224,27 +224,8 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ1Nhvt/20200301-073246.png" group-title="FEED SPORTS",SKYNET SPORT HD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFT6Zvk/20200301-074912.png" group-title="FEED SPORTS",SKYNET SPORT 1
-https://www.livedoomovies.com/03_skynetsport1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrJ6ymB/20200301-075016.png" group-title="FEED SPORTS",SKYNET SPORT 2
-https://www.livedoomovies.com/03_skynetsport2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gzVDQw/20200301-075116.png" group-title="FEED SPORTS",SKYNET SPORT 3
-https://www.livedoomovies.com/03_skynetsport3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NS9PCkv/20200301-075201.png" group-title="FEED SPORTS",SKYNET SPORT 4
-https://www.livedoomovies.com/03_skynetsport4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/37gTZJv/20200301-075241.png" group-title="FEED SPORTS",SKYNET SPORT 5
-https://www.livedoomovies.com/03_skynetsport5_720p/chunklist.m3u8
-
-
-##### MOVIES PREMIUM #####
-
+######## MOVIES PREMIUM ##########
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX 
@@ -283,43 +264,43 @@ http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33258?play_token=TnH
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM", CINEMA WORLD
-http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
+https://cdnjt25.useetv.com/joss/14/cinemaworld/chunklist_b684100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+https://cdnjt25.useetv.com/joss/15/axn/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/index.m3u8
+https://cdnjt25.useetv.com/joss/14/blueant/chunklist_b684100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
-http://210.210.155.35/session/4cb2a5fa-73b6-11e9-be41-bd7db160af63/dr9445/h/h15/01.m3u8
+https://cdnjt25.useetv.com/joss/14/blueantextreme/chunklist_b684100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
-http://103.130.186.138:8800/oxygenplay/flik/index.m3u8
+https://cdnjt25.useetv.com/joss/15/flik/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
-http://103.130.186.138:8800/oxygenplay/imc/index.m3u8
+https://cdnjt25.useetv.com/joss/14/imc/chunklist_b684100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
-https://mkctvbos.my.id/mkcuse/tvn.m3u8
+https://cdnjt25.useetv.com/joss/15/tvn/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
-http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/4375
+https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
-http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+https://cdnjt25.useetv.com/joss/15/sone/chunklist_b894100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
-http://210.210.155.35/uq2663/h/h19/index.m3u8
+https://cdnjt25.useetv.com/joss/15/sgem/chunklist_b894100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
-http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
+https://cdnjt25.useetv.com/joss/14/celestialmovie/chunklist_b684100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
-http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/4
+https://cdnjt25.useetv.com/joss/14/thrill/chunklist_b684100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
-http://210.210.155.35/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
@@ -331,7 +312,7 @@ http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
-http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/332
+https://cdnjt25.useetv.com/joss/15/crimeinvestigation/chunklist_b894100_sleng_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
 https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
@@ -343,7 +324,7 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
-http://nonton.site:8888/SjJBHRmFtx/4u74oitxOY/7
+https://cdnjt25.useetv.com/joss/14/zbioskop/chunklist_b684100_sleng_.m3u8
 
 
 ############ GRUP HBO & FOX ##############$
@@ -1983,4 +1964,5 @@ https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Clinic.2010.480p.BluRay.x2
  
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Munafik 2 (2018)
 https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
+
 
