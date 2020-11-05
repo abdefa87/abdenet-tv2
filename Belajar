@@ -245,23 +245,21 @@ http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",RED & HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO (beckup)
-http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
-http://me.zichannels.my.id/ch/hbo.m3u8
+http://bit.ly/3k631fq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+http://bit.ly/366qeZD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+http://bit.ly/3kYZlwZ
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
-http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34800?play_token=AlFtFYOnO5&token=QhVcUhcJRggXU1BfUVQCA1ABBFIFVF1TVlYHVVFSAFlbB1YKXAIHCwBGGURBEkJRAFtpWgVEXlBRXAVRSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+http://bit.ly/32hbOox
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax ID
-http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33258?play_token=TnHKJ46sMk&token=QhVcUhcJRggXUlFXAl4IDFUOAgtRXgdTUAYDAl5XVQIOAwdQUQUCVAZGGURBEkJRAFtpWgVEXlBWVgBZSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBXDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+http://bit.ly/movies-cinemax
 
 
 
@@ -308,7 +306,7 @@ https://cdnjt25.useetv.com/joss/15/kix/chunklist_b1344100_sleng_.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNjKRk9/20200229-225258.png" group-title="ENTERTAINMENT",FX
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+http://bit.ly/2I2yT7l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
