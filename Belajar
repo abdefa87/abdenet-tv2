@@ -231,13 +231,13 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/894.m3u8?checkedby
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX 
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+http://185.39.11.97:8080/test-fa8a31/c23f/165080?play_token=f1qMnVYxAK&token=ShUNAEFcElxEWQRcWgFQUQcGDwkHB1YPUFdRAwZVVlsHDwRWUFcEVFYaGEZKTREDAFhpWAUVDwgABFNaB05DFkJSFz5bUBJcRAwAUwoPQUpDQV9cBBUPCAABUFcPW1FWAhtHEVtQElwITVgIFRsGHhVQRF8AW2pdU0cKAVJAWw1EWwlNEFteOQJdWQVXXUFcQwQUHUNeRkkUCw0XWw5NQVNeERNTQFVEXFZBCFUVQQUOQFhFE04XAxRjNkAbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1MTG0cMU0xvBQlWWgFaTQoJD0YUC0MGFxUUXAwMXhYOEW5HDAUQDl4TClRJ
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
-https://rebrand.ly/fFAM-62
+http://bit.ly/2I2wE3V
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
-https://rebrand.ly/fACT-62
+http://bit.ly/2TUsFcf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
