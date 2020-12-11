@@ -14,8 +14,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA",SCTV HD
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
-
+http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4d7d0b008c6972404cfbeadc511a3391a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
 http://62.210.127.9:25461/kSPRBSayMzFGS1Ys/zCabNyFwePhVrKpM/6764?play_token=mgwFKVSi4X&token=QhVcUhcJRggXUwFRAANSAFkDAgcFVVxSB1QAVldTAFAID1dVV1NUUVRGGURBEkJRAFtpWgVEXlVSUgFNRBcRBEtoXVdGW0YKAlENXwpEHBYVX1tWQ1xVVVVTAFhRV1FSFRVEWgBDXhAMUwBQEEoSURlCU0EPBwg8AQFDCAUHQFtXQlhfSEMLXGoAUAtTCFQWWxQHEU1EDRAVRg8PEw4OTRtVXUcWABBXF14XVwBXARZNFFVcFAgQERxGD0MvJkBNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQQRSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YCUANfEkk=
@@ -28,13 +27,13 @@ http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
-http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1d7d0b008c6972404cfbeadc511a3391a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE MPEG2
 https://mkctv.net/topcermkc/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV 
-http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28d7d0b008c6972404cfbeadc511a3391a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
 http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
