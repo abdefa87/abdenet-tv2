@@ -249,6 +249,28 @@ http://harber.xyz/stream/usee-thrill-milik-harberkuy.m3u8
 https://harber.xyz/stream/usee-vidio-zee-bioskop-milik-harberkuy.m3u8
 
 
+######################################### KOREA #################################
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="KOREA" tvg-logo="https://macan.network/img/kplus.png", K+
+https://delivery.zichannels.xyz/stream/kplus/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" group-title="KOREA" tvg-logo="https://macan.network/img/kbs_world.png", KBS World
+https://delivery.zichannels.xyz/stream/kbs_world/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="KOREA" tvg-logo="https://macan.network/img/arirang.png", Arirang
+https://delivery.zichannels.xyz/stream/arirang/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/18/1/10/imgbin-television-in-south-korea-korean-broadcasting-system-kbs-world-others-dk8rSnY94dPvxcchiXrEjt5Qt.jpg" group-title="KOREA",KBS WORLD
+https://delivery.zichannels.xyz/stream/kbs_world/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="KOREA" tvg-logo="https://macan.network/img/sonyone.png", Sony One
+https://delivery.zichannels.xyz/stream/sonyone/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="KOREA" tvg-logo="https://macan.network/img/tvn.png", tvN
+https://delivery.zichannels.xyz/stream/id_tvn/playlist.m3u8?token=evqgm&v=20200807
+
+
+
+
 ###### ANAK-ANAK #####
 
 
