@@ -156,7 +156,7 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
-######################################### USEE ENTERTAINMENT ########################
+######################################### MOVIE ########################
 
 #EXTINF:-1 tvg-id="FX.MACAN" tvg-name="FX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fx.png", FX
 https://delivery.zichannels.xyz/stream/id_fx/playlist.m3u8?token=evqgm&v=20200807
@@ -233,7 +233,7 @@ https://delivery.zichannels.xyz/stream/zeetv/playlist.m3u8?token=evqgm&v=2020080
 #EXTINF:-1 tvg-id="ZeeCinema.sg" tvg-name="ZeeCinema.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zeecinema.png", ZEE Cinema
 https://delivery.zichannels.xyz/stream/zeecinema/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-id="Zing.sg" tvg-name="Zing.sg" group-title="MOVIE ZI" tvg-logo="https://macan.network/img/zingtv.jpg", Zing
+#EXTINF:-1 tvg-id="Zing.sg" tvg-name="Zing.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zingtv.jpg", Zing
 https://delivery.zichannels.xyz/stream/zing/playlist.m3u8?token=evqgm&v=20200807
 
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/star_chinese_movies.png", Star Chinese Movies
@@ -341,7 +341,7 @@ https://delivery.zichannels.xyz/stream/zoomoo/playlist.m3u8?token=evqgm&v=202008
 #EXTINF:-1 tvg-id="besmart.MACAN" tvg-name="besmart.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/besmart.jpg", BeSmart
 https://delivery.zichannels.xyz/stream/besmart/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/african_broadcasting_network.jpg" group-title="KIDS ZI",3ABN KIDS ZI TV
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/african_broadcasting_network.jpg" group-title="KIDS",3ABN KIDS ZI TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/animax.png", Animax
