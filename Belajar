@@ -158,96 +158,108 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 ######################################### USEE ENTERTAINMENT ########################
 
-#EXTINF:-1  tvg-logo="https://zichannels.xyz/img/citra_drama.png" group-title="USEE ENTERTAINMENT",Citra Drama
-http://harber.xyz/stream/usee-cdrama-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FX.MACAN" tvg-name="FX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fx.png", FX
+https://delivery.zichannels.xyz/stream/id_fx/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://macan.network/img/dunialain.png" group-title="USEE ENTERTAINMENT",Dunia Lain
-http://harber.xyz/stream/usee-dunialain-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox.jpg", FOX
+https://delivery.zichannels.xyz/stream/id_fox/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="USEE ENTERTAINMENT",Animax
-http://harber.xyz/stream/usee-animax-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOXFamilyMoviesHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_family_movies.png", FOX Family Movies
+https://delivery.zichannels.xyz/stream/id_foxfamilymovies/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="USEE ENTERTAINMENT",TVN TV
-http://harber.xyz/stream/usee-tvn-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" tvg-name="FOXActionMoviesHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_action_movies.png", FOX Action Movies
+https://delivery.zichannels.xyz/stream/id_foxactionmovies/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="USEE ENTERTAINMENT",KBS World
-http://harber.xyz/stream/usee-kbsworld-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.MACAN" tvg-name="FOXCrime.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_crime.png", FOX Crime
+https://delivery.zichannels.xyz/stream/id_foxcrime/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="USEE ENTERTAINMENT",Blue Ant Entertainment
-http://harber.xyz/stream/usee-blueant-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-name="FoxLife.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_life.png", FOX Life
+https://delivery.zichannels.xyz/stream/id_foxlife/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="USEE ENTERTAINMENT",Blue Ant Extreme
-http://harber.xyz/stream/usee-blueantextreme-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="FOXMoviesPremiumHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_movies_premium.png", FOX Movies Premium
+https://delivery.zichannels.xyz/stream/id_foxmoviespremium/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="USEE ENTERTAINMENT",ABC Australia
-http://harber.xyz/stream/usee-abcaustralia-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo.png", HBO
+https://delivery.zichannels.xyz/stream/hbo/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="USEE ENTERTAINMENT",Chinese Drama
-http://harber.xyz/stream/usee-chinesedrama-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo_family.png", HBO Family
+https://delivery.zichannels.xyz/stream/hbo_family/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="USEE ENTERTAINMENT",Lifetime
-http://harber.xyz/stream/usee-lifetime-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo_hits.png", HBO Hits
+https://delivery.zichannels.xyz/stream/hbo_hits/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="USEE ENTERTAINMENT",History TV
-http://harber.xyz/stream/usee-history-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo_signature.png", HBO Signature
+https://delivery.zichannels.xyz/stream/hbo_signature/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="WakuWakuJapan.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="USEE ENTERTAINMENT",Waku Waku Japan
-http://harber.xyz/stream/usee-wakuwaku-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/cinemaxa.png", Cinemax by HBO
+https://delivery.zichannels.xyz/stream/cinemax/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="USEE ENTERTAINMENT",Warner TV
-http://harber.xyz/stream/usee-warner-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="RED.MACAN" tvg-name="RED.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/red_hbo.png", RED by HBO
+https://delivery.zichannels.xyz/stream/redhbo/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-x7xFtvyiszc/VwSRgKroVrI/AAAAAAAAdKE/3KIriwLqcusTN60EcJP8wu5mRubV2jddA/s1600/cctv-4-logo.png" group-title="USEE ENTERTAINMENT",CCTV 4
-http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXNHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/axn.png", AXN
+https://delivery.zichannels.xyz/stream/id_axn/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="USEE ENTERTAINMENT",K Plus
-http://harber.xyz/stream/usee-kplus-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITSMovies.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hits_movies.png", HITS Movies
+https://delivery.zichannels.xyz/stream/hits/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" group-title="USEE ENTERTAINMENT",Sony Gem TV
-http://harber.xyz/stream/usee-sgem-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hits.png", HITS
+https://delivery.zichannels.xyz/stream/hits_movies/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-kMloFMG0Mt4/Waquz5GL5xI/AAAAAAAAAGQ/TY1bdc6tx-IzDlcf_5gaSPwoHlIt9p4jgCLcBGAs/w1200-h630-p-k-no-nu/S-One-HD-Ch393.png" group-title="USEE ENTERTAINMENT",Sony One TV
-http://harber.xyz/stream/usee-sone-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/warnertv.png", Warner TV
+https://delivery.zichannels.xyz/stream/warnertv/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="USEE ENTERTAINMENT",TV 5 Monde Asia
-http://harber.xyz/stream/usee-tv5monde-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="CinemaWorld.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/cinemaworld.png", CinemaWorld
+https://delivery.zichannels.xyz/stream/cinemaworld/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zichannels.xyz/img/afc.png" group-title="USEE ENTERTAINMENT",Asian Food Channel
-http://harber.xyz/stream/usee-afc-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/kix.png", KIX
+https://delivery.zichannels.xyz/stream/kix/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="USEE ENTERTAINMENT",Fashion TV
-http://harber.xyz/stream/usee-fashiontv-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/cm.jpg", Celestial Movies
+https://delivery.zichannels.xyz/stream/cm/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/335-3354416_logo-fashion-one-tv-channel-logo-hd-png.png" group-title="USEE ENTERTAINMENT",Fashion One TV
-http://harber.xyz/stream/usee-fashionone-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/ccm.png", Celestial Classic Movies
+https://delivery.zichannels.xyz/stream/ccm/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="USEE ENTERTAINMENT",Eat & Go
-http://harber.xyz/stream/usee-eatgo-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/zeebioskop.png", ZEE Bioskop
+https://delivery.zichannels.xyz/stream/zeebioskop/playlist.m3u8?token=evqgm&v=20200807
 
-######################################### USEE MOVIE ########################
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/IMC-logo-color-250x140.png" group-title="USEE MOVIE",IMC TV
-http://harber.xyz/stream/usee-imc-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/zeebioskop.png", ZEE Bioskop
+https://delivery.zichannels.xyz/stream/zeebioskop/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="CelestialMovies.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="USEE MOVIE",Celestial Movie
-http://harber.xyz/stream/usee-celestialmovie-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.sg" tvg-name="ZeeTV.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zeetv.png", ZEE TV
+https://delivery.zichannels.xyz/stream/zeetv/playlist.m3u8?token=evqgm&v=20200807
 
-##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="USEE MOVIE",Cinema World
-http://harber.xyz/stream/usee-cinemaworld-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.sg" tvg-name="ZeeCinema.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zeecinema.png", ZEE Cinema
+https://delivery.zichannels.xyz/stream/zeecinema/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-name="BioskopIndonesia.id" tvg-logo="https://macan.network/img/bioskopindonesia.png" group-title="USEE MOVIE",Bioskop Indonesia
-http://harber.xyz/stream/usee-bioskopindonesia-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Zing.sg" tvg-name="Zing.sg" group-title="MOVIE ZI" tvg-logo="https://macan.network/img/zingtv.jpg", Zing
+https://delivery.zichannels.xyz/stream/zing/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://macan.network/img/flik.png" group-title="USEE MOVIE",FLIK 
-http://harber.xyz/stream/usee-flik-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/star_chinese_movies.png", Star Chinese Movies
+https://delivery.zichannels.xyz/stream/id_scm/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png" group-title="USEE MOVIE",T Galaxy TV
-http://harber.xyz/stream/usee-galaxy-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="MOVIE" tvg-logo="https://macan.network/img/flik.png", Flik
+https://delivery.zichannels.xyz/stream/flik/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="USEE MOVIE",Thrill TV
-http://harber.xyz/stream/usee-thrill-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/thrill.png", Thrill
+https://delivery.zichannels.xyz/stream/thrill/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="USEE MOVIE",Zee Bioskop
-https://harber.xyz/stream/usee-vidio-zee-bioskop-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn.png", tvN
+https://delivery.zichannels.xyz/stream/id_tvn/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TVNMovies.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn_movies.png", tvN Movies
+https://delivery.zichannels.xyz/stream/tvn_movies/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/imc.jpg", IMC
+https://delivery.zichannels.xyz/stream/imc/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/bioskopindonesia.png", Bioskop Indonesia
+https://delivery.zichannels.xyz/stream/bioskopindonesia/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/chinesedrama.png", Chinese Drama
+https://delivery.zichannels.xyz/stream/chinesedrama/playlist.m3u8?token=evqgm&v=20200807
+
 
 
 ######################################### KOREA #################################
@@ -275,71 +287,139 @@ https://delivery.zichannels.xyz/stream/id_tvn/playlist.m3u8?token=evqgm&v=202008
 ###### ANAK-ANAK #####
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS",Nickelodeon
-http://harber.xyz/stream/usee-nickelodeon-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="DisneyJunior.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneyjunior.png", Disney Junior (ENG)
+https://delivery.zichannels.xyz/stream/disneyjunior_en/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS",Baby First
-http://harber.xyz/stream/usee-babyfirst-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-name="DisneyJunior.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneyjunior.png", Disney Junior (IDN)
+https://delivery.zichannels.xyz/stream/disneyjunior_id/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="KIDS",Duck TV
-http://harber.xyz/stream/usee-ducktv-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="CartoonNetwork.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/cartoonnetwork.png", Cartoon Network (ENG)
+https://delivery.zichannels.xyz/stream/cartoonnetwork_en/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS",Horee TV
-http://harber.xyz/stream/usee-horee-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="CartoonNetwork.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/cartoonnetwork.png", Cartoon Network (IDN)
+https://delivery.zichannels.xyz/stream/cartoonnetwork_id/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS",Boomerang 
-http://harber.xyz/stream/usee-boomerang-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="DisneyChannel.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneychannel.png", Disney Channel (ENG)
+https://delivery.zichannels.xyz/stream/disneychannel_en/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS",Cartoon Network
-http://harber.xyz/stream/usee-cartoonnetwork-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="DisneyChannel.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneychannel.png", Disney Channel (IDN)
+https://delivery.zichannels.xyz/stream/disneychannel_id/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS",Dunia Anak
-http://harber.xyz/stream/usee-duniaanak-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/dreamworks.png", Dreamworks (IDN)
+https://delivery.zichannels.xyz/stream/dreamworks_id/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS",Nick Junior
-http://harber.xyz/stream/usee-nickjr-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/dreamworks.png", Dreamworks (ENG)
+https://delivery.zichannels.xyz/stream/dreamworks_en/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="KIDS",Davinci Learning
-http://harber.xyz/stream/usee-davinci-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Lingua.MACAN" tvg-name="Lingua.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/lingua.png", Lingua
+https://delivery.zichannels.xyz/stream/lingua/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="KIDS",Dreamworks TV
-http://harber.xyz/stream/usee-dreamworks-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="BabyTV.MACAN" tvg-name="BabyTV.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/babytv.png", BabyTV
+https://delivery.zichannels.xyz/stream/babytv/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="KIDS",Spacetoon Plus
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/03-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.MACAN" tvg-name="DisneyXD.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/disneyxd.png", Disney XD
+https://delivery.zichannels.xyz/stream/disneyxd/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",Aniplus
-http://harber.xyz/stream/usee-aniplus-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/nickelodeon.png", Nickelodeon
+https://delivery.zichannels.xyz/stream/nickelodeon/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.ucipliban.org/fr/wp-content/uploads/2018/07/sat7kids.jpg" group-title="KIDS",SA7 KIDS TV
-http://harber.xyz/stream/usee-aniplus-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="DuniaAnak.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/duniaanak.png", Dunia Anak
+https://delivery.zichannels.xyz/stream/duniaanak/playlist.m3u8?token=evqgm&v=20200807
 
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/dreamworks.png", Dreamworks
+https://delivery.zichannels.xyz/stream/dreamworks/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="NickelodeonJr.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/nickjr.png", Nick Jr
+https://delivery.zichannels.xyz/stream/nickjr/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/boomerang.png", Boomerang
+https://delivery.zichannels.xyz/stream/boomerang/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="ZooMoo TV" tvg-name="ZooMoo TV" group-title="KIDS" tvg-logo="https://macan.network/img/zoomoo.png", Zoomoo
+https://delivery.zichannels.xyz/stream/zoomoo/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="besmart.MACAN" tvg-name="besmart.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/besmart.jpg", BeSmart
+https://delivery.zichannels.xyz/stream/besmart/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/african_broadcasting_network.jpg" group-title="KIDS ZI",3ABN KIDS ZI TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/animax.png", Animax
+https://delivery.zichannels.xyz/stream/id_animax/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="horee.MACAN" tvg-name="horee.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/horee.png", Horee
+https://delivery.zichannels.xyz/stream/horee/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="Mykidz.MACAN" tvg-name="Mykidz.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/mykidz.jpg", My Kidz
+https://delivery.zichannels.xyz/stream/mykidz/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="DaVinci.MACAN" tvg-name="DaVinci.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/davinci.png", Da Vinci
+https://delivery.zichannels.xyz/stream/davinci/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="DuckTV.MACAN" tvg-name="DuckTV.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/ducktv.png", Duck TV
+https://delivery.zichannels.xyz/stream/ducktv/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="BabyFirst.MACAN" tvg-name="BabyFirst.MACAN" group-title="KIDS" tvg-logo="https://macan.network/img/babyfirst.jpg", BabyFirst
+https://delivery.zichannels.xyz/stream/babyfirst/playlist.m3u8?token=evqgm&v=20200807
 
 
 
 ##### KNOWLEDGE #####
 
 
-#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="USEE KNOWLEDGE",National Geographic
-http://harber.xyz/stream/usee-natgeo-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="AnimalPlanet.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/animalplanet.png", Animal Planet
+https://delivery.zichannels.xyz/stream/id_animalplanet/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="USEE KNOWLEDGE",National Geographic People
-https://harber.xyz/stream/usee-natgeopeople-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AsianFoodChannel.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/afc.png", AFC
+https://delivery.zichannels.xyz/stream/id_afc/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="USEE KNOWLEDGE",National Geographic Wild
-http://harber.xyz/stream/usee-natgeowild-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="BlueAntExtreme.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/blue_ant_extreme.png", Blue Ant Extreme
+https://delivery.zichannels.xyz/stream/blue_ant_extreme/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0  tvg-logo="https://www.crimeandinvestigation.de/fileadmin/user_upload/CI_Bild_OG_FB.jpg" group-title="USEE KNOWLEDGE",Crime Investigation
-http://harber.xyz/stream/usee-crimeinvestigation-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="BlueAntEntertainment.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/blue_ant_entertainment.png", Blue Ant Entertainment
+https://delivery.zichannels.xyz/stream/blue_ant_entertainment/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="USEE KNOWLEDGE",Lingua
-http://harber.xyz/stream/usee-lingua-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.MACAN" tvg-name="Bloomberg.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/bloomberg.png", Bloomberg
+https://delivery.zichannels.xyz/stream/id_bloomberg/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="USEE KNOWLEDGE",Discovery Channel
-http://harber.xyz/stream/usee-disco-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="DiscoveryChannel.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/discoverychannel.png", Discovery Channel
+https://delivery.zichannels.xyz/stream/id_discoverychannel/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/cgtn.png" group-title="USEE KNOWLEDGE",CGTN Documentary
-http://harber.xyz/stream/usee-cgtndocumentary-milik-harberkuy.m3u8
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/discoveryasia.png", Discovery Asia
+https://delivery.zichannels.xyz/stream/id_discoveryasia/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="HistoryChannel.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/history.png", History
+https://delivery.zichannels.xyz/stream/history/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="NationalGeographicPeople.MACAN" tvg-name="NationalGeographicPeople.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/natgeopeople.png", Nat Geo People
+https://delivery.zichannels.xyz/stream/id_netgeopeople/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="NationalGeographicWild.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/natgeowild.png", Nat Geo Wild
+https://delivery.zichannels.xyz/stream/id_natgeowild/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="NationalGeographicChannel.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/ngc.png", National Geographic
+https://delivery.zichannels.xyz/stream/id_ngc/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/tlc.png", TLC
+https://delivery.zichannels.xyz/stream/tlc/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/lifetime.png", Lifetime
+https://delivery.zichannels.xyz/stream/lifetime/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="CrimeInvestigation.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/crime_investigation.png", Crime Investigation
+https://delivery.zichannels.xyz/stream/crimeinvestigation/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LoveNature.uk" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/love_nature.png", Love Nature
+https://delivery.zichannels.xyz/stream/love_nature/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/hgtv.png", HGTV
+https://delivery.zichannels.xyz/stream/hgtv/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="WAKUWAKUJAPAN.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/wakuwaku.png", Waku Waku Japan
+https://delivery.zichannels.xyz/stream/wakuwaku/playlist.m3u8?token=evqgm&v=20200807
+
+#EXTINF:-1 tvg-id="NationalGeographicPeople.MACAN" tvg-name="NationalGeographicPeople.MACAN" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/natgeopeople.png", Nat Geo People
+https://delivery.zichannels.xyz/stream/id_netgeopeople/playlist.m3u8?token=evqgm&v=20200807
 
 ###### NASIONAL #######
 
