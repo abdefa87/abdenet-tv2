@@ -25,13 +25,13 @@ https://delivery.zichannels.xyz/stream/id_nettv/playlist.m3u8?token=evqgm&v=2020
 http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e390c30696a583597f195ea52f57b786e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
-https://delivery.zichannels.xyz/stream/id_trans7/playlist.m3u8?token=evqgm&v=20200807
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png"group-title="INDONESIA",TV ONE MPEG2
 https://delivery.zichannels.xyz/stream/id_tvone/playlist.m3u8?token=evqgm&v=20200807
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kmbfJv/20200225-090905.png" group-title="INDONESIA",TRANS TV 
-https://delivery.zichannels.xyz/stream/id_transtv/playlist.m3u8?token=evqgm&v=20200807
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Vk19B2/20200225-090727.png" group-title="INDONESIA",RTV
 https://delivery.zichannels.xyz/stream/id_rajawalitv/playlist.m3u8?token=evqgm&v=20200807
