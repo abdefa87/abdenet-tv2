@@ -139,6 +139,20 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",TrueSports 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Sports 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Sports 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Sports 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Astro Sports 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -157,131 +171,134 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 ######################################### MOVIE ########################
 
-#EXTINF:-1 tvg-id="FX.MACAN" tvg-name="FX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fx.png", FX
-https://delivery.zichannels.xyz/stream/id_fx/playlist.m3u8?token=evqgm&v=20200807
+##### MOVIES PREMIUM #####
 
-#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox.jpg", FOX
-https://delivery.zichannels.xyz/stream/id_fox/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD.MACAN" tvg-name="FOXFamilyMoviesHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_family_movies.png", FOX Family Movies
-https://delivery.zichannels.xyz/stream/id_foxfamilymovies/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgXJ0mq/20200225-093918.png" group-title="MOVIES PREMIUM",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
-#EXTINF:-1 tvg-id="FOXActionMoviesHD.MACAN" tvg-name="FOXActionMoviesHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_action_movies.png", FOX Action Movies
-https://delivery.zichannels.xyz/stream/id_foxactionmovies/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
-#EXTINF:-1 tvg-id="FOXCrime.MACAN" tvg-name="FOXCrime.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_crime.png", FOX Crime
-https://delivery.zichannels.xyz/stream/id_foxcrime/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gSym10/20200225-105057.png" group-title="MOVIES PREMIUM",FOX ACTION MOVIES
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 
-#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-name="FoxLife.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_life.png", FOX Life
-https://delivery.zichannels.xyz/stream/id_foxlife/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d70dvQj/20200225-094043.png" group-title="MOVIES PREMIUM",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
-#EXTINF:-1 tvg-id="FOXMoviesPremiumHD.MACAN" tvg-name="FOXMoviesPremiumHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/fox_movies_premium.png", FOX Movies Premium
-https://delivery.zichannels.xyz/stream/id_foxmoviespremium/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MCFZzXV/20200225-105308.png" group-title="MOVIES PREMIUM",HBO
+http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34793?play_token=4rbbwFQFxF&token=HhVYAkpZQF8XUlMJAARdBQtSUAAGXAVYVgNbW1VRDwUEBAZWAABSAAATThtFQ0pVUlk6X1QaWVJRBQFWG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVAdXVhsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo.png", HBO
-https://delivery.zichannels.xyz/stream/hbo/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCWRSB0/20200229-225725.png" group-title="MOVIES PREMIUM",HBO HITS
+http://62.4.22.68:25461/X97VCfMw8S/21gNEt858S/34804?play_token=4pCoKuRdVg&token=HhVYAkpZQF8XCQQPBVQJAwZRXQJTDlUAVFAMB1NWA1ZVDwZWCVVaAAUTThtFQ0pVUlk6X1QaWVJRCglbG0dDEgBFbwpdE1hHAAVVDQEGGhwRQAxbVRpZUFAKAVoBVA9UURsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d/YUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
 
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo_family.png", HBO Family
-https://delivery.zichannels.xyz/stream/hbo_family/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo_hits.png", HBO Hits
-https://delivery.zichannels.xyz/stream/hbo_hits/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186
 
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hbo_signature.png", HBO Signature
-https://delivery.zichannels.xyz/stream/hbo_signature/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvMstNH/20200225-105943.png" group-title="MOVIES PREMIUM",Cinemax
+http://vpssg.iptv.my.id:19408/session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/cinemax.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/cinemaxa.png", Cinemax by HBO
-https://delivery.zichannels.xyz/stream/cinemax/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="MOVIES PREMIUM",Zee Bioskop
+http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 
-#EXTINF:-1 tvg-id="RED.MACAN" tvg-name="RED.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/red_hbo.png", RED by HBO
-https://delivery.zichannels.xyz/stream/redhbo/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1YCtyf/20200225-110532.png" group-title="MOVIES PREMIUM",Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8?
 
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXNHD.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/axn.png", AXN
-https://delivery.zichannels.xyz/stream/id_axn/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6BwQJ0/20200225-105647.png" group-title="MOVIES PREMIUM",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
-#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITSMovies.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hits_movies.png", HITS Movies
-https://delivery.zichannels.xyz/stream/hits/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png"," group-title="MOVIES PREMIUM",Zee Bioskop
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/hits.png", HITS
-https://delivery.zichannels.xyz/stream/hits_movies/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1,tvg-logo="https://i.ibb.co/ScxnDVX/20200225-105516.png" group-title="MOVIES PREMIUM",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/warnertv.png", Warner TV
-https://delivery.zichannels.xyz/stream/warnertv/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TYvVnV7/20200225-112416.png" group-title="MOVIES PREMIUM",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="CinemaWorld.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/cinemaworld.png", CinemaWorld
-https://delivery.zichannels.xyz/stream/cinemaworld/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/kix.png", KIX
-https://delivery.zichannels.xyz/stream/kix/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/cm.jpg", Celestial Movies
-https://delivery.zichannels.xyz/stream/cm/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/ccm.png", Celestial Classic Movies
-https://delivery.zichannels.xyz/stream/ccm/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/zeebioskop.png", ZEE Bioskop
-https://delivery.zichannels.xyz/stream/zeebioskop/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="Zee.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/zeebioskop.png", ZEE Bioskop
-https://delivery.zichannels.xyz/stream/zeebioskop/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="ZeeTV.sg" tvg-name="ZeeTV.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zeetv.png", ZEE TV
-https://delivery.zichannels.xyz/stream/zeetv/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="ZeeCinema.sg" tvg-name="ZeeCinema.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zeecinema.png", ZEE Cinema
-https://delivery.zichannels.xyz/stream/zeecinema/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Zing.sg" tvg-name="Zing.sg" group-title="MOVIE" tvg-logo="https://macan.network/img/zingtv.jpg", Zing
-https://delivery.zichannels.xyz/stream/zing/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/star_chinese_movies.png", Star Chinese Movies
-https://delivery.zichannels.xyz/stream/id_scm/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="MOVIE" tvg-logo="https://macan.network/img/flik.png", Flik
-https://delivery.zichannels.xyz/stream/flik/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/thrill.png", Thrill
-https://delivery.zichannels.xyz/stream/thrill/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn.png", tvN
-https://delivery.zichannels.xyz/stream/id_tvn/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TVNMovies.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn_movies.png", tvN Movies
-https://delivery.zichannels.xyz/stream/tvn_movies/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/imc.jpg", IMC
-https://delivery.zichannels.xyz/stream/imc/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/bioskopindonesia.png", Bioskop Indonesia
-https://delivery.zichannels.xyz/stream/bioskopindonesia/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="MOVIE" tvg-logo="https://macan.network/img/chinesedrama.png", Chinese Drama
-https://delivery.zichannels.xyz/stream/chinesedrama/playlist.m3u8?token=evqgm&v=20200807
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="MOVIES PREMIUM",AXN
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/axn.m3u8
 
 
 
-######################################### KOREA #################################
-#EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="KOREA" tvg-logo="https://macan.network/img/kplus.png", K+
-https://delivery.zichannels.xyz/stream/kplus/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" group-title="KOREA" tvg-logo="https://macan.network/img/kbs_world.png", KBS World
-https://delivery.zichannels.xyz/stream/kbs_world/playlist.m3u8?token=evqgm&v=20200807
 
-#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="KOREA" tvg-logo="https://macan.network/img/arirang.png", Arirang
-https://delivery.zichannels.xyz/stream/arirang/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/18/1/10/imgbin-television-in-south-korea-korean-broadcasting-system-kbs-world-others-dk8rSnY94dPvxcchiXrEjt5Qt.jpg" group-title="KOREA",KBS WORLD
-https://delivery.zichannels.xyz/stream/kbs_world/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="KOREA" tvg-logo="https://macan.network/img/sonyone.png", Sony One
-https://delivery.zichannels.xyz/stream/sonyone/playlist.m3u8?token=evqgm&v=20200807
-
-#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="KOREA" tvg-logo="https://macan.network/img/tvn.png", tvN
-https://delivery.zichannels.xyz/stream/id_tvn/playlist.m3u8?token=evqgm&v=20200807
+######################################### ENTERTAINMENT #################################
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/56BFd51/20200229-224915.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4QRL5m/20200229-225114.png" group-title="ENTERTAINMENT",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz4WjCC/20200229-230229.png" group-title="ENTERTAINMENT",Flik
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXTyFV/20200229-230107.png" group-title="ENTERTAINMENT",IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w302021241_b684100_sleng_80933.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqyTTSj/20200225-111253.png" group-title="ENTERTAINMENT",TvN
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/tvn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1PDxbv/20200225-111928.png" group-title="ENTERTAINMENT",TVN MOVIES
+http://streamku.live:8888/live/edijkt69/3d1jkt69/539.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4QM02b/20200225-112554.png" group-title="ENTERTAINMENT",Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzMKfgV/20200225-112721.png" group-title="ENTERTAINMENT",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgDGt4p/20200225-112044.png" group-title="ENTERTAINMENT",My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVJTVY1/20200229-225455.png" group-title="ENTERTAINMENT",Celestial Movies 
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxZ20mx/20200229-225602.png" group-title="ENTERTAINMENT",Thrill
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1J3c6Zz/20200225-111111.png" group-title="ENTERTAINMENT",KIX
+http://210.210.155.66/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6szLsN/20200225-110911.png" group-title="ENTERTAINMENT",AXN
+http://streamku.live:8888/live/edijkt69/3d1jkt69/855.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNjKRk9/20200229-225258.png" group-title="ENTERTAINMENT",FX
+http://iptv.lancar.tech:25461/iptvok/lancar/59
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7rqzJm/20200225-112228.png" group-title="ENTERTAINMENT",WARNER TV
+http://vpssg.iptv.my.id:19408/session/zalindo-lebaran/useetv/warnertv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NL0YQS/20200225-104926.png" group-title="ENTERTAINMENT",CRIME INVESTIGATION
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ftZfDCR/20200225-094411.png" group-title="ENTERTAINMENT",FOX CRIME
+http://vpsus.iptv.my.id:19410/live/iptvdakocan/dakocaniptv/10.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GksSPcd/20200303-064210.png" group-title="ENTERTAINMENT",CCM
+http://streamku.live:8888/live/edijkt69/3d1jkt69/682.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="ENTERTAINMENT",HITS
+http://210.210.155.66/h/h37/index2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="ENTERTAINMENT",HITS MOVIES
+http://streamku.live:8888/live/edijkt69/3d1jkt69/575.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SxTD2z1/20200229-230823.png" group-title="ENTERTAINMENT",MY CINEMA
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFh92sb/20200225-110751.png" group-title="ENTERTAINMENT",ZEE BIOSKOP 
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 
 ###### ANAK-ANAK #####
 
