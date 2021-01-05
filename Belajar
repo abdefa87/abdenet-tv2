@@ -22,7 +22,7 @@ http://nonton.wap.sh/id/002.m3u8
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA",GTV 
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNXKfjF/20200225-090137.png" group-title="INDONESIA",TRANS 7 
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -37,7 +37,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://62.210.127.9:25461/xPQ7Xg9w215jdrAg/1TBmgNKh2J4cyWQM/28745?play_token=IT4PXU3bTn&token=QhVcUhcJRggXAlYEUAcAVVkHB1YFAlNQVFFQUlFWUlcNB1VXU1UBVgZGGURBEkJRAFtpWgVEXlFdUwFUSkAXElxFa1oAQ14QBFQCUAtRBxZNFEJaDANGWVRSBVZeU1dVAAIYERQIABAPRgBUA14SGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXFwTXFhNFFVcFAgQERxGD0MvJkBNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQURSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YAVANSEkk=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA",INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
@@ -55,13 +55,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hV5sgj0/20200225-093410.png" group-title="INDONESIA",JTV SURABAYA
-https://delivery.zichannels.xyz/stream/id_jtv/playlist.m3u8?token=evqgm&v=20200807
+http://202.80.222.175:80/000001/2/ch00000090990000001731/1003.m3u8?IASHttpSessionId=OTT2909201912131553552215851&ztecid=ch00000090990000001731&bandwidth=1413530&ispcode=1&timeformat=local&channel=ch00000090990000001731&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTQvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA",KOMPAS TV 
-https://delivery.zichannels.xyz/stream/id_kompastv/playlist.m3u8?token=evqgm&v=20200807
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA",BERITA SATU
-https://delivery.zichannels.xyz/stream/id_beritasatu/playlist.m3u8?token=evqgm&v=20200807
+http://nonton.wap.sh/id/015.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMf5zxc/20200225-092956.png" group-title="INDONESIA",USee Photo
 https://cdnjt25.useetv.com/joss/15/useephoto/chunklist_b1344100_sleng_.m3u8
